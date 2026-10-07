@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>${MACOSX_FRAMEWORK_NAME}</string>
+    <key>CFBundleIdentifier</key>
+    <string>${MACOSX_FRAMEWORK_IDENTIFIER}</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>${MACOSX_FRAMEWORK_BUNDLE_NAME}</string>
+    <key>CFBundlePackageType</key>
+    <string>FMWK</string>
+    <key>CFBundleShortVersionString</key>
+    <string>${MACOSX_FRAMEWORK_SHORT_VERSION_STRING}</string>
+    <key>CFBundleVersion</key>
+    <string>${MACOSX_FRAMEWORK_BUNDLE_VERSION}</string>
+    <key>CFBundleSupportedPlatforms</key>
+    <array>
+        <string>${OTTER_CAD_SUPPORTED_PLATFORM}</string>
+    </array>
+    <key>DTPlatformName</key>
+    <string>${OTTER_CAD_PLATFORM_NAME}</string>
+    <key>DTPlatformVersion</key>
+    <string>${OTTER_CAD_PLATFORM_VERSION}</string>
+    <key>DTPlatformBuild</key>
+    <string>${OTTER_CAD_PLATFORM_BUILD}</string>
+    <key>DTSDKName</key>
+    <string>${OTTER_CAD_SDK_NAME}</string>
+    <key>DTSDKBuild</key>
+    <string>${OTTER_CAD_SDK_BUILD}</string>
+    <key>DTXcode</key>
+    <string>${OTTER_CAD_XCODE_ACTUAL}</string>
+    <key>DTXcodeBuild</key>
+    <string>${OTTER_CAD_XCODE_BUILD}</string>
+    <key>DTCompiler</key>
+    <string>${OTTER_CAD_COMPILER}</string>
+    <key>BuildMachineOSBuild</key>
+    <string>${OTTER_CAD_OS_BUILD}</string>
+    ${OTTER_CAD_MINIMUM_OS_ENTRY}
+    ${OTTER_CAD_DEVICE_FAMILY_ENTRY}
+</dict>
+</plist>

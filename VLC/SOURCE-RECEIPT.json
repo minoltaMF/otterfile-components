@@ -1,0 +1,108 @@
+{
+  "status": "OPEN",
+  "audited_utc": "2026-10-07T12:05:30.358Z",
+  "pod_version": "3.7.3",
+  "podspec": {
+    "url": "https://raw.githubusercontent.com/CocoaPods/Specs/master/Specs/b/f/7/MobileVLCKit/3.7.3/MobileVLCKit.podspec.json",
+    "sha256": "2e6877ee42d5d12bb86bdc28e9a2341cf3c77e2fd0a73bb1805cef3d7b6541cf",
+    "binary_url": "https://download.videolan.org/pub/cocoapods/prod/MobileVLCKit-3.7.3-319ed2c0-79128878.tar.xz",
+    "binary_archive_sha256": "0d04059906962ddc9a7bd1ebaa12e1f9ae85eb2466116a97a2f46886dd27a0a9",
+    "binary_archive_bytes_from_official_index": 263874748
+  },
+  "source_candidates": {
+    "wrapper": {
+      "commit": "319ed2c0724e3d4c4d34889a62fef1ae269491bc",
+      "tree": "e5ae8d66fd33ca6a56ecdf90784223d80a0f779d",
+      "url": "https://github.com/videolan/vlckit/tree/319ed2c0724e3d4c4d34889a62fef1ae269491bc",
+      "archive_url": "https://codeload.github.com/videolan/vlckit/tar.gz/319ed2c0724e3d4c4d34889a62fef1ae269491bc"
+    },
+    "libvlc_base": {
+      "commit": "79128878ddb2c280bbb6c89c76a46b31a80ade1c",
+      "tree": "a123485f744417f271c38e8ca594b679a7c68f9f",
+      "url": "https://github.com/videolan/vlc/tree/79128878ddb2c280bbb6c89c76a46b31a80ade1c",
+      "archive_url": "https://codeload.github.com/videolan/vlc/tar.gz/79128878ddb2c280bbb6c89c76a46b31a80ade1c"
+    }
+  },
+  "exact_wrapper_build_metadata": {
+    "url": "https://raw.githubusercontent.com/videolan/vlckit/319ed2c0724e3d4c4d34889a62fef1ae269491bc/buildMobileVLCKit.sh",
+    "sha256": "0aeab1b5397c6baace78d0dfe25f10106081bde09079e5bf0f9119f0789e49c5",
+    "libvlc_base_testedhash_matches": true,
+    "applies_wrapper_libvlc_patches": true,
+    "default_scary_codecs_enabled": true,
+    "contrib_disables_gpl_and_gnuv3": true,
+    "actual_production_build_options_verified": false
+  },
+  "header_declared_libvlc_version": "3.0.17",
+  "binary_strings_version_candidates": [
+    "3.0.23-2-47-g3f8bd11fd0",
+    "3.0.23"
+  ],
+  "strings_are_not_runtime_invocation": true,
+  "runtime_slices": [
+    {
+      "variant": "device",
+      "package_path": "MobileVLCKit.xcframework/ios-arm64_armv7_armv7s/MobileVLCKit.framework/MobileVLCKit",
+      "bytes": 97897888,
+      "sha256": "86186f43ec1cf3d74bb84ae11e4eeda4a3a4aa1f1fcfd0c255ca0adc0fa954e3",
+      "uuids": [
+        {
+          "architecture": "armv7",
+          "uuid": "4A0686E6-17EC-37BD-9985-96621A2CE345"
+        },
+        {
+          "architecture": "armv7s",
+          "uuid": "D774BE23-1105-39C8-BF09-36DDCDF090F5"
+        },
+        {
+          "architecture": "arm64",
+          "uuid": "99DC0B74-A3D1-3ED3-AC1F-2B8FC6A452A3"
+        }
+      ]
+    },
+    {
+      "variant": "simulator",
+      "package_path": "MobileVLCKit.xcframework/ios-arm64_i386_x86_64-simulator/MobileVLCKit.framework/MobileVLCKit",
+      "bytes": 126015168,
+      "sha256": "eb44ce79a0fc86e544c1b0db92a5c49d2af55786706d9dbf0e1383c7a7f262be",
+      "uuids": [
+        {
+          "architecture": "x86_64",
+          "uuid": "52F56C42-F128-3B69-A885-1D430795238C"
+        },
+        {
+          "architecture": "i386",
+          "uuid": "9F19F0F4-13B3-314C-8B3F-64B05471BD02"
+        },
+        {
+          "architecture": "arm64",
+          "uuid": "55B435AA-9233-36BD-97CF-B5CE9A09DBDE"
+        }
+      ]
+    }
+  ],
+  "runtime_archive_redownloaded": false,
+  "source_archives_downloaded": false,
+  "complete_corresponding_source_verified": false,
+  "embedded_contrib_graph_verified": false,
+  "final_app_archive_binding_verified": false,
+  "open_items": [
+    "Obtain exact wrapper, base, patches and embedded contrib source/license/build closure",
+    "Verify production configure/build/link options and final App runtime identity",
+    "Provide and validate applicable end-user replacement/relink material and public source access",
+    "Verify final patched source identity and actual generated production contrib/module/link closure",
+    "Verify final patched source identity and actual generated production contrib/module/link closure"
+  ],
+  "version_disagreement_explained": true,
+  "version_explanation": {
+    "classification": "upstream_fixed_header_lags_libvlc_base",
+    "packaged_header_exact_upstream_match": true,
+    "xcode_uses_fixed_Header_file": true,
+    "header_version": "3.0.17",
+    "base_configure_version": "3.0.23",
+    "runtime_strings_base_version_match": true,
+    "generated_changeset_final_commit_identity_still_open": true
+  },
+  "patch_series_exact_text_verified": true,
+  "patch_series_count": 47,
+  "closure_plan": "VLC/CLOSURE-PLAN.json"
+}

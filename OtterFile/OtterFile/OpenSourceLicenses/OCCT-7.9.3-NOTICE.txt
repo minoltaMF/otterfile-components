@@ -1,0 +1,85 @@
+OtterCADKernel uses Open CASCADE Technology (OCCT) 7.9.3.
+Copyright (c) Open CASCADE SAS and the copyright holders named in individual source files.
+Upstream: https://github.com/Open-Cascade-SAS/OCCT
+Exact upstream commit: a016080bf6738d6aeae020badee4e888ad1540a5
+
+OCCT is provided under GNU Lesser General Public License version 2.1,
+with the additional Open CASCADE exception (version 1.0). Complete texts
+are included alongside this notice. No upstream source files are patched.
+
+The OtterFile selection builds the geometry STEPControl/IGESControl readers
+and meshing toolkits. It excludes CAF metadata readers and DE provider
+wrappers; see SOURCE.json and SOURCE-MANIFEST.json for the exact selection.
+
+The selected STEP parser also includes FlexLexer.h. Its notice follows:
+
+Copyright (c) 1993 The Regents of the University of California.
+All rights reserved.
+
+This code is derived from software contributed to Berkeley by
+Kent Williams and Tom Epperly.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+Neither the name of the University nor the names of its contributors
+may be used to endorse or promote products derived from this software
+without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.
+
+The selected StepFile/step.tab.cxx and step.tab.hxx are GNU Bison 3.7.4
+generated parser output. Their original skeleton notice is retained in
+the exact sources and reproduced here:
+
+Copyright (C) 2002-2015, 2018-2020 Free Software Foundation, Inc.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+As a special exception, you may create a larger work that contains
+part or all of the Bison parser skeleton and distribute that work
+under terms of your choice, so long as that work isn't itself a
+parser generator using the skeleton or a modified version thereof
+as a parser skeleton. Alternatively, if you modify or redistribute
+the parser skeleton itself, you may (at your option) remove this
+special exception, which will cause the skeleton and the resulting
+Bison output files to be licensed under the GNU General Public
+License without this special exception.
+
+This special exception was added by the Free Software Foundation in
+version 2.2 of Bison.
+
+OtterCADKernel is a geometry reader using generated parser output,
+not a parser generator. This does not replace final licensing review.
+
+This notice does not by itself satisfy all binary-distribution obligations.
+Before distribution, provide corresponding source, build scripts and any
+required relinking materials under the applicable license terms. The dynamic
+framework must remain a separately identified library. App Store distribution
+requirements and final licensing review remain separate release gates.
+
+CMake is a build-only tool, not an App runtime dependency. The project-local
+CMake 3.31.10 wheel is from scikit-build's PyPI distribution: its wrapper uses
+Apache-2.0 and the contained CMake uses BSD-3-Clause. It is kept in ignored
+build artifacts and is not included in the App or versioned vendor sources.

@@ -1,0 +1,9 @@
+/.artifacts/
+/.build/
+/.swiftpm/
+/.DS_Store
+*.xcframework/
+*.app/
+*.ipa
+*.dSYM/
+*.xcresult/

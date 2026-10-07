@@ -1,0 +1,5 @@
+framework module OtterCADKernel {
+    umbrella header "OtterCADKernel.h"
+    export *
+    module * { export * }
+}

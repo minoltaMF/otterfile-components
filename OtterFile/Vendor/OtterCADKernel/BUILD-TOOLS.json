@@ -1,0 +1,19 @@
+{
+  "cmake_version": "3.31.10",
+  "distribution": "scikit-build cmake python distribution; extract binary without pip installation",
+  "source": "https://pypi.org/project/cmake/3.31.10/",
+  "artifact_url": "https://files.pythonhosted.org/packages/99/3b/6ed408a99709808df4014bead522e075f0e8d1100e6d886eb5bc30fee04e/cmake-3.31.10-py3-none-macosx_10_10_universal2.whl",
+  "artifact_bytes": 48001731,
+  "artifact_sha256": "ad697643a00d9ba85179590a383c4f7401169b55ebf4b8b2938daf28c6bdeb6d",
+  "extracted_cmake_cli_sha256": "93f2fdbb4a671796a4660f51b1838e8a93ee903f8d345355440ce538fe187e0e",
+  "licenses": ["Apache-2.0 wrapper", "BSD-3-Clause CMake"],
+  "build_dependencies": ["Xcode AppleClang", "Xcode SDKs", "system Unix Make", "system unzip", "system curl", "Python 3 for source verification"],
+  "install_scope": ".artifacts/cad-kernel-20261006/tools",
+  "global_install": false,
+  "python_environment_mutation": false,
+  "shipping_runtime": false,
+  "first_trial_download_bytes": 96612438,
+  "download_budget_bytes": 157286400,
+  "trial_disk_budget_bytes": 4294967296,
+  "max_jobs": 4
+}
