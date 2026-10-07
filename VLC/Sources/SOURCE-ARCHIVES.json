@@ -1,0 +1,68 @@
+{
+  "status": "LOCAL_EXACT_SOURCE_ARCHIVES_VERIFIED_PUBLICATION_PENDING",
+  "sourceOfferComplete": false,
+  "productionContribGraphVerified": false,
+  "endUserRelinkOrReplacementValidated": false,
+  "retrievedUTC": "2026-10-07T12:35:25.187Z",
+  "archives": [
+    {
+      "name": "vlckit",
+      "archive": "vlckit-319ed2c0724e3d4c4d34889a62fef1ae269491bc.tar.gz",
+      "officialSourceURL": "https://codeload.github.com/videolan/vlckit/tar.gz/319ed2c0724e3d4c4d34889a62fef1ae269491bc",
+      "commit": "319ed2c0724e3d4c4d34889a62fef1ae269491bc",
+      "gitTree": "e5ae8d66fd33ca6a56ecdf90784223d80a0f779d",
+      "archiveBytes": 1607164,
+      "archiveSHA256": "96717d00e81eba197c29136175c88ff40c15daecdc609e05466ac28ed0f55690",
+      "allowedMemberRoot": "vlckit-319ed2c0724e3d4c4d34889a62fef1ae269491bc",
+      "allowedMemberTypes": [
+        "regular_file",
+        "directory",
+        "symbolic_link"
+      ],
+      "regularFiles": 680,
+      "directories": 105,
+      "regularFileBytes": 6442061,
+      "symbolicLinks": [
+        {
+          "path": "documentation.html",
+          "originalTarget": "doc/html/index.html",
+          "normalizedTargetWithinArchiveRoot": "doc/html/index.html",
+          "insideSourceRoot": true,
+          "followedOrMaterialized": false,
+          "targetMemberPresentInArchive": true
+        }
+      ],
+      "absolutePaths": false,
+      "parentTraversalPaths": false,
+      "hardLinksOrSpecialFiles": false,
+      "regularFilesManifest": "vlckit-FILE-MANIFEST.json"
+    },
+    {
+      "name": "vlc",
+      "archive": "vlc-79128878ddb2c280bbb6c89c76a46b31a80ade1c.tar.gz",
+      "officialSourceURL": "https://codeload.github.com/videolan/vlc/tar.gz/79128878ddb2c280bbb6c89c76a46b31a80ade1c",
+      "commit": "79128878ddb2c280bbb6c89c76a46b31a80ade1c",
+      "gitTree": "a123485f744417f271c38e8ca594b679a7c68f9f",
+      "archiveBytes": 32830546,
+      "archiveSHA256": "f6d93944a1d12213d31ee6c027b8a85c95b1f6f81f69d61dbf54d3076752db44",
+      "allowedMemberRoot": "vlc-79128878ddb2c280bbb6c89c76a46b31a80ade1c",
+      "allowedMemberTypes": [
+        "regular_file",
+        "directory",
+        "symbolic_link"
+      ],
+      "regularFiles": 4443,
+      "directories": 489,
+      "regularFileBytes": 133204395,
+      "symbolicLinks": [],
+      "absolutePaths": false,
+      "parentTraversalPaths": false,
+      "hardLinksOrSpecialFiles": false,
+      "regularFilesManifest": "vlc-FILE-MANIFEST.json"
+    }
+  ],
+  "appBusinessSourceIncluded": false,
+  "upstreamExamplesPreservedWithOriginalTerms": true,
+  "upstreamBuildScriptsExecuted": false,
+  "contribSourceArchivesDownloaded": false
+}

@@ -1,0 +1,9 @@
+# Exact VLC source archive evidence
+
+This is reviewed provenance metadata for two official exact-commit source archives. It does not contain OtterFile App business implementation. Original upstream source and examples remain under their own terms; no new blanket license is assigned.
+
+The original wrapper archive contains all 47 ordered patches. Both complete archive Git trees were reconstructed and matched their exact commits; every extracted regular source file and archive member also matched the file manifests. The wrapper documentation shortcut is relative and remains inside its own source root. Its original target `doc/html/index.html` is present in the archive as a 2,843-byte regular file and was independently extracted and hash-verified. The link itself was not followed or materialized; the original archive retains that member unchanged.
+
+`SOURCE-ARCHIVES.json` records the original archive names, official source URLs, SHA256, exact commits, Git trees, member bounds and link details. `GIT-TREES.json` records the independent tree check. `PATCH-AND-BINARY.json` records all 47 patch identities and full-context in-memory application, original license identities, and local arm64 entry-symbol evidence from the official library package. The two file manifests list only original upstream-relative regular source paths. No machine paths, credentials, helpers or build products are included in this metadata.
+
+The source archive files are prepared for separate owner-approved public Release assets, not Git download caches. Local preparation does not claim that the assets have been uploaded. Source-offer completion, actual production contrib/module/link receipts, each linked dependency source/license, final signed-App library binding and applicable end-user relink/replacement material remain OPEN. The presence of entry symbols or the default build recipe does not close those gates. Upstream build scripts and executables have not been run.

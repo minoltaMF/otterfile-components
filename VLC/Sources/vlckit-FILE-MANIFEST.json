@@ -1,0 +1,3402 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 294,
+    "sha256": "4228fd3f930f69ebb8d6eb4c41735b2e5b50206b3a844ca198bcaf4608c72f66"
+  },
+  {
+    "path": ".gitlab-ci.yml",
+    "bytes": 4062,
+    "sha256": "08ff972a054038d393423ba143115743abcec20b3b7b4360ab28819383fa703c"
+  },
+  {
+    "path": ".mailmap",
+    "bytes": 676,
+    "sha256": "3b442bc9a1dce9cd0398895e26bc018b6c95601c2709b8e235f7c0cf87f3ee1a"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "bytes": 1509,
+    "sha256": "b26a6622aff6fec31a0473c26f97d73c7ff22ff4579d0465b9f3ea11ee61ba3d"
+  },
+  {
+    "path": "COPYING",
+    "bytes": 26530,
+    "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player.xcodeproj/project.pbxproj",
+    "bytes": 24314,
+    "sha256": "50b719e01114b991355166e731fcc59cf3c6a056b908ac34eb1aac4f29302678"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player.xcworkspace/contents.xcworkspacedata",
+    "bytes": 243,
+    "sha256": "a7dc741ad08faa40fe3822fcddf77602ff7f8c4cf4baba362554c804cd2c6600"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player.xcworkspace/xcshareddata/Dropin-Player.xcscmblueprint",
+    "bytes": 1650,
+    "sha256": "e5bd33b4e292a335408fa83ac0ae89b4eaa4d20e14507b172dad134c7db1a241"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/Default-568h@2x.png",
+    "bytes": 18594,
+    "sha256": "cff22ecf70a2ac5432c55cc83711992c766ce8c7a42613b4f1771bdb8393cb1e"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/Default.png",
+    "bytes": 6540,
+    "sha256": "d6ea0fdda5e3dfd3bd95005c59f87a55071e4d09136468742c658d154289e93b"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/Default@2x.png",
+    "bytes": 16107,
+    "sha256": "16b8609bcc9ae242bf945fa6f748916dfffa89d94c71ff538e05f1eeb7ec5007"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/Dropin-Player-Info.plist",
+    "bytes": 1232,
+    "sha256": "513a4fe0654a598d466c7e66e05c991c955ee33a11b919e10b56fb7e5b34af54"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/Dropin-Player-Prefix.pch",
+    "bytes": 1487,
+    "sha256": "225a865dae17f360d03f2fd53fda0f1b85943798b11f568415d89c5418f4e88d"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/VDLAppDelegate.h",
+    "bytes": 1676,
+    "sha256": "7941abc6367dd63bdb67c3f4240151dc78b2bc2fdcf7fe6964c6c74a5dcc217f"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/VDLAppDelegate.m",
+    "bytes": 4801,
+    "sha256": "5e9409b3c567d40e89a083cb872d5429ac800633fa6c0a0dfe5b8ff264d7e9f6"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/VDLPlaybackViewController.h",
+    "bytes": 2946,
+    "sha256": "090d3ae8c4419532ca4ca0f2f2c7ef6c2dc8bddc8b33b87d391fcc185df07de0"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/VDLPlaybackViewController.m",
+    "bytes": 13470,
+    "sha256": "dcbafad7cdf539ec3db12f98ce99ae57e797e43b97a45f82a585266f826df32e"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/en.lproj/InfoPlist.strings",
+    "bytes": 45,
+    "sha256": "feb5e820d68ed31f871d2bdaf8d14935ed343a7a875ddd774d5556da8dfd951a"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/en.lproj/VDLPlaybackViewController.xib",
+    "bytes": 34012,
+    "sha256": "ee60666dc15393f28efc497b448f2178b6eb8f075dfc7ad75c0da201f9f0ec44"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/Dropin-Player/main.m",
+    "bytes": 1603,
+    "sha256": "00508c71df94fc435249f799aa23fb03036e0fe8db607af981ab60dbe35a7cc2"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/VDLMainViewController.h",
+    "bytes": 278,
+    "sha256": "3da7820a5d4317c582a640cb9dfdfbbcafdc7953b4e6f8886d723032f1b68c21"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/VDLMainViewController.m",
+    "bytes": 1023,
+    "sha256": "523356c809b25ada0a49371c86bcf5cb2005b2fcd797d4b5373c4eab673da926"
+  },
+  {
+    "path": "Examples/iOS/DropIn-Player/VDLMainViewController.xib",
+    "bytes": 2272,
+    "sha256": "703a2402fa9c7fd3fb9d22b2d3ea32d970ef21cc7d27fae1acc7fe9df414c71b"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials.xcodeproj/project.pbxproj",
+    "bytes": 40617,
+    "sha256": "7aa0308e21dcb4aee1416d3e3120dc788295ddf57881eddf951bd93d2b3f2ab6"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials.xcworkspace/contents.xcworkspacedata",
+    "bytes": 242,
+    "sha256": "892854bb7f658c40766555cb811a79ef79cba680fd8965a82a25a83441afff28"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials.xcworkspace/xcshareddata/Dropin-Player.xcscmblueprint",
+    "bytes": 1650,
+    "sha256": "e5bd33b4e292a335408fa83ac0ae89b4eaa4d20e14507b172dad134c7db1a241"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials.xcworkspace/xcshareddata/GLEssentials.xcscmblueprint",
+    "bytes": 1657,
+    "sha256": "ef456edc19fd4cb83f403dda0904ae58d10b5397964d0956b30a943d9a6a97c6"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/Assets/demon.model",
+    "bytes": 460340,
+    "sha256": "02db86bd41413bb09881c5a02c110cf6aa0eabd0f5c0dcd959f052280db942e1"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/Assets/demon.png",
+    "bytes": 440717,
+    "sha256": "a19af66130c47e124499829474da7622d46826d8729ab561a6c3bb4990c48d2e"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/OSX/Base.lproj/Main.storyboard",
+    "bytes": 57843,
+    "sha256": "39d566e876debadf6573b031000d46d8dc068061bd3ad90158008469ca746a7b"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/OSX/Images.xcassets/AppIcon.appiconset/Contents.json",
+    "bytes": 903,
+    "sha256": "884db26f7c9de0dd3e0542d616ba109636a804283b72dc2939a4c572a640d51a"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/OSX/Info.plist",
+    "bytes": 992,
+    "sha256": "d11027668f9409125ff4add6201175f61d6256c7fd16a1b7962a383934ba7350"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/Shaders/character.fsh",
+    "bytes": 3339,
+    "sha256": "dd2f44227b2bf5ef8a3d677c75a561cbc84b7c8b6ab35d353ed1dbefd6e7990a"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/Shaders/character.vsh",
+    "bytes": 3507,
+    "sha256": "2d1e96610dfa7e66aaffa0e9806abcf8c7e9d6445e79548966bb0d8011babf97"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/Shaders/reflect.fsh",
+    "bytes": 4542,
+    "sha256": "38fb3cd61e441b96b1a52f6c69825dd513a5769c84cab514e40efa6db3a7db51"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/Shaders/reflect.vsh",
+    "bytes": 3702,
+    "sha256": "0c451d44789c595f5928644b253529d6d18dc4d5dfaed3bfbe2d6d738b0d2484"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/iOS/Base.lproj/LaunchScreen.xib",
+    "bytes": 3814,
+    "sha256": "f4f73ca02a68cd467bb1ab0143029d6b722aa1ff774432a39897a58b8e918f4c"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/iOS/Base.lproj/Main.storyboard",
+    "bytes": 4192,
+    "sha256": "1a38995491edc36e518849981367c55b3023303dc8a9da1936a0b8a49e819655"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/iOS/Images.xcassets/AppIcon.appiconset/Contents.json",
+    "bytes": 1077,
+    "sha256": "4d01550b98d59b29cb234605dfd80c3e51882c11e3543316c34c4fc491b251ee"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Data/iOS/info.plist",
+    "bytes": 1508,
+    "sha256": "0f3a532682631b28aabcb1c82eeabf393407d609a20d913a88e5f77a2a7bb61a"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/OSX/AppDelegate.h",
+    "bytes": 250,
+    "sha256": "bd9776462e27252895584197063a2148d52c86f9efdbe0b87b845e810e967937"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/OSX/AppDelegate.m",
+    "bytes": 505,
+    "sha256": "caa32cd7ff16ea62341e8cae62e43ad05c4f0057777413c03d5795f4b3d53437"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/OSX/GLEssentialsFullscreenWindow.h",
+    "bytes": 597,
+    "sha256": "d3c1c9d0e1bd6a4b351715f18babd7d78b9f5bb6cbc392b469458d16784da2da"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/OSX/GLEssentialsFullscreenWindow.m",
+    "bytes": 1545,
+    "sha256": "c4fd67ca36e1b97a281e221a47448cfbd1940463c2a1466491f21ac8f89d4465"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/OSX/GLEssentialsGLView.h",
+    "bytes": 349,
+    "sha256": "34de570024c9da91426ae82368113967387d9ca05ec738148da0ee75af6ff36d"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/OSX/GLEssentialsGLView.m",
+    "bytes": 7868,
+    "sha256": "39da7da751a197cebf70da156ebcffcac6a3be1a55ecebcbd179d194d796e2ab"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/OSX/GLEssentialsWindowController.h",
+    "bytes": 285,
+    "sha256": "8677d12e47c4f26e6c5b286b343c87c8404e3c0c3e21ba4ecd5648d80f7f0607"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/OSX/GLEssentialsWindowController.m",
+    "bytes": 3020,
+    "sha256": "49c2e06b820fe6776c279f22a56d869e0e0d12dedd389465a721919d4b662f52"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/OpenGLRenderer.h",
+    "bytes": 531,
+    "sha256": "bd126b3a5cf548147eecc5c67e23b0e79bbb16b04e7e263cf47538832685e0d3"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/OpenGLRenderer.m",
+    "bytes": 34236,
+    "sha256": "1cf70d253f1ace760ffdbed3861dd71f513a461d47cad407e7b5097794c8adbf"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/iOS/AppDelegate.h",
+    "bytes": 347,
+    "sha256": "2024ee5d0016584d39ef9ecbbc6c7f876edaafa464f92ff313099cf00e077a59"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/iOS/AppDelegate.m",
+    "bytes": 2995,
+    "sha256": "fe7f018bfbdd45f8eff4e9f36e8cf2133bb8858a67c6920729f8be6e6fc58027"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/iOS/EAGLView.h",
+    "bytes": 761,
+    "sha256": "e1265811aa4478285b7f011ad241b0e5b01a3494951dcbc2ab64c15c977c917a"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/iOS/EAGLView.m",
+    "bytes": 3399,
+    "sha256": "b63baef96f48b1636f1a6020fe741e4b3695b96f72174394fae2e1cba2d7114c"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/iOS/ES2Renderer.h",
+    "bytes": 490,
+    "sha256": "f5b02f2e73920e2991604089720857b7d8fb72dac2ee5d1934bd4cebf6f23432"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/iOS/ES2Renderer.m",
+    "bytes": 4235,
+    "sha256": "a366a7fbe8c0a0a1b66ae5a1622e5f13c2a703199ad205e8a586dc561a45d572"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/iOS/ViewController.h",
+    "bytes": 345,
+    "sha256": "c99f46fbfabd524c5a75dbc555fa4842689b7fc39c10e4d3351c13c56fc11d57"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Classes/iOS/ViewController.m",
+    "bytes": 1428,
+    "sha256": "2f90b6270284bae7830ade53602593b475e955d8ff993ef24b9f3be5b1957618"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Readme.md",
+    "bytes": 1890,
+    "sha256": "1bdbd256b1b505d8eb660dbe9a336cf8011355d0b591168d389a9787828a01c0"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/glUtil.h",
+    "bytes": 2929,
+    "sha256": "a723830dad7f7a5056c63c70c74027ee3b7d257165b87aa8322bc1bc400c8343"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/imageUtil.h",
+    "bytes": 560,
+    "sha256": "f2cfeafd362c386c431210146c671b5e6084a5706bd8e1ffdfa7bc910ae1cb34"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/imageUtil.m",
+    "bytes": 1795,
+    "sha256": "4b62fe1f25185f8c4826090e64e23c8184f23b70637796297a721cd9662eed6e"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/matrixUtil.c",
+    "bytes": 20894,
+    "sha256": "925f9a5e4d3e88a02cc8ab2a3d1a1143dbb5cc80692ae17a70e2ffb637ca8201"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/matrixUtil.h",
+    "bytes": 3313,
+    "sha256": "c0dfc0b271f7b38ba8f0260b2ab8d5347550f204be4f230972b8f7e688693542"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/modelUtil.c",
+    "bytes": 8175,
+    "sha256": "3eb643edab8c9f1bfaf2cfcba0a3f7878b52b0879e14b511bbc7a275fc730d38"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/modelUtil.h",
+    "bytes": 969,
+    "sha256": "b3c55e659bc76de45d3f44489993e3b55eb317c856c94c899645bcc53340c2d3"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/sourceUtil.c",
+    "bytes": 1439,
+    "sha256": "76fc152db97168a5c032690c28dab26d99a32c42bbcb2b798a35e7673c47e0fe"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/sourceUtil.h",
+    "bytes": 512,
+    "sha256": "77596e36f0a0d7d180a3a2e2e3e7c5338de8203cad3a31429d01fb8210a753ea"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/vectorUtil.c",
+    "bytes": 2623,
+    "sha256": "476d9b70dcdfbd4f1c2b25583640558d12c606986afea3521d367c852188fd89"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/Utility/vectorUtil.h",
+    "bytes": 1977,
+    "sha256": "9bae662befb1332cd421ffef25db30bfaf797030c36d06b02098cb57118997f7"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/GLEssentials/Source/main.m",
+    "bytes": 520,
+    "sha256": "60fea126bd1b3f828fb5b1e73a8febffc239cc291b7fd5c8343b98dadbe03260"
+  },
+  {
+    "path": "Examples/iOS/GLEssentials/LICENSE.txt",
+    "bytes": 2365,
+    "sha256": "1d2ce8bc7bd33b5817307de0d5e9a1bfa530d0ee5630c3e2228d1ca562a849d9"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback.xcodeproj/project.pbxproj",
+    "bytes": 21434,
+    "sha256": "03d7d8fcf2cdc0faa95fc428ca3ce2ae2e18bb291498517f7af131e19e9fddb6"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/Default-568h@2x.png",
+    "bytes": 18594,
+    "sha256": "cff22ecf70a2ac5432c55cc83711992c766ce8c7a42613b4f1771bdb8393cb1e"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/Default.png",
+    "bytes": 6540,
+    "sha256": "d6ea0fdda5e3dfd3bd95005c59f87a55071e4d09136468742c658d154289e93b"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/Default@2x.png",
+    "bytes": 16107,
+    "sha256": "16b8609bcc9ae242bf945fa6f748916dfffa89d94c71ff538e05f1eeb7ec5007"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/SimplePlayback-Info.plist",
+    "bytes": 1243,
+    "sha256": "8507cf1cfacf35e747c26c050f8d9ddd19c1e60804bb92617783a508e6d11eb8"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/SimplePlayback-Prefix.pch",
+    "bytes": 1487,
+    "sha256": "225a865dae17f360d03f2fd53fda0f1b85943798b11f568415d89c5418f4e88d"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/VDLAppDelegate.h",
+    "bytes": 1627,
+    "sha256": "9edc912130caa99ee94051e8c2ef89da59a71f44138dcabaf5c5e8a69f3f7995"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/VDLAppDelegate.m",
+    "bytes": 3572,
+    "sha256": "3a41c18520aeddf1f0bad83d7ddc27b76003a8a8fa34d79eaf1067d743e86320"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/VDLViewController.h",
+    "bytes": 1566,
+    "sha256": "f50d48e0d0cb289739032cc86e91a3fd1fdbf835ee217e1f591fd5afb29b6823"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/VDLViewController.m",
+    "bytes": 2291,
+    "sha256": "11e8b46d0da5981de67fb6bfba41c9c0a369e71c55257b4e774cd790a888a50e"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/en.lproj/InfoPlist.strings",
+    "bytes": 45,
+    "sha256": "feb5e820d68ed31f871d2bdaf8d14935ed343a7a875ddd774d5556da8dfd951a"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/en.lproj/VDLViewController.xib",
+    "bytes": 17317,
+    "sha256": "d8de12b029e84af594623d9ca96361f17ff9868b13eef6240254433a351fa798"
+  },
+  {
+    "path": "Examples/iOS/SimplePlayback/SimplePlayback/main.m",
+    "bytes": 1603,
+    "sha256": "00508c71df94fc435249f799aa23fb03036e0fe8db607af981ab60dbe35a7cc2"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/Podfile",
+    "bytes": 98,
+    "sha256": "faac50e036880f26c1d6f4fcef5183c5ff62e5d862b81a9fb4b506f8428301f8"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/Podfile.lock",
+    "bytes": 289,
+    "sha256": "8e19cb8e3698e9dd911e8451255504b7b2ea85c4d40f7dc72d19e0fb2fa1c502"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback.xcodeproj/project.pbxproj",
+    "bytes": 17954,
+    "sha256": "0ca59170705ab49ea18c79f45681a2651c392e7a6419e430032e3c35a61eb261"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback.xcworkspace/contents.xcworkspacedata",
+    "bytes": 237,
+    "sha256": "517cc91d8f52b2de0394601aee3cf86756cf989342fc3da37f8046c1273d1460"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "bytes": 238,
+    "sha256": "dfa0f9bb85b95ccba9c6811adadf8cb407fb5d52088e89db83ebc308ec448542"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Resources/Assets.xcassets/AppIcon.appiconset/Contents.json",
+    "bytes": 1590,
+    "sha256": "6d2789aa71ac42a5c775306b46c45609c9a627da135ec468f519544c509ffa19"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Resources/Assets.xcassets/Contents.json",
+    "bytes": 62,
+    "sha256": "972ec1fd42325872438eb085ac29e94f51c10788ec18ec5549439950866c541d"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Resources/Assets.xcassets/LaunchImage.launchimage/Contents.json",
+    "bytes": 739,
+    "sha256": "16c56783a793fea0666d850a723ba98d3d33e5e476b78dd791d46dbf55b02f1f"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Resources/Info.plist",
+    "bytes": 1352,
+    "sha256": "3cbb319c478f731585c10b0dcf6088d018a6cc232541eb17b088adeb385e8543"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Resources/Storyboards/Base.lproj/Home.storyboard",
+    "bytes": 4623,
+    "sha256": "2e823e0dfb0cc45c30f62ac5cabdf90ab250bf2e91508f85ef4f886a29dd493e"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Resources/Storyboards/Base.lproj/LaunchScreen.storyboard",
+    "bytes": 1658,
+    "sha256": "7054069b011b0083fdc17e814480e232639b6b5cc25330bb8afde4a53b8cb592"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Resources/Storyboards/Playback.storyboard",
+    "bytes": 4375,
+    "sha256": "35c3ce5f983635ac14f839f4598739049b89b47e78d54c1b0daa742e445111a6"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Resources/SwiftSimplePlayback-Bridging-Header.h",
+    "bytes": 575,
+    "sha256": "f3b81b44ad68556e000da0f00fc0f01731a9feecc2f18413638932e52e8cbaaf"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Sources/AppDelegate.swift",
+    "bytes": 734,
+    "sha256": "46ad78689f4204eee689b7576639711df1f29432809c56d7a7c9b4372735a298"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Sources/HomeViewController.swift",
+    "bytes": 501,
+    "sha256": "1ac8d0158e4b4fb57b31b9b10fa2cbd168794d443139d77f563d016d308b2c69"
+  },
+  {
+    "path": "Examples/iOS/SwiftSimplePlayback/SwiftSimplePlayback/Sources/PlaybackViewController.swift",
+    "bytes": 1530,
+    "sha256": "ba405ab2d3295805a6538df2d3291dad3934737664a60a708139389e715a04d3"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser.xcodeproj/project.pbxproj",
+    "bytes": 17170,
+    "sha256": "2e9ad8316f064886dee0619cbb809e4326e8a667a9a71cbd08aa2017b17f13b4"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser.xcworkspace/contents.xcworkspacedata",
+    "bytes": 244,
+    "sha256": "1e52c02af52061e108daf89c97cb7a42297a80937986d8e04760a634c67635ff"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser.xcworkspace/xcshareddata/VLCMetadataParser.xcscmblueprint",
+    "bytes": 1672,
+    "sha256": "2435b9ad117ef00a267868336e2bc5a4d20dba59de17b632eb06b8e25f930dab"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser.xcworkspace/xcshareddata/VLCThumbnailer.xcscmblueprint",
+    "bytes": 1663,
+    "sha256": "e4e2b967f8b586a9a904c4ef7c3818b4f04013a6ab104b1b3552d0ebd4645a6f"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser/AppDelegate.h",
+    "bytes": 1548,
+    "sha256": "d8497f81f592f6c49e274cf6653b073ad2ccfbc25c472a92ce2bde33c85c2b46"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser/AppDelegate.m",
+    "bytes": 3302,
+    "sha256": "73e531ab8534b7a72f237ae4f3b72fca69c47deff1ce50c96240b0991fce8e98"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser/Assets.xcassets/AppIcon.appiconset/Contents.json",
+    "bytes": 585,
+    "sha256": "4d6fc464ff5d99ef4711ca329c8054e959cea188a0dc6106c8d4cd779e9077b0"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser/Base.lproj/LaunchScreen.storyboard",
+    "bytes": 1664,
+    "sha256": "cdb8bd575d24462e7aecb5382f55645da75e675a958c90e061778bdacd9daa5a"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser/Base.lproj/Main.storyboard",
+    "bytes": 1575,
+    "sha256": "d75504b229bce9f7e9588d697347766c55b6bc522c434a964a5209430674559f"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser/Info.plist",
+    "bytes": 1205,
+    "sha256": "aaaab5d6729b86cde4d2ec473b1e726da49fbac4a92e9be51a0a26f506835cfc"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser/ViewController.h",
+    "bytes": 1483,
+    "sha256": "c774cadbdaf8ff8debd5f2149d38adc2ab8f7f1d6bfd6110da0a0822a3f76986"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser/ViewController.m",
+    "bytes": 8091,
+    "sha256": "b518e2e3a8a28e5a1379a08b76d1f825970e862653dc2a844772fd4f6baa958e"
+  },
+  {
+    "path": "Examples/iOS/VLCMetadataParser/VLCMetadataParser/main.m",
+    "bytes": 1612,
+    "sha256": "df7b3b839f930e1ebd25e01484951b4003f25e0fc92a1fcc2d37847655a08033"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer.xcodeproj/project.pbxproj",
+    "bytes": 16428,
+    "sha256": "373752783bd00864ab7bd81021e17bb763329f1597981a8ba771168336f64fec"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer.xcworkspace/contents.xcworkspacedata",
+    "bytes": 241,
+    "sha256": "14d5e660660c11d0772b725a75f10904f588b8792a06e99f4018aff75e90a620"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer.xcworkspace/xcshareddata/VLCThumbnailer.xcscmblueprint",
+    "bytes": 1663,
+    "sha256": "e4e2b967f8b586a9a904c4ef7c3818b4f04013a6ab104b1b3552d0ebd4645a6f"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer/AppDelegate.h",
+    "bytes": 1548,
+    "sha256": "d8497f81f592f6c49e274cf6653b073ad2ccfbc25c472a92ce2bde33c85c2b46"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer/AppDelegate.m",
+    "bytes": 3302,
+    "sha256": "73e531ab8534b7a72f237ae4f3b72fca69c47deff1ce50c96240b0991fce8e98"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer/Assets.xcassets/AppIcon.appiconset/Contents.json",
+    "bytes": 585,
+    "sha256": "4d6fc464ff5d99ef4711ca329c8054e959cea188a0dc6106c8d4cd779e9077b0"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer/Base.lproj/LaunchScreen.storyboard",
+    "bytes": 1664,
+    "sha256": "cdb8bd575d24462e7aecb5382f55645da75e675a958c90e061778bdacd9daa5a"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer/Base.lproj/Main.storyboard",
+    "bytes": 1575,
+    "sha256": "d75504b229bce9f7e9588d697347766c55b6bc522c434a964a5209430674559f"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer/Info.plist",
+    "bytes": 1205,
+    "sha256": "aaaab5d6729b86cde4d2ec473b1e726da49fbac4a92e9be51a0a26f506835cfc"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer/ViewController.h",
+    "bytes": 1483,
+    "sha256": "c774cadbdaf8ff8debd5f2149d38adc2ab8f7f1d6bfd6110da0a0822a3f76986"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer/ViewController.m",
+    "bytes": 3384,
+    "sha256": "e2e431d4dc853065a328aba75fe911cda394a9b75970ca6c532ad75c2249b837"
+  },
+  {
+    "path": "Examples/iOS/VLCThumbnailer/VLCThumbnailer/main.m",
+    "bytes": 1612,
+    "sha256": "df7b3b839f930e1ebd25e01484951b4003f25e0fc92a1fcc2d37847655a08033"
+  },
+  {
+    "path": "Examples/macOS/BasicPlayerWithPlaylist/BasicPlayerWithPlaylist.xcodeproj/project.pbxproj",
+    "bytes": 13449,
+    "sha256": "9e06716cd713b2c578d3b872928d02d920c772370a9e03b9db0e225374a7eb07"
+  },
+  {
+    "path": "Examples/macOS/BasicPlayerWithPlaylist/Controller.h",
+    "bytes": 1551,
+    "sha256": "3f10170c809ebf9d4d1c9efe778de17e3cf2ec5882c903e52c71c1dd13c94041"
+  },
+  {
+    "path": "Examples/macOS/BasicPlayerWithPlaylist/Controller.m",
+    "bytes": 5234,
+    "sha256": "7325dc68d64e52c68608a4cc2e10c46581c690a3280b07b2e7050eac920b8a56"
+  },
+  {
+    "path": "Examples/macOS/BasicPlayerWithPlaylist/English.lproj/InfoPlist.strings",
+    "bytes": 202,
+    "sha256": "06afb0a0f99d05d7cc56c0c79b754d938f4b82b951cab5a33449c9438bc7372c"
+  },
+  {
+    "path": "Examples/macOS/BasicPlayerWithPlaylist/English.lproj/MainMenu.nib/designable.nib",
+    "bytes": 92711,
+    "sha256": "62310c2ef7a897a6f3e18d5a34962ddce12beda4ad21b6912d1fd5b00f32ea64"
+  },
+  {
+    "path": "Examples/macOS/BasicPlayerWithPlaylist/English.lproj/MainMenu.nib/keyedobjects.nib",
+    "bytes": 19215,
+    "sha256": "3bb8c852e4c479f724d986c5b96943a543ece7f0c966b73849c3543e0430b314"
+  },
+  {
+    "path": "Examples/macOS/BasicPlayerWithPlaylist/Info.plist",
+    "bytes": 842,
+    "sha256": "ad50ce76c77ed122f0892ef1dcd5af727df27e20609250e6f8ae2306e4a8551f"
+  },
+  {
+    "path": "Examples/macOS/BasicPlayerWithPlaylist/main.m",
+    "bytes": 1235,
+    "sha256": "42e9a9e156f3036cbf7684a6654ea05f5f91658d2abdcde76ae86692e36f2189"
+  },
+  {
+    "path": "Examples/macOS/BasicPlayerWithPlaylist/test_Prefix.pch",
+    "bytes": 139,
+    "sha256": "e905e1553f3f9c6e49bea215826da84f2592391be8a1d8f48e24873646eef7a4"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/Controller.h",
+    "bytes": 2057,
+    "sha256": "48535800be38593e5dc7db440faf10c038efb034c80f3f3c7ea70f3b4c84915d"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/Controller.m",
+    "bytes": 9185,
+    "sha256": "94d95762cbeecef5815c9b5a1162ea42564bdae0bfe5279e45dab1c266a92ef7"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/English.lproj/InfoPlist.strings",
+    "bytes": 202,
+    "sha256": "06afb0a0f99d05d7cc56c0c79b754d938f4b82b951cab5a33449c9438bc7372c"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/English.lproj/MainMenu.nib/classes.nib",
+    "bytes": 1410,
+    "sha256": "70d9a2baed63efc5f94e255e923620a9f895464c3fe8a84b1af4f5fc194fde01"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/English.lproj/MainMenu.nib/info.nib",
+    "bytes": 644,
+    "sha256": "61475955f93bc74a8002869ae924b7b64fd3eae9b3e361c9c4b54b9568ae296c"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/English.lproj/MainMenu.nib/keyedobjects.nib",
+    "bytes": 1223230,
+    "sha256": "1ae43044d8b510fc46c5fb07cf06f07d35c442db65dad59695e09233c9e4065d"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/FlashVideoDownloader.xcodeproj/project.pbxproj",
+    "bytes": 14294,
+    "sha256": "b5c452853e78f66d40fe4d2f55412a168a38225b154a1ff713ee3c892bf6988e"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/FlashVideoDownloader_Prefix.pch",
+    "bytes": 139,
+    "sha256": "e905e1553f3f9c6e49bea215826da84f2592391be8a1d8f48e24873646eef7a4"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/GradientBackgroundView.h",
+    "bytes": 1207,
+    "sha256": "570a096123b7b0f606a758cbe3d7a327674ef4a2ca3f00c9113bb12ce3f66d39"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/GradientBackgroundView.m",
+    "bytes": 2008,
+    "sha256": "34637bbad3fe594b0a25460e60eed51cbbb76466499665c2f71b521af7e25f93"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/Info.plist",
+    "bytes": 857,
+    "sha256": "1391876d6b42cbea2f2bcb08938e0e7d1389a96b905c093de9a1cf1480b6cbf4"
+  },
+  {
+    "path": "Examples/macOS/FlashVideoDownloader/main.m",
+    "bytes": 1274,
+    "sha256": "6693ae39e21603fa6885c174f897448fa8e8adfd9df08799bffdac5d0620bba9"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/Controller.h",
+    "bytes": 1797,
+    "sha256": "47b50160eda25065441d415fd7b0dbe01082e504d45861232985df8643c0655d"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/Controller.m",
+    "bytes": 5408,
+    "sha256": "03652ab74932fb4714638ff67445765d1546d7c48b73ed5a54ac9bb3db772cea"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/English.lproj/InfoPlist.strings",
+    "bytes": 202,
+    "sha256": "06afb0a0f99d05d7cc56c0c79b754d938f4b82b951cab5a33449c9438bc7372c"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/English.lproj/MainMenu.nib/classes.nib",
+    "bytes": 1517,
+    "sha256": "0e035f55a0eabedce4ac014adc6d363b5198a0b8d8dc595ce489062abbc5650c"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/English.lproj/MainMenu.nib/info.nib",
+    "bytes": 563,
+    "sha256": "0855b7a0d6695ab1da21cf748348584bb7c123dc5c58965162ea887e09a55367"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/English.lproj/MainMenu.nib/keyedobjects.nib",
+    "bytes": 25589,
+    "sha256": "23fe2c7f5f3b25903d4e79f81274d5c906163817301d8c40de1c46972685d18b"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/GradientBackgroundView.h",
+    "bytes": 1200,
+    "sha256": "df0a360fbab3ad43f4e7fa7580bf3317474a26ff52ee9999ec471030cda58828"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/GradientBackgroundView.m",
+    "bytes": 1879,
+    "sha256": "22e4cf4ab902de1c2746d859e529d4fc0a2788d67b998ecca8b9de14f5039308"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/Info.plist",
+    "bytes": 834,
+    "sha256": "ec30347c13992cb410092ce2b9ca18945eab5b6ef3fe06e9f75a8b573af821fa"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/MovieReceiver.h",
+    "bytes": 1236,
+    "sha256": "d747dc9f21030ab51f498bb7642f6057417bf75b3f3ce167665ee8e6b5de80d7"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/MovieReceiver.m",
+    "bytes": 1944,
+    "sha256": "b888a410395d010b3eccc845f8eb22fa368d177ef0584511eb72709fcccde4f7"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/iPodConverter.xcodeproj/project.pbxproj",
+    "bytes": 14705,
+    "sha256": "070cea8b7d49d3265ac3a45c9f77e776819db6e879394feb58f0d9fac118fae9"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/iPodConverter_Prefix.pch",
+    "bytes": 139,
+    "sha256": "e905e1553f3f9c6e49bea215826da84f2592391be8a1d8f48e24873646eef7a4"
+  },
+  {
+    "path": "Examples/macOS/iPodConverter/main.m",
+    "bytes": 1160,
+    "sha256": "90e18b20f18b12e0361e42765b3e0c46b23e04a1235fbf3f08e8b4b37b0955fb"
+  },
+  {
+    "path": "Headers/Internal/VLCCustomDialogProvider.h",
+    "bytes": 1704,
+    "sha256": "e065cf5f46c266c0cc98e7501140db1fd8d71368ff2bfb9cd19c14061a00d118"
+  },
+  {
+    "path": "Headers/Internal/VLCEmbeddedDialogProvider.h",
+    "bytes": 1594,
+    "sha256": "3a583126ffae78158304d9aaa8f7b2c97ddbce9e65cc856397ad17909d96f762"
+  },
+  {
+    "path": "Headers/Internal/VLCEventsHandler.h",
+    "bytes": 1784,
+    "sha256": "a384b03201995cf0121080706aba1b8ea98463858235906cf85248390384f16d"
+  },
+  {
+    "path": "Headers/Internal/VLCFilter+Internal.h",
+    "bytes": 2577,
+    "sha256": "d8aef4dfd064d9f9eae1e61f1e73f82976513f65073de1c861098a9c2ae950ae"
+  },
+  {
+    "path": "Headers/Internal/VLCHelperCode.h",
+    "bytes": 1194,
+    "sha256": "4ee7a5eb980abf3ddc73c3ee648cc59f18212aff3e73e0c7f216b0d135be55e7"
+  },
+  {
+    "path": "Headers/Internal/VLCLibVLCBridging.h",
+    "bytes": 6119,
+    "sha256": "585fa569340348cb88fcd74fd410c6ee40e804f03d1a1409dece5630abae89f0"
+  },
+  {
+    "path": "Headers/Internal/VLCMediaPlayer+Internal.h",
+    "bytes": 1382,
+    "sha256": "5b89a00be51a8c40cffeeadedb49c605b7bd33efc884743292fecc8b41eba6aa"
+  },
+  {
+    "path": "Headers/Internal/VLCVideoCommon.h",
+    "bytes": 1468,
+    "sha256": "31639cbee83ff092eadd73ed3782fd0e20b31b407f7a8f74f9024d6becb75f83"
+  },
+  {
+    "path": "Headers/Internal/VLCiOSLegacyDialogProvider.h",
+    "bytes": 1766,
+    "sha256": "55342cb01903a36312744a9ad89b1c782cf0094bb3d0f041201236d8b79c8c59"
+  },
+  {
+    "path": "Headers/PCH/MobilePrefix.pch",
+    "bytes": 319,
+    "sha256": "3a6abd4d99b0649f1e206f00dbc2814e8c7a5ab247670f7265c3d69ef3d2a9ab"
+  },
+  {
+    "path": "Headers/PCH/Prefix.pch",
+    "bytes": 674,
+    "sha256": "ba96bc93f51814e7cc54707c08f1c05a23ea91ff508e1ba830bd040fc4a4bd6f"
+  },
+  {
+    "path": "Headers/Public/MobileVLCKit.h",
+    "bytes": 2631,
+    "sha256": "c50ac65a4b0b8901b4c7fb8e762d4097f5db8bef90f22cb4850598853816987a"
+  },
+  {
+    "path": "Headers/Public/TVVLCKit.h",
+    "bytes": 2303,
+    "sha256": "985f82d0f21f6e08493efb9d992f1721c93174c27ef8f5eb3641e72b693d0418"
+  },
+  {
+    "path": "Headers/Public/VLCAdjustFilter.h",
+    "bytes": 2592,
+    "sha256": "a23a2136ed205112c35298fbde189a04f1b9caff90224bde445b980141f1c743"
+  },
+  {
+    "path": "Headers/Public/VLCAudio.h",
+    "bytes": 2359,
+    "sha256": "70ecc40b9dc4b62cc24045c6d1c181039880a53590861ea261dd4701c67591b7"
+  },
+  {
+    "path": "Headers/Public/VLCAudioEqualizer.h",
+    "bytes": 2617,
+    "sha256": "44e1b8f446d8258e3b906b6d3bf2ccb1a10a2357bf4af5cba0fe14a7d94e0a90"
+  },
+  {
+    "path": "Headers/Public/VLCConsoleLogger.h",
+    "bytes": 1713,
+    "sha256": "2717edc0141f07e2045020695e983f025cb2686972a1d6d26e30ab2beb964c46"
+  },
+  {
+    "path": "Headers/Public/VLCDialogProvider.h",
+    "bytes": 6509,
+    "sha256": "97f6ec94ecc92cb7da30d3b6b6b1b5280df65f72cc502efd36e077e0f698a605"
+  },
+  {
+    "path": "Headers/Public/VLCEventsConfiguration.h",
+    "bytes": 1527,
+    "sha256": "08f8b1639256aba629221d4ebd6b7db211bf4a7493e4bc79d02f0544e87eda64"
+  },
+  {
+    "path": "Headers/Public/VLCFileLogger.h",
+    "bytes": 2487,
+    "sha256": "1c8d0ba333496960735c4606f8900966bcc7fd5e68929d7d7ad27c2d42df6290"
+  },
+  {
+    "path": "Headers/Public/VLCFilter.h",
+    "bytes": 2724,
+    "sha256": "2e91e221a4f3de402e80de96345cb4951c345d66af0e0f1ec398208f7934f373"
+  },
+  {
+    "path": "Headers/Public/VLCKit.h",
+    "bytes": 2728,
+    "sha256": "31176163ce07900eba0a4e5af7511925752ce2be956dc2359ad93453a0697879"
+  },
+  {
+    "path": "Headers/Public/VLCLibrary.h",
+    "bytes": 6667,
+    "sha256": "f78400ade8116d734cb3a36ad7443ab7c20cd484993e4a83745f72d1f531b571"
+  },
+  {
+    "path": "Headers/Public/VLCLogMessageFormatter.h",
+    "bytes": 1592,
+    "sha256": "7f88c03c361039b5b5e4ce6b0524440e7590472dc7b29a25115708da4da984f1"
+  },
+  {
+    "path": "Headers/Public/VLCLogging.h",
+    "bytes": 5436,
+    "sha256": "18155169b2f38669e0a2805c881fb26bf7ac6a2f9abde444b831a4b61e5a9f80"
+  },
+  {
+    "path": "Headers/Public/VLCMedia.h",
+    "bytes": 28607,
+    "sha256": "6bdd355c97cce4342cc10d2a51519c20488e0c29f0559b46881ec6d902cf58f3"
+  },
+  {
+    "path": "Headers/Public/VLCMediaDiscoverer.h",
+    "bytes": 4025,
+    "sha256": "974a824195449e5ac11b68158e9b29acf329f5e203425aac102d4e9f6c4ca9ef"
+  },
+  {
+    "path": "Headers/Public/VLCMediaLibrary.h",
+    "bytes": 1655,
+    "sha256": "da3d87ec3f44bdb5615d771e2e04fd29bbbf63ac6358ac6676c837359169735c"
+  },
+  {
+    "path": "Headers/Public/VLCMediaList.h",
+    "bytes": 4562,
+    "sha256": "4559804a4c1732c1b14f5f09c9554d8dd90ead7ffc72f50ed8fffa76de8cbd91"
+  },
+  {
+    "path": "Headers/Public/VLCMediaListPlayer.h",
+    "bytes": 4466,
+    "sha256": "6a03a43d2662f8b632ef820ebf3382e031aa2d84029b6a5c5c7ab1d72c06b63c"
+  },
+  {
+    "path": "Headers/Public/VLCMediaMetaData.h",
+    "bytes": 3868,
+    "sha256": "8963e63bc0a59943ca11a20da9e5d5c6fc5536c834b49cbd3799d683ecfed8da"
+  },
+  {
+    "path": "Headers/Public/VLCMediaPlayer.h",
+    "bytes": 30472,
+    "sha256": "320ef15ca0e2eb45f659f23c52a6f2c2aae84069bd8fe6d6b50d477eabed32e6"
+  },
+  {
+    "path": "Headers/Public/VLCMediaThumbnailer.h",
+    "bytes": 4072,
+    "sha256": "e5c8725eed8008e047271c75232c03953f9b5490d4c0cb0dcdaaeae53eec3fb5"
+  },
+  {
+    "path": "Headers/Public/VLCRendererDiscoverer.h",
+    "bytes": 3630,
+    "sha256": "91d3c72103727b344dd584ee4d9debbe3b0db37e9460c331b342472ce87332f2"
+  },
+  {
+    "path": "Headers/Public/VLCRendererItem.h",
+    "bytes": 1997,
+    "sha256": "8cff88904b99a4f6149370beb78d383fbf0e262ba28c43900b5f48d44bcc67a9"
+  },
+  {
+    "path": "Headers/Public/VLCStreamOutput.h",
+    "bytes": 2856,
+    "sha256": "3c9fcd22fa475623eea8c0aaddddcb7cd6f93f20c2e60ff93fc5ab5ad7085487"
+  },
+  {
+    "path": "Headers/Public/VLCStreamSession.h",
+    "bytes": 2182,
+    "sha256": "1df6299585de9dcd241159d592ff591aa126b6199341049fd5612c67ca1c395d"
+  },
+  {
+    "path": "Headers/Public/VLCTime.h",
+    "bytes": 3876,
+    "sha256": "7549817a02f601c3886b6dd0f841ee4996de66ef716a08a49a1120b8f69c176e"
+  },
+  {
+    "path": "Headers/Public/VLCTranscoder.h",
+    "bytes": 2559,
+    "sha256": "4b2c1fb89836d28a01dec14044f8a72c67903946733d705c94acbb5937565cf5"
+  },
+  {
+    "path": "Headers/Public/VLCVideoLayer.h",
+    "bytes": 1672,
+    "sha256": "ef69e0c87c37c998cf70ae2cd13f47f9254bd96e172e931ecd698ec1a02fce51"
+  },
+  {
+    "path": "Headers/Public/VLCVideoView.h",
+    "bytes": 1835,
+    "sha256": "a43e6d71f2d8f3c2bda45b0cb8ff1a9915d1596c9419b14e032c0b7433636169"
+  },
+  {
+    "path": "Headers/libvlc_version.h",
+    "bytes": 2148,
+    "sha256": "b1280c77139c416b488d15a5d9628033ce9c2c7a3325d620b3a365939ad38304"
+  },
+  {
+    "path": "Makefile",
+    "bytes": 362,
+    "sha256": "50fe479cbbdd42905ed49083a2675840128fc31e4158029ea14e0c3a6f2f6718"
+  },
+  {
+    "path": "MobileVLCKit.xcodeproj/project.pbxproj",
+    "bytes": 99561,
+    "sha256": "e7723f21550febec9910f90f91983bb33c586ada0ae53d6d550dfc8243ebf8de"
+  },
+  {
+    "path": "MobileVLCKit.xcodeproj/xcshareddata/xcschemes/MobileVLCKit.xcscheme",
+    "bytes": 2452,
+    "sha256": "60e746ff908ebabec054a115c0648f157585d51fd6af738c8c3373567af650c9"
+  },
+  {
+    "path": "MobileVLCKit.xcodeproj/xcshareddata/xcschemes/TVVLCKit.xcscheme",
+    "bytes": 2395,
+    "sha256": "3863e996d7f90c3ef38d31cc852c5b0007fdab91b31a3189fef30a3b0c3e0ce0"
+  },
+  {
+    "path": "NEWS",
+    "bytes": 22780,
+    "sha256": "0fb2df40836cbe1ef53b5ff811e62d70fea23209dc47f6209373e77185695dd0"
+  },
+  {
+    "path": "Packaging/buildAndDeployFrameworks.sh",
+    "bytes": 7891,
+    "sha256": "245931cdf8d02205c20285c141685510349e590cfd011ef95a03e1e41f286f5f"
+  },
+  {
+    "path": "Packaging/create-distributable-package.sh",
+    "bytes": 4607,
+    "sha256": "bd2fed2c249c6182485d7c60a689619af939454e09cc60edb4c1e1ce9c1a21b6"
+  },
+  {
+    "path": "Packaging/dmg_setup.scpt",
+    "bytes": 4526,
+    "sha256": "f4cc3bffbacfb95e8156ca36f74d6b7bd7f4dedfc2330668efd090af9ad94146"
+  },
+  {
+    "path": "Packaging/mobile_dmg_setup.scpt",
+    "bytes": 4538,
+    "sha256": "4357ae651e6324039c13d9a370f4fc0e0ce7455bd5a3c33d17ff11b33b09ea4e"
+  },
+  {
+    "path": "Packaging/podspecs/.swift-version",
+    "bytes": 4,
+    "sha256": "022804d19c8fe566dc00dca4721c1eadf6ed71164d647a2e77493ac87c4fe3a6"
+  },
+  {
+    "path": "Packaging/podspecs/MobileVLCKit.podspec",
+    "bytes": 3198,
+    "sha256": "a884b8b8a345e3686ff7f3656423ba9827959e7b27e508f61290dbc673de10e2"
+  },
+  {
+    "path": "Packaging/podspecs/TVVLCKit.podspec",
+    "bytes": 3127,
+    "sha256": "51c77b92b5b9d4fa4cdbf1b3177c1822b17afaedffd248b044a7d7c6e1e21900"
+  },
+  {
+    "path": "Packaging/podspecs/VLCKit.podspec",
+    "bytes": 3024,
+    "sha256": "f7e4624f14ce0677bf271deacc8e1df9ecaf5122e145df6d0d2032d83c1a650c"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3692,
+    "sha256": "6f5bd044ec0a96e58901b2885806b620a6b62deda832b9f0234ca3b256fd6b32"
+  },
+  {
+    "path": "Resources/MobileVLCKit/.gitignore",
+    "bytes": 15,
+    "sha256": "c008e105ee444688871b056faf9cb88a3dcec39743381bc232568c06f3b6fea8"
+  },
+  {
+    "path": "Resources/MobileVLCKit/Info.plist",
+    "bytes": 806,
+    "sha256": "224734b7f17caf585deaeaef12937abfaab28040fd402dd3543d4b79f96a5471"
+  },
+  {
+    "path": "Resources/MobileVLCKit/module.modulemap",
+    "bytes": 720,
+    "sha256": "30e557aff51c3cf31f1b0e8bf91fdcb48eeb1f563e08691067a228d523eafd1c"
+  },
+  {
+    "path": "Resources/TVVLCKit/module.modulemap",
+    "bytes": 712,
+    "sha256": "42595f6a6c6966c1d76d5418c2b71bb70639ebd6b7233b46b9e08750b97d7b9f"
+  },
+  {
+    "path": "Resources/VLCKit/Info.plist",
+    "bytes": 663,
+    "sha256": "cd0e7c849af0afb50b4e65e13001a56ebe8f935c221317ba5b06c68d7642519e"
+  },
+  {
+    "path": "Resources/VLCKit/installPluginsVLCKit.sh",
+    "bytes": 5830,
+    "sha256": "636ebb851813e3d6777c17e264a8815251394b64fa928662ab9d30189b96c7d8"
+  },
+  {
+    "path": "Resources/VLCKit/module.modulemap",
+    "bytes": 708,
+    "sha256": "e23b623fa82a108d7d09ab19b88cba1382b9486f58b37f67fa4499dae01d59d1"
+  },
+  {
+    "path": "Sources/StaticLibVLC.m",
+    "bytes": 1270,
+    "sha256": "d5b3d4389913f5053e1ee31bb8114fdcf482b417db426905ae5d258d486c6704"
+  },
+  {
+    "path": "Sources/VLCAdjustFilter.m",
+    "bytes": 7431,
+    "sha256": "70f88c5534f0b608b0e50fae5eec81a8186d7ffe988fb6375804e43c74c6f7c2"
+  },
+  {
+    "path": "Sources/VLCAudio.m",
+    "bytes": 3609,
+    "sha256": "e372a1e471ed4db43495cd74fbc0005503cc7ed4aa5d6ad6554c17ac265f5928"
+  },
+  {
+    "path": "Sources/VLCAudioEqualizer.m",
+    "bytes": 8249,
+    "sha256": "e3454045a46c883a8ce3a40875f035a2a1cf5f1874272bbf8dd91676778bfd9f"
+  },
+  {
+    "path": "Sources/VLCConsoleLogger.m",
+    "bytes": 2075,
+    "sha256": "04a4396783c52f52b51c4575c4e3d75e31aafba70341a3bf46241dc91d15ed21"
+  },
+  {
+    "path": "Sources/VLCCustomDialogProvider.m",
+    "bytes": 11872,
+    "sha256": "f220ca3eff9281bcdbae48a6a9abdedb37e5381b38b22899e5186e4b6c2a297d"
+  },
+  {
+    "path": "Sources/VLCDialogProvider.m",
+    "bytes": 2655,
+    "sha256": "8d7bdad659368c6eeee7fa11cf05a422042235fb486ea4e0a9fbaefb9f2f6021"
+  },
+  {
+    "path": "Sources/VLCEmbeddedDialogProvider.m",
+    "bytes": 15842,
+    "sha256": "ffa7b175f571cf66472b0d1ba28cc4d66a01c3a911d6165e123cf7c46c8020be"
+  },
+  {
+    "path": "Sources/VLCEventsConfiguration.m",
+    "bytes": 1555,
+    "sha256": "e15e138c2b6667fb345ddb6886ee211fe602daddf7c7fafa250705ffbd8e337b"
+  },
+  {
+    "path": "Sources/VLCEventsHandler.m",
+    "bytes": 2947,
+    "sha256": "f4ccd16bb2204b14ca26a052f2057db6fac368227e410a3eecfa52755ba20bf3"
+  },
+  {
+    "path": "Sources/VLCFileLogger.m",
+    "bytes": 2592,
+    "sha256": "445a5a9024caa1269d097b807ef4c951fe4885c8df4a04806026490268d7730c"
+  },
+  {
+    "path": "Sources/VLCFilter.m",
+    "bytes": 4156,
+    "sha256": "d8cd7278b2b6dcb87ec15881b20f679e91a4118434873c5a47817f62b6b415a9"
+  },
+  {
+    "path": "Sources/VLCHelperCode.m",
+    "bytes": 1257,
+    "sha256": "6e59421fd68742d8865989c20661115f01bff653ad04f2c5635cd7595f69c790"
+  },
+  {
+    "path": "Sources/VLCLibrary.m",
+    "bytes": 12681,
+    "sha256": "07b661df82a89954aa04dacb1b993731f9740c7ff44acd316c3953b1903d2877"
+  },
+  {
+    "path": "Sources/VLCLogMessageFormatter.m",
+    "bytes": 3154,
+    "sha256": "3edac147332f78588f9db9220b47dbd89f5daa91abea08ac45c262ac7ee0f7e1"
+  },
+  {
+    "path": "Sources/VLCMedia.m",
+    "bytes": 43069,
+    "sha256": "ac33069738516028696dc33db9532a60e09f31616461ca914849d55c6df2737c"
+  },
+  {
+    "path": "Sources/VLCMediaDiscoverer.m",
+    "bytes": 5509,
+    "sha256": "06da7623bd5d5d6ea1718f6aea41e711847475efaa022c5961c42461bb119ac9"
+  },
+  {
+    "path": "Sources/VLCMediaLibrary.m",
+    "bytes": 2491,
+    "sha256": "4f2fdb4e8a7fce6d5e704f0be8940c3809a0fc359358538c6a31496af9f3ae72"
+  },
+  {
+    "path": "Sources/VLCMediaList.m",
+    "bytes": 13070,
+    "sha256": "cb6bfa5d06db093fba285318f83cc5519730dbe658d836c867755f2125a11225"
+  },
+  {
+    "path": "Sources/VLCMediaListPlayer.m",
+    "bytes": 8897,
+    "sha256": "ac42e6205ad2c7e4d1742cb6d85f8f7f458ce17baf3fa83ab6a6f5afcf793835"
+  },
+  {
+    "path": "Sources/VLCMediaMetaData.m",
+    "bytes": 13404,
+    "sha256": "20976f337a8163343ced85800fa67546976c96dd92bb36cc50ebd546bc31baec"
+  },
+  {
+    "path": "Sources/VLCMediaPlayer.m",
+    "bytes": 54329,
+    "sha256": "ae119c9679d4fa8f4b08abad3de2b5b58c2e9c8d144aff188fb5298907be32da"
+  },
+  {
+    "path": "Sources/VLCMediaThumbnailer.m",
+    "bytes": 12986,
+    "sha256": "2f1fae859606d79712b9668138c17e7bb3bc15bd00d62fe886dfc88d11abe6ae"
+  },
+  {
+    "path": "Sources/VLCRendererDiscoverer.m",
+    "bytes": 7301,
+    "sha256": "2ef70d8a4a71975481d9a9bad15b53243838f8bc24b484c92f8237be5378150b"
+  },
+  {
+    "path": "Sources/VLCRendererItem.m",
+    "bytes": 2408,
+    "sha256": "2498526de08e853470e1fdaf2dd12ac8fce07924297b118a9b735d27c2338c88"
+  },
+  {
+    "path": "Sources/VLCStreamOutput.m",
+    "bytes": 9264,
+    "sha256": "fbca79658fb6eff6d065f30ee15ed6233c901e073ffb04521dc165686abf4eee"
+  },
+  {
+    "path": "Sources/VLCStreamSession.m",
+    "bytes": 4026,
+    "sha256": "00a23eb4598e5746303a46d6ac132a84ad3bcdea2c399ee75548e4c984751ef2"
+  },
+  {
+    "path": "Sources/VLCTime.m",
+    "bytes": 5298,
+    "sha256": "22dc0d9cf86e72db03036cb73e4aaf20cb2a9d984f438e161dbdd7fbfee0cc67"
+  },
+  {
+    "path": "Sources/VLCTranscoder.m",
+    "bytes": 5957,
+    "sha256": "6828f4698470e6bf4cac0fb558b7b2ec723519eed9473ef93014b12d40ba4538"
+  },
+  {
+    "path": "Sources/VLCVideoCommon.m",
+    "bytes": 2756,
+    "sha256": "db82cfd37a0291d28b832c3693806875231a77cd36c225b31e71814309bf04ff"
+  },
+  {
+    "path": "Sources/VLCVideoLayer.m",
+    "bytes": 3255,
+    "sha256": "512c5a48a1b376502ca47ac3a673b1df205337e7febbc7173d5c1fe0d5f667fa"
+  },
+  {
+    "path": "Sources/VLCVideoView.m",
+    "bytes": 3789,
+    "sha256": "62d57d076f369f46b662eeababe970377586debf8630ee7fa7c7eb0e2a6dc5d6"
+  },
+  {
+    "path": "Sources/VLCiOSLegacyDialogProvider.m",
+    "bytes": 11873,
+    "sha256": "747e5cdc730a8d42788b53b374a707195e5e69dd4a27709854dde28da827924e"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTests.xcodeproj/project.pbxproj",
+    "bytes": 26339,
+    "sha256": "e6f53b9f3289c4065ec616c0410fc6d3cb4354a76510c77b24b4399a4784a8bb"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTests/AppDelegate.h",
+    "bytes": 297,
+    "sha256": "d23cf54426d34a626d2b509a9ec8c4b36c807c4a96ac53ffb5bd658cfe8ca321"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTests/AppDelegate.m",
+    "bytes": 2059,
+    "sha256": "3f1a4e8c092ae64850c9bcde1fcc6a1136b985c99c8eff76b20c9444806f2202"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTests/Assets.xcassets/AppIcon.appiconset/Contents.json",
+    "bytes": 1495,
+    "sha256": "c14cb0cf778c7343f0de0c6fcded0a4191120adb500a4fba29a844a423b4d1a3"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTests/Base.lproj/LaunchScreen.storyboard",
+    "bytes": 1681,
+    "sha256": "b01b0e30b288b9d054cf9c19ecc86a028188ad63153ddf0aacd28ac74e4376b5"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTests/Base.lproj/Main.storyboard",
+    "bytes": 1614,
+    "sha256": "71bc52c821b7ca6f042e72aee631dd767138f766d41fc55fbc23982dd60f17b6"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTests/Info.plist",
+    "bytes": 1463,
+    "sha256": "e17627b88ec19efd9a98f0d189cdbb1a272c74ad9083817de3f819394c1fe567"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTests/ViewController.h",
+    "bytes": 235,
+    "sha256": "00e5aae93ddc7f36f054b8ae08d2e0edd6d4b6e9312d603609e147c5b0346595"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTests/ViewController.m",
+    "bytes": 1559,
+    "sha256": "079b4752856f9c9912979f5e3987ed92c7b144f9a406b99768ba369b00a54568"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTests/main.m",
+    "bytes": 354,
+    "sha256": "0c250e1afd576e59f84cd4b5a3c0fe1d967042d8beb20bc96ee0fb335a8ccc3c"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTestsTests/Info.plist",
+    "bytes": 701,
+    "sha256": "58c5c0911cdf7c6fe4a120892acde2ae1e7298e967243284d83257554c756f4f"
+  },
+  {
+    "path": "Tests/iOS/VLCMediaTests/VLCMediaTestsTests/VLCMediaTestsTests.m",
+    "bytes": 937,
+    "sha256": "3f5af445d7636b6300f45a827ebba6d1194de02f424921a0d23d6c422ab4f497"
+  },
+  {
+    "path": "Tests/iOS/iOSTests.xcworkspace/contents.xcworkspacedata",
+    "bytes": 254,
+    "sha256": "4e5ac4439933e4eb0f3a629a902e68d0f0706eb14078630835b206cfe63c096e"
+  },
+  {
+    "path": "VLCKit.xcodeproj/project.pbxproj",
+    "bytes": 68934,
+    "sha256": "424c16f6ff408050a12e2a664f48724fe9ab46b8aa13fb1a6d6b7f028b63b0b0"
+  },
+  {
+    "path": "buildMobileVLCKit.sh",
+    "bytes": 35934,
+    "sha256": "0aeab1b5397c6baace78d0dfe25f10106081bde09079e5bf0f9119f0789e49c5"
+  },
+  {
+    "path": "buildVLCKit.sh",
+    "bytes": 1361,
+    "sha256": "7fe0d51ca1a91b4606ae9dc082b8199b533367cbf65175e63a711c51ec2b90bd"
+  },
+  {
+    "path": "doc/html/_dynamic_mobile_v_l_c_kit_8h_source.html",
+    "bytes": 14100,
+    "sha256": "a1d40985734dd15b229885bd4a7e4bac5d424fb5791adb421b8f228d51775c2d"
+  },
+  {
+    "path": "doc/html/_dynamic_t_v_v_l_c_kit_8h_source.html",
+    "bytes": 13866,
+    "sha256": "e100f3796c3014a6efc71a09fa0b5628ed94cad2b38d3c087f0a440ab440fdaa"
+  },
+  {
+    "path": "doc/html/_mobile_v_l_c_kit_8h_source.html",
+    "bytes": 14595,
+    "sha256": "0927ab54f6f8b678819b98a3dae042cdc68a99d1b68b3f0f813657e95ec1d2fb"
+  },
+  {
+    "path": "doc/html/_t_v_v_l_c_kit_8h_source.html",
+    "bytes": 12229,
+    "sha256": "9d97f4d35e85ee711233f55d5ac764e8fa4de697cc86ee0d07a3a9be90a5ca00"
+  },
+  {
+    "path": "doc/html/_v_l_c_audio_8h_source.html",
+    "bytes": 11824,
+    "sha256": "0a53d4433eb97b61e4749653bf6e44263f7b9501a7366da026069b66f91d94cb"
+  },
+  {
+    "path": "doc/html/_v_l_c_dialog_provider_8h_source.html",
+    "bytes": 16453,
+    "sha256": "9b6c7255e0e681cd6f711a10ea4554324a13b660bba33be8ad548c4a04143782"
+  },
+  {
+    "path": "doc/html/_v_l_c_extension_8h_source.html",
+    "bytes": 10429,
+    "sha256": "1985e5e0224456e75046b9538e5a97f2bcd46fd88a4534b1d7a1d2a958d99d90"
+  },
+  {
+    "path": "doc/html/_v_l_c_extensions_manager_8h_source.html",
+    "bytes": 11211,
+    "sha256": "06d9c970dedeed5aae1f69fdbbd5f64105db7dcaf294ceb9ff4fa4a8997923d6"
+  },
+  {
+    "path": "doc/html/_v_l_c_kit_8h_source.html",
+    "bytes": 11299,
+    "sha256": "18b4018d5382cccc3cb21d9380fe865be869b6565b98cde1af07387cf97c7fbc"
+  },
+  {
+    "path": "doc/html/_v_l_c_library_8h_source.html",
+    "bytes": 18083,
+    "sha256": "cc536f3a76cf43beb2a428a1513ddafd5bb8eedcb0e82564e7a1c4e5611d2d46"
+  },
+  {
+    "path": "doc/html/_v_l_c_media_8h_source.html",
+    "bytes": 77020,
+    "sha256": "6791d13deccde6f3bfe800f0b045397736a0b0e75ea583bb03db34f36cee2744"
+  },
+  {
+    "path": "doc/html/_v_l_c_media_discoverer_8h_source.html",
+    "bytes": 18148,
+    "sha256": "ecca5a0ae7d82e3a622908cfde0a7fb7400dd8bb0ba575d24a82f8fda02c1d70"
+  },
+  {
+    "path": "doc/html/_v_l_c_media_library_8h_source.html",
+    "bytes": 10151,
+    "sha256": "e373c4e1362b166ab8e263597a71d7b91c0b598938619c1ea94e9c238134a33c"
+  },
+  {
+    "path": "doc/html/_v_l_c_media_list_8h_source.html",
+    "bytes": 16107,
+    "sha256": "43a097cc9162620569e80e95e24c8e39075d0674fe5df6af2d6feda90fc34164"
+  },
+  {
+    "path": "doc/html/_v_l_c_media_list_player_8h_source.html",
+    "bytes": 20843,
+    "sha256": "b5827d0ab1968338185c02363ade7f35f8a800ec4e87b91546db0e6157a69693"
+  },
+  {
+    "path": "doc/html/_v_l_c_media_player_8h_source.html",
+    "bytes": 66517,
+    "sha256": "a9266f7467c90db5064c4d947bc7c126ca2be7ef2a2d498f3b55f08314e16b99"
+  },
+  {
+    "path": "doc/html/_v_l_c_media_thumbnailer_8h_source.html",
+    "bytes": 17928,
+    "sha256": "4ee2ecf7df4d1242862d8e8733417eb3b738413a2a837caf1d2b4b41c2254c45"
+  },
+  {
+    "path": "doc/html/_v_l_c_playlist_data_source_8h_source.html",
+    "bytes": 14327,
+    "sha256": "df1ce1504e6f5ec52af73988bae03f2946f2c86e8d6c67d8f2fedfcc3fe96088"
+  },
+  {
+    "path": "doc/html/_v_l_c_renderer_discoverer_8h_source.html",
+    "bytes": 16220,
+    "sha256": "126ce5f8cfa44d3f3d967d18dee4287be2c4832d38d7a9c6f770e318d0ccca9e"
+  },
+  {
+    "path": "doc/html/_v_l_c_renderer_item_8h_source.html",
+    "bytes": 12288,
+    "sha256": "390f9e1e51dde42a1a3a2de4442c217bc00a7314df76b091d9ec66076913dbd4"
+  },
+  {
+    "path": "doc/html/_v_l_c_stream_output_8h_source.html",
+    "bytes": 10405,
+    "sha256": "878701c0ba21d7757d6c1e50ad5b0003d114084a53bfa7427545ab6e9e52c23d"
+  },
+  {
+    "path": "doc/html/_v_l_c_stream_session_8h_source.html",
+    "bytes": 12080,
+    "sha256": "402dbf5737f9b74144a29824caea0a4008f262a49935ca2e22154d1ab37ef128"
+  },
+  {
+    "path": "doc/html/_v_l_c_time_8h_source.html",
+    "bytes": 14813,
+    "sha256": "2400bb730f867e262bab9b8d59492e2ce75170de83193c62fbf159ac2b4247eb"
+  },
+  {
+    "path": "doc/html/_v_l_c_transcoder_8h_source.html",
+    "bytes": 11007,
+    "sha256": "adba846d0aeb1f5e6492a9cecc3729e505b7aec670f7d5eb2f9e2ab93d141048"
+  },
+  {
+    "path": "doc/html/_v_l_c_video_layer_8h_source.html",
+    "bytes": 9428,
+    "sha256": "7d65873f64f4839a7e5bef65d5d93ea582ec522aaaa242304e2203a545f62e42"
+  },
+  {
+    "path": "doc/html/_v_l_c_video_view_8h_source.html",
+    "bytes": 10446,
+    "sha256": "81dc5a8148100b355f69fcdc08e50ccc505ab574a9565c71fe2b1b428aa52def"
+  },
+  {
+    "path": "doc/html/annotated.html",
+    "bytes": 11355,
+    "sha256": "6e6e206eece866b98d74911d82a42fdd184b6885f2c2ac6cf231ff40d625e787"
+  },
+  {
+    "path": "doc/html/arrowdown.png",
+    "bytes": 246,
+    "sha256": "78feabe3c5c148145751813bd515c36ae5a63e1453778550ea17a16116afe64d"
+  },
+  {
+    "path": "doc/html/arrowright.png",
+    "bytes": 229,
+    "sha256": "fb1bd95d3ab84076623479182c8493531bb685720e25eb15d3f40bef58482e19"
+  },
+  {
+    "path": "doc/html/bc_s.png",
+    "bytes": 676,
+    "sha256": "9e7ed0ef70f99bb7f763a48ddd95d5990e103bb145eedfd0a76d19c122374be2"
+  },
+  {
+    "path": "doc/html/bdwn.png",
+    "bytes": 147,
+    "sha256": "782b30d237bdbeddfde4aed01f007264cc116b2d4be2f398a7cb74ec7a5bc58b"
+  },
+  {
+    "path": "doc/html/category_v_l_c_playlist_data_source_07_outline_view_data_source_08-members.html",
+    "bytes": 6035,
+    "sha256": "22ab3e8bd902518fe271da9c0351073a63087f97bafa8f331eccce56db59157f"
+  },
+  {
+    "path": "doc/html/category_v_l_c_playlist_data_source_07_outline_view_data_source_08.html",
+    "bytes": 6055,
+    "sha256": "3aac90125a47235c3fc57c6da139abb65613adca2c208049d01612455ff6edde"
+  },
+  {
+    "path": "doc/html/category_v_l_c_playlist_data_source_07_outline_view_data_source_dropping_08-members.html",
+    "bytes": 5213,
+    "sha256": "4d7776a55a86f62894d0978bc03a832ee17206de9a22b5396ffba3b6bb2ae277"
+  },
+  {
+    "path": "doc/html/category_v_l_c_playlist_data_source_07_outline_view_data_source_dropping_08.html",
+    "bytes": 5348,
+    "sha256": "b312c71aa81359f6d328b9b2e48c50db3b96bb453aa458e2eeaac5596e16118f"
+  },
+  {
+    "path": "doc/html/class_v_l_c_audio-members.html",
+    "bytes": 5335,
+    "sha256": "699989c1468f716d575ee05616915c5fdc0349da41bf6cb7b2a86f567da27677"
+  },
+  {
+    "path": "doc/html/class_v_l_c_dialog_provider-members.html",
+    "bytes": 5610,
+    "sha256": "2297f3c8b12e5ed1caabcfb866b82142505131bf8f68eeed0e805965fa6789fb"
+  },
+  {
+    "path": "doc/html/class_v_l_c_extension-members.html",
+    "bytes": 5144,
+    "sha256": "9e0c3594376f1c5bfe01c03ad877894817c68c36e562362054dacf80ee015182"
+  },
+  {
+    "path": "doc/html/class_v_l_c_extensions_manager-members.html",
+    "bytes": 5303,
+    "sha256": "7a4c58b1df40bc7c21f27d8548ecf4e2ec7d235f893df9f1611108d7c9199ed2"
+  },
+  {
+    "path": "doc/html/class_v_l_c_library-members.html",
+    "bytes": 6856,
+    "sha256": "df8c46b8e968fea73a6854428b73b9551d4c3254cb5f952b01ebce59524d52d9"
+  },
+  {
+    "path": "doc/html/class_v_l_c_media-members.html",
+    "bytes": 24806,
+    "sha256": "e110dc2891a3c74ba22202b435c3125f54cf06f7ba9f317a6a9f5b88a00f2a88"
+  },
+  {
+    "path": "doc/html/class_v_l_c_media_discoverer-members.html",
+    "bytes": 7141,
+    "sha256": "4363c2ea810dfe772bafe9dd3125612a02f5326ef571fc0a966df2a5d8da6428"
+  },
+  {
+    "path": "doc/html/class_v_l_c_media_library-members.html",
+    "bytes": 4657,
+    "sha256": "57bdcc4fc7f34d13957eeb013d6105b310b7b09d1af5e9e123c3057aa2cb48e6"
+  },
+  {
+    "path": "doc/html/class_v_l_c_media_list-members.html",
+    "bytes": 7090,
+    "sha256": "1675538234ce4efb2e5c80b2cfd3670d5e63ae608c698181a5b989daaf2c69c8"
+  },
+  {
+    "path": "doc/html/class_v_l_c_media_list_player-members.html",
+    "bytes": 8531,
+    "sha256": "8254286ba91f9ca5e49fa9b86beedeb67b54796eaf0706a77b7c9c445ca7ce69"
+  },
+  {
+    "path": "doc/html/class_v_l_c_media_player-members.html",
+    "bytes": 32182,
+    "sha256": "433d07563a07c187fa23d77666da935a7471ce4a675aa18e8585e4a1ae1e2d5e"
+  },
+  {
+    "path": "doc/html/class_v_l_c_media_thumbnailer-members.html",
+    "bytes": 7198,
+    "sha256": "7923822462067f8829fb338000c6978ad14ebc8cf49c1ca4a5ce3bf0351a6b37"
+  },
+  {
+    "path": "doc/html/class_v_l_c_playlist_data_source-members.html",
+    "bytes": 8963,
+    "sha256": "563e52fed4d129135e038d3c204fd6e3aaa018ac2d8d454a71ff7322bfff5648"
+  },
+  {
+    "path": "doc/html/class_v_l_c_stream_output-members.html",
+    "bytes": 6695,
+    "sha256": "628e90775c67654dc7790ecd7e236258bdcc562da675a163b0c25019c0b836c7"
+  },
+  {
+    "path": "doc/html/class_v_l_c_stream_session-members.html",
+    "bytes": 33099,
+    "sha256": "eb4984136c0ff816d1e437f92c51b84de6bafa43ad8736b4fb14bf9237007512"
+  },
+  {
+    "path": "doc/html/class_v_l_c_time-members.html",
+    "bytes": 7769,
+    "sha256": "b06cc694bc414deb3f2daa7e6ad7fece2f5f126b9e0debc498d216df6e5715a6"
+  },
+  {
+    "path": "doc/html/class_v_l_c_video_layer-members.html",
+    "bytes": 4611,
+    "sha256": "d3ea7eca397d57c8eb7749028356edb7903a3b8d199ee1447f069217c44d20b5"
+  },
+  {
+    "path": "doc/html/class_v_l_c_video_view-members.html",
+    "bytes": 4888,
+    "sha256": "618aefad452372ce5456495aa958ea2d5a72c8d385f8027ab478dcecf43472cb"
+  },
+  {
+    "path": "doc/html/classes.html",
+    "bytes": 6902,
+    "sha256": "613616908e2fa1496fa72af087d3fc4c01d49a4e385ffda8f8e5e0fa3ecf42cd"
+  },
+  {
+    "path": "doc/html/closed.png",
+    "bytes": 132,
+    "sha256": "c98c02adc57337f58c40aae15bbac05a3ccb364e5adb1d610a16452e92f17830"
+  },
+  {
+    "path": "doc/html/deprecated.html",
+    "bytes": 9454,
+    "sha256": "64bb36d2e6fc17184c932817f9350a111bd55baa80747099ad9b1d60a5e93d73"
+  },
+  {
+    "path": "doc/html/dir_28c64fbfc9a6ab228413a335a5a957f9.html",
+    "bytes": 3129,
+    "sha256": "67cd415c6f7ac3f4b4f20ecc4271d7e5a3ed7bec36e3abc533ac363aa9074906"
+  },
+  {
+    "path": "doc/html/dir_692516b589a32b3bfce781ca9f6d1534.html",
+    "bytes": 3172,
+    "sha256": "29a9330412135aa16c5310a69b1318e0bebbf705f794cf0fdcd98255296f1362"
+  },
+  {
+    "path": "doc/html/doc.png",
+    "bytes": 746,
+    "sha256": "5cd4cb41607a30d7820cc20ea76b4a3b8f57d3d2b7d102b58c8e13ad95e83aa1"
+  },
+  {
+    "path": "doc/html/doxygen.css",
+    "bytes": 30390,
+    "sha256": "2266921c505f256f1fc816336a1e8a8a383b20f3f44aaeff2abecb903ad4bcaa"
+  },
+  {
+    "path": "doc/html/doxygen.png",
+    "bytes": 3779,
+    "sha256": "6973a2aae66bbb99f2b57f2ef160182825fa5305444511ca1eca4e1b0b38528b"
+  },
+  {
+    "path": "doc/html/doxygen.svg",
+    "bytes": 15382,
+    "sha256": "624656a65fdcbd051f0260b529b64292d734f4132b7b6f16fa4af6d74c403156"
+  },
+  {
+    "path": "doc/html/dynsections.js",
+    "bytes": 4452,
+    "sha256": "d94a7a53c0c38cd6520d86fdaf3ff6ac2e579a361c5db0f79ccba66a390ce052"
+  },
+  {
+    "path": "doc/html/files.html",
+    "bytes": 9443,
+    "sha256": "fb316a5c9811b332658b2f46bf0149008d8482e605442b43e342872943f7a483"
+  },
+  {
+    "path": "doc/html/folderclosed.png",
+    "bytes": 616,
+    "sha256": "a6ca13a1c87edcfbfc91317896452c31a9d49c4768f1b4b46ac32e0907e00a73"
+  },
+  {
+    "path": "doc/html/folderopen.png",
+    "bytes": 597,
+    "sha256": "680166339ff62595dd2d2eed3a79fb9fa0c2e8250e89539f6d678aa2e5e51e26"
+  },
+  {
+    "path": "doc/html/functions.html",
+    "bytes": 4029,
+    "sha256": "232e299aeb75a6681f0a7f78e6882d03fb8e418e8d17d31d34df73ed481a8705"
+  },
+  {
+    "path": "doc/html/functions_a.html",
+    "bytes": 4279,
+    "sha256": "635ac591d9566a39d6a9c7b415d45add77b73802f6f44e9d38abf4e2077d18f1"
+  },
+  {
+    "path": "doc/html/functions_b.html",
+    "bytes": 3158,
+    "sha256": "a49010c4c02cb59861b0caf69e037d539ff545f0a68525ce607c8bcaeddc0e78"
+  },
+  {
+    "path": "doc/html/functions_c.html",
+    "bytes": 5622,
+    "sha256": "784aec9086e48f7ebc5232df6ebf3c31169063a2507f56705cd121dd8d2c4822"
+  },
+  {
+    "path": "doc/html/functions_d.html",
+    "bytes": 4762,
+    "sha256": "37ba5277638b6eec97fe1e9820c0eaa50f8e7930e46e1924bd0d677335e8359a"
+  },
+  {
+    "path": "doc/html/functions_e.html",
+    "bytes": 3461,
+    "sha256": "84b403523cd13beaa106b4d0c36a7481860b41a27d95970844e47484e2537ac8"
+  },
+  {
+    "path": "doc/html/functions_eval.html",
+    "bytes": 3553,
+    "sha256": "c240744c2c22c15a4b001a2a5d103f10e3a8f9a81a3f27508283f2a2ed970cb6"
+  },
+  {
+    "path": "doc/html/functions_f.html",
+    "bytes": 3948,
+    "sha256": "fbb1d940c8f6aa67c4567c37cb5102bc7cebee75a56c9392615faf09b64018b6"
+  },
+  {
+    "path": "doc/html/functions_func.html",
+    "bytes": 26252,
+    "sha256": "02276ad6bd0c08d35147319577858682e4aededde2f9b03b598b43009d9372e6"
+  },
+  {
+    "path": "doc/html/functions_g.html",
+    "bytes": 3161,
+    "sha256": "a1efad75c1a037b0d3adbf40a4e20fb033593ece27f2e011d63918b7a0b36e17"
+  },
+  {
+    "path": "doc/html/functions_h.html",
+    "bytes": 3687,
+    "sha256": "93f69b75a6db8b534e3e9979b0091e439eb215dbe58cd68b724a139519097650"
+  },
+  {
+    "path": "doc/html/functions_i.html",
+    "bytes": 7184,
+    "sha256": "4b497ddba48ce2cb4fa261507d41ca96782d87de723eba1a99a26c3685cc14e9"
+  },
+  {
+    "path": "doc/html/functions_j.html",
+    "bytes": 3168,
+    "sha256": "309a72d3659735b03a0562fbca59d2cb677d00587f347daf703bef9a6e58662a"
+  },
+  {
+    "path": "doc/html/functions_l.html",
+    "bytes": 4512,
+    "sha256": "0e2094b68c4669b4570e392cf23c7e597140422e01b27cf7e0fadf98a01eea27"
+  },
+  {
+    "path": "doc/html/functions_m.html",
+    "bytes": 8348,
+    "sha256": "3da423a84c01b798d3c0b109a75f41ddf0e24f91a8b3c556f31c9c195856557a"
+  },
+  {
+    "path": "doc/html/functions_n.html",
+    "bytes": 6457,
+    "sha256": "0c878e9e968126ef49d33f41db44ab5d1895ae5bd5bb4fc683eb003834c5b769"
+  },
+  {
+    "path": "doc/html/functions_o.html",
+    "bytes": 3049,
+    "sha256": "605a9762172ec508abb49582014e0693b498de836feff04dc723bee23b021e8b"
+  },
+  {
+    "path": "doc/html/functions_p.html",
+    "bytes": 5710,
+    "sha256": "65ff445c430183efc095d800a22e1a7809bb38d7672649812a85e9fd94b03be2"
+  },
+  {
+    "path": "doc/html/functions_prop.html",
+    "bytes": 21447,
+    "sha256": "5d79a2413d7c0b85de3341a0ad40a3c54eb7d19e18d85a24ff275f145654700d"
+  },
+  {
+    "path": "doc/html/functions_r.html",
+    "bytes": 4576,
+    "sha256": "24a4ff98460922ea37fef84021b181176d41016e933856c8845a82f5aee4c29d"
+  },
+  {
+    "path": "doc/html/functions_s.html",
+    "bytes": 8933,
+    "sha256": "4d770e4abf3a45bba521ad11eb8b175efd0d19effb26d38a253b501e76f450c5"
+  },
+  {
+    "path": "doc/html/functions_t.html",
+    "bytes": 4599,
+    "sha256": "6ecc75124529c64e15bef21f8103aa18cf9c097fda9e296968539df08382ab10"
+  },
+  {
+    "path": "doc/html/functions_type.html",
+    "bytes": 2882,
+    "sha256": "0c0a3610515077d4e4b0a8845f850dce27fd7501afbcceb98ef4c5dc8942d2f3"
+  },
+  {
+    "path": "doc/html/functions_u.html",
+    "bytes": 3507,
+    "sha256": "53c589eeec48af507146ae96b5b366292ffa52f4531c10572b466b723486ead8"
+  },
+  {
+    "path": "doc/html/functions_v.html",
+    "bytes": 9700,
+    "sha256": "f61d0f9a3c2538f69299e3a7c0eba428a524bb0c1c75bdae643316e8350a79a9"
+  },
+  {
+    "path": "doc/html/functions_vars.html",
+    "bytes": 6816,
+    "sha256": "e43eb90939801f5a80d4290be963d14bfe291fab6515cbc86f6c2411ae670db8"
+  },
+  {
+    "path": "doc/html/functions_w.html",
+    "bytes": 3030,
+    "sha256": "0d9c84d4682949cc66e3b9616ed909ccfe72b4eeff9ff4a45dcdacfc7937e8b3"
+  },
+  {
+    "path": "doc/html/functions_y.html",
+    "bytes": 3025,
+    "sha256": "6ce5a0c56fd05ebd7fbbbdca93fe072bc317e5e14028bb81fedc10cbe209b9f6"
+  },
+  {
+    "path": "doc/html/hierarchy.html",
+    "bytes": 12816,
+    "sha256": "665ead188e48e9537d0b79221345db5c949517a9f26099cb7892d09b0fbcac3b"
+  },
+  {
+    "path": "doc/html/index.html",
+    "bytes": 2843,
+    "sha256": "2cdfaa4faf0e980ff112444dfc2b3444cd9cdb7c57e3efd47dd30efaae538967"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_audio-members.html",
+    "bytes": 4589,
+    "sha256": "a9aff8ce723643d46b31b542d069235f3ec566f5c390bc96010bd90dad0e348e"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_audio.html",
+    "bytes": 10642,
+    "sha256": "5742ff406b7e7e46f708b835de79a6943a9f22042c38937b4a2540af9bc27f58"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_audio.png",
+    "bytes": 440,
+    "sha256": "b1518a7bdaf909a2f670dd70b93ea69d56e2c81afe3a5ed5898362f7dd70c674"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_dialog_provider-members.html",
+    "bytes": 4603,
+    "sha256": "2a02e7ceceb48868659f099fbfbf4ed6c966ef16ebaf61c881ecc5887ccb2d41"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_dialog_provider.html",
+    "bytes": 13543,
+    "sha256": "f4b2ae50c0aa0ad78edce7344ec7a17d8583d52dcd46d87e6e65132c46029f57"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_dialog_provider.png",
+    "bytes": 544,
+    "sha256": "3cb528fc6a08e19e258dd856de1767761ddfcd2c60f63eb9562a7c67667bbac6"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_extension.html",
+    "bytes": 9340,
+    "sha256": "9c42ac58cdfe2bbd6bda95fee48d9460059f1eda1cfb61f2d91b898677a27ece"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_extension.png",
+    "bytes": 471,
+    "sha256": "492649cacd13a772851497c32200fe1cfd895ed9ad6834003b01a4318da79c43"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_extensions_manager.html",
+    "bytes": 9690,
+    "sha256": "372921c9e900cdbb52565b7d5c8f375ae14391b27b3dd510cfacf697c6f79162"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_extensions_manager.png",
+    "bytes": 604,
+    "sha256": "ec2d1953ab587ca0cc5553b76cfeccd5701ea43e907bd174ba794a0e248edee5"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_library-members.html",
+    "bytes": 6407,
+    "sha256": "b9df1e39ada4ee3c6bfe665a9eafbc25de847ce3eb0818dba97cd8f161bd9ae1"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_library.html",
+    "bytes": 21950,
+    "sha256": "65e7a55160b5957db92bf7a02999421c6fd001f87069c5d040559700bcfee6b1"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_library.png",
+    "bytes": 454,
+    "sha256": "95b035160673dd5b2c951991904807ff28d687c5973dd0300dca4dd9102ff366"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media-members.html",
+    "bytes": 26182,
+    "sha256": "db426e1bc9cee2880ce64b48fd179eb1c58b62a8e6ef16acb9cc4f597f6a9820"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media.html",
+    "bytes": 105806,
+    "sha256": "8edfdb099a35e8a063566f1b5a89158b45f76c91cb69601f815871cdb4ec79e4"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media.png",
+    "bytes": 451,
+    "sha256": "9d16c83818a0c89d82ee29ffef589d2a385cb2cdb70d8d209b34a1c1c4183c99"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_discoverer-members.html",
+    "bytes": 6134,
+    "sha256": "5cac1a9726b44c8175eeed78b123755a0555a5b6db7991a3008390afe4d24c83"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_discoverer.html",
+    "bytes": 17342,
+    "sha256": "31b2c3a7a6cdfbbbb308c21af67dec85ee47b9dc22d465611da7fb01df53b2a9"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_discoverer.png",
+    "bytes": 584,
+    "sha256": "f2326fcb8e5070c46b53f4db47ebba0bc05c201bd73fcaf66bd91fac30e9c462"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_library-members.html",
+    "bytes": 3650,
+    "sha256": "e660c5ce9442866d264afb5e71a5c5eaf107355f0dfee676a90a2cc217e3dc93"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_library.html",
+    "bytes": 6495,
+    "sha256": "fa23f19386b968dd7b3ee253fce69c7fd208936505357f8967a0ce4832e58af9"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_library.png",
+    "bytes": 529,
+    "sha256": "a15987f57df20867df3172974cb08843bfdd0273bfd8b735be1a76fdd4d5e5b7"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_list-members.html",
+    "bytes": 6083,
+    "sha256": "9132d898192a419592becb06dec608521aada48cd150ac5502ac0e85710ca949"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_list.html",
+    "bytes": 18435,
+    "sha256": "97ed866ab53e233bdd3d2871f42150bc28c37ee2137d953750bac10b7fdb9e34"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_list.png",
+    "bytes": 480,
+    "sha256": "443e427a8aff91c2caf880fa3209216c4c0113e1498c8d3a787648fbc19a46f0"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_list_player-members.html",
+    "bytes": 7816,
+    "sha256": "019b8e6ba387da3e61a8e901eb373f881aeccb332773e72965bac9b199cc98c9"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_list_player.html",
+    "bytes": 22643,
+    "sha256": "a0895f7737800e53a0ef654cf7371bc2ed1561bf5fd57e3ed2ff41a0aa671216"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_list_player.png",
+    "bytes": 544,
+    "sha256": "8a3b3c05160042149e269a1be8ce086bc2f69e574a0f8b02400d1768632d1fcb"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_loudness-members.html",
+    "bytes": 3630,
+    "sha256": "6f4b367d4cd27b6360963a69bb25cb7562d74ba5f11aa54e7768afb95810a22a"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_loudness.html",
+    "bytes": 6406,
+    "sha256": "788716c95f8e64d326f73ab73e5a209420da458878094e66c6d1d1d378ef4b28"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_loudness.png",
+    "bytes": 533,
+    "sha256": "d7703c7fb3c5bfe68370086c1157d9143a27ff779152ec934f415f800287cb4b"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_player-members.html",
+    "bytes": 34627,
+    "sha256": "06322b5c6a1ef275a9820d44b2f89e708dfb7cecad6abfa6b4a0266e35efc8a0"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_player.html",
+    "bytes": 141338,
+    "sha256": "98dcd8623886eb44414c3d84428f57e52475b64befcf87b4ca0a82bf86b18b09"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_player.png",
+    "bytes": 805,
+    "sha256": "995a3897413cda120cf2b51de631270bee959ab67d378b531d3d753952e98a36"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_thumbnailer-members.html",
+    "bytes": 6191,
+    "sha256": "52f9d7fdcb0cc38618b6188abb6323cf59792bf2b749e1d572960bf777f8f6e7"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_thumbnailer.html",
+    "bytes": 18584,
+    "sha256": "d1a421f8b36aa9e40bd56789ec9b287bd3008535cabf5d4e5942afcbd5fa9c85"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_media_thumbnailer.png",
+    "bytes": 598,
+    "sha256": "42a02e4d2a1e52cadb39a7ebf604f5c936a19386732cc827353c75acbcd4af17"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_playlist_data_source.html",
+    "bytes": 10615,
+    "sha256": "fa82bfa1f36c87dd4edbc3b29613e8121e1e119124f4ddf668b01de0e77e12e8"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_playlist_data_source.png",
+    "bytes": 607,
+    "sha256": "4206435f5030a12e024b02e8687dbc768baaa55df5972f34786e85a86eef9e87"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_renderer_discoverer-members.html",
+    "bytes": 5849,
+    "sha256": "432a5bfbb2bdd4e461aab1f655d6e2d753ab6cc5fe0cd2f8e69e0afb0079af49"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_renderer_discoverer.html",
+    "bytes": 14597,
+    "sha256": "a5be3134c2fc86ff477160cfff576712f599811a851200591b7bba5b9e259bd2"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_renderer_discoverer.png",
+    "bytes": 599,
+    "sha256": "f0fc99a2a9b557103c71e797eab5d01c09edfad832cac0cfbec46d4450a3b351"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_renderer_discoverer_description-members.html",
+    "bytes": 4128,
+    "sha256": "68ea844c341ea67b7f4c615c39aab2d0322f408f9a34853244c630595998a5d1"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_renderer_discoverer_description.html",
+    "bytes": 8279,
+    "sha256": "47d5101b3c3f890675f54c571bfdc6bce0d57a43497738013d523247c57d12a4"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_renderer_discoverer_description.png",
+    "bytes": 689,
+    "sha256": "20fa72e8299732e164296816678f03b33e732d3624e85dfb83c8a261b767ea26"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_renderer_item-members.html",
+    "bytes": 4476,
+    "sha256": "fa4fac3f99f145d23a5ea26139bf817345b49b50f229bee9bd28fdc853882f5b"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_renderer_item.html",
+    "bytes": 9608,
+    "sha256": "36730a64a59d448c8da0c3152e46482195adce1321141ef91a9ff3a5c7e4f66b"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_renderer_item.png",
+    "bytes": 526,
+    "sha256": "83d98145667bb56474b62d8ca43e3c167c2fcbb016d116525c991643630975c7"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_stream_output-members.html",
+    "bytes": 5688,
+    "sha256": "39b246ffa3056b575e20842a2303454d1f12241f37fb98a2e0855043e95fd103"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_stream_output.html",
+    "bytes": 13350,
+    "sha256": "32b1d25d888569ad4240389ffc893acb09da2891afe34d48df3bc291626f2c96"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_stream_output.png",
+    "bytes": 527,
+    "sha256": "7bb7569617cced0523d78b8bd8e85b73a21ba4581d150594395729cd2f3a9eff"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_stream_session-members.html",
+    "bytes": 35544,
+    "sha256": "568fa51dad6275bf5dcf46dd8603472cf85607125d91da2e4b527d4f93e9f868"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_stream_session.html",
+    "bytes": 65243,
+    "sha256": "f9da1a58386a97b32875f22f2d95085612676102c980f140225365942b534cba"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_stream_session.png",
+    "bytes": 795,
+    "sha256": "04d0b1a4635b8531dc6871564b284873ef027d1e5e91099f2f4d6dc9858936bc"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_time-members.html",
+    "bytes": 6762,
+    "sha256": "53131914e1997bdc8412116d50847297c424988b039d861994c2361e9985222d"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_time.html",
+    "bytes": 22248,
+    "sha256": "5d3fd00012729170391f980e3bdacc5e823ef41768a6d797590883aa08ed487f"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_time.png",
+    "bytes": 440,
+    "sha256": "85cbc8c9f96053ce3a307211375bb55fbf5359f5bc192c81c6ac62904657c688"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_transcoder-members.html",
+    "bytes": 3625,
+    "sha256": "efdd8843409f5f8064042cc86da6e7d597f145874b18df03dd9e4407e07776b8"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_transcoder.html",
+    "bytes": 7716,
+    "sha256": "82030e4c2d5ce7ed8c9a024001f1d2de0ba71664ca1c5c5d9492cdf2c3db0f50"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_transcoder.png",
+    "bytes": 498,
+    "sha256": "15337db722ef0651c6def297d9ff950bca7094f790e9089882e3e319315519d2"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_video_layer-members.html",
+    "bytes": 3604,
+    "sha256": "d93032d0e0814a874083558514ff89907c6c012f07c38192996129e1a46b0cf2"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_video_layer.html",
+    "bytes": 6251,
+    "sha256": "a6f92f09b8ccb42689b2a9e3b259ab28a88728d92dccf3a649464352014c88eb"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_video_layer.png",
+    "bytes": 500,
+    "sha256": "5a613b8ea614707ae93d343cb660acc1cd2d2ec87291fc71491f53430563a505"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_video_view-members.html",
+    "bytes": 3881,
+    "sha256": "c6b99571327da09bcfccb6ac9e68058fc55ceceb7f523f5374af697b51a01213"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_video_view.html",
+    "bytes": 7381,
+    "sha256": "ff661eeabc365ad895fd626ab924f4561991cc79374795ac825603d97c40fc94"
+  },
+  {
+    "path": "doc/html/interface_v_l_c_video_view.png",
+    "bytes": 475,
+    "sha256": "5b5425ef111102d6cce7d1de3f847ef5772779217ab4f81450dcca7387dfbe8d"
+  },
+  {
+    "path": "doc/html/jquery.js",
+    "bytes": 175457,
+    "sha256": "8ee7b87eaf2a8b20244ab3ad78faa880c4d1b5b01258036ef429f208d64c9d75"
+  },
+  {
+    "path": "doc/html/menu.js",
+    "bytes": 3222,
+    "sha256": "f76fce95ed030f69df8f551ef5b97882dc6e40caea127547792b5e6b76f24728"
+  },
+  {
+    "path": "doc/html/menudata.js",
+    "bytes": 4845,
+    "sha256": "57fe313bbf889aba52389e2bb77a398b94fbd1b68b0f6a5667a769fa980d58f0"
+  },
+  {
+    "path": "doc/html/nav_f.png",
+    "bytes": 153,
+    "sha256": "4bdc6a72666e1b300fdfc5ecf102714c9fd57df76fdf47139f8dbf8ae5986364"
+  },
+  {
+    "path": "doc/html/nav_g.png",
+    "bytes": 95,
+    "sha256": "3171164c16baa5953c17821a7ce5feac673c05a56b287453ce3a0bf5048f0999"
+  },
+  {
+    "path": "doc/html/nav_h.png",
+    "bytes": 98,
+    "sha256": "b7711604d6cdeaf3cdfd661fa21fc5bf18de929671c801f00415eaecd35abda3"
+  },
+  {
+    "path": "doc/html/open.png",
+    "bytes": 123,
+    "sha256": "a04665e9dd0ef5ef2c6ddf02b4a12472984485adb027fd12ae6c60ffd203b1a4"
+  },
+  {
+    "path": "doc/html/pages.html",
+    "bytes": 3214,
+    "sha256": "cc44a007c816952f592dcc857e237fa473c1f91dab130622f4af1974c73283e1"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_custom_dialog_renderer_protocol-p-members.html",
+    "bytes": 5463,
+    "sha256": "912a71f0af47f4e7b25c7aa2ef93ea4f02c8688a7e8900d9bfb0f1a7e8ee4895"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_custom_dialog_renderer_protocol-p.html",
+    "bytes": 17681,
+    "sha256": "899a0137125e9f1e27483aea4930cec60369674cbc94434dd0d0cf483815b9e2"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_custom_dialog_renderer_protocol-p.png",
+    "bytes": 714,
+    "sha256": "9b1395b06e92b44ec97778fd58bf271f8e62ec79b57899cd16331178396f1bf7"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_custom_dialog_renderer_protocol_01-p-members.html",
+    "bytes": 5487,
+    "sha256": "0a38b3db03b0a207bbe013c0fa7ac028b756e67326a994d681a4ba40b0210ec1"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_custom_dialog_renderer_protocol_01-p.html",
+    "bytes": 18059,
+    "sha256": "3ea851dc2576c0c76bb021236672acdac187550900f91929c617050fe5ca9f72"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_custom_dialog_renderer_protocol_01-p.png",
+    "bytes": 720,
+    "sha256": "6de9ec45f989f30ed0c186d067eb14bb471b4d16ae2c850bb0d92885aee68297"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_library_log_receiver_protocol-p-members.html",
+    "bytes": 3466,
+    "sha256": "4eefdfdf61b6ed6f4f85bb2b9f74425b4ec807e9f4d9f9f6bd7ec7de1a4b5a82"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_library_log_receiver_protocol-p.html",
+    "bytes": 5459,
+    "sha256": "ff120734c8afd42a233dc79f51528d0d22bd1ba86ebc5c50a6b99a3ec0b5fa55"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_library_log_receiver_protocol-p.png",
+    "bytes": 742,
+    "sha256": "b64b1cfa4e3717b1b3fdbabc3f89d836a82597002cd8a0d73f9c3d646c4b8bb7"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_delegate-p-members.html",
+    "bytes": 3681,
+    "sha256": "fb88dd3a8185a3f16df74e180b42e7072ef03c6503d8276352aaa03580a9d1e4"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_delegate-p.html",
+    "bytes": 7121,
+    "sha256": "7008b41381c3e952568fdf113f6fd5023cd07e86a0a70432b19d4f5bf48b1738"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_delegate-p.png",
+    "bytes": 599,
+    "sha256": "176abe39ded46784659f8eef1eed297bde1e3692fcbc069ef1ae3ad290e56450"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_delegate_01-p-members.html",
+    "bytes": 3678,
+    "sha256": "d960adba149606ba05289e836e7444160ce6b930823d49faf2135d19988b357b"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_delegate_01-p.html",
+    "bytes": 7279,
+    "sha256": "7a011e24bd344399ee318c79b859117e2400f408ad76d45926cffee64e779946"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_delegate_01-p.png",
+    "bytes": 606,
+    "sha256": "d72a1bfb27232ba8b0364cd0f403c13c76e0fb5f8f3bc9303145e0701241ec4d"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_list_delegate-p-members.html",
+    "bytes": 3736,
+    "sha256": "d8b9a9d0c45751a2c1bd65dbe73d878c487a5fcb23171c57fa85e9bdaf852e61"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_list_delegate-p.html",
+    "bytes": 7828,
+    "sha256": "d29ac2b8fe1fc4919c69b8357f79f29e21c41fe92f501ad7935dbd816895d6f3"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_list_player_delegate-p-members.html",
+    "bytes": 4143,
+    "sha256": "6c7708c3716491cab7cac537d631a9c4404d089df86bacd38177aa7c219fb02e"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_list_player_delegate-p.html",
+    "bytes": 8274,
+    "sha256": "73f31dd6e4464880a0d9ed6eb2544e589905164d8ba71b54b5052b7a71e85af6"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_list_player_delegate-p.png",
+    "bytes": 713,
+    "sha256": "feb96334d9876c3930d924b901cd908621a0a22a66847c62e23a5863bcf3e61d"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_player_delegate-p-members.html",
+    "bytes": 5735,
+    "sha256": "f6bd40c65bc01ceea06a54780b743db5897cf2a7ffc60f9c51a280dadde8a871"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_player_delegate-p.html",
+    "bytes": 16731,
+    "sha256": "0b430162c72d732f53185b7f1098e1bc1e6926383c342dfeed03128466657caa"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_player_delegate-p.png",
+    "bytes": 704,
+    "sha256": "ca34f6bb5d8b13f2913455e2343b92e02baf3532b5b084c80d633db22ffbfe12"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_thumbnailer_delegate-p-members.html",
+    "bytes": 3803,
+    "sha256": "64c138f9009a35cc92e1fadc43eca2abd3307553ee4800d1539638f22e07ea36"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_media_thumbnailer_delegate-p.html",
+    "bytes": 7496,
+    "sha256": "9bf100ff52effd6bf8cba6089841e2c235b95c9001cf890f2ecf5b6a5b72b0fe"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_renderer_discoverer_delegate-p-members.html",
+    "bytes": 3938,
+    "sha256": "d22697dc9856519d03e12b502502d837a63976fdbf626d012b8b3ac489022932"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_renderer_discoverer_delegate-p.html",
+    "bytes": 4790,
+    "sha256": "fad3e84a3d4aad06b0987b2f557d5837c5f53a9c3581c364b6e5a7d3a6e0927b"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_renderer_discoverer_delegate-p.png",
+    "bytes": 701,
+    "sha256": "a229d7c7d91195d7953fdfc706d8179777d3a403753b4b0a90598d764f31f7f7"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_renderer_discoverer_delegate_01-p-members.html",
+    "bytes": 3937,
+    "sha256": "83a37f7d83b8ca26acae2107aac6d6e8cb909c9579da7c2a0d2f061ca6cd36d1"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_renderer_discoverer_delegate_01-p.html",
+    "bytes": 4943,
+    "sha256": "eccad7defbdebe208dc23125fec9258082bb81415effdff044245757a05877e4"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_renderer_discoverer_delegate_01-p.png",
+    "bytes": 705,
+    "sha256": "b51b09bbcb3e7395eb6ba95f3b5ad4a76de3577c985e7d543bad42a1df13e9d4"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_transcoder_delegate-p-members.html",
+    "bytes": 3417,
+    "sha256": "8623eec7c304ea878e1237e7c9870d78a84c267b8642574ec0267c0fb954530e"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_transcoder_delegate-p.html",
+    "bytes": 5534,
+    "sha256": "0a8ca90eb3d30aa9ac2c0f0c8891261c104e9f208bef1a3e78d559feda56eac2"
+  },
+  {
+    "path": "doc/html/protocol_v_l_c_transcoder_delegate-p.png",
+    "bytes": 641,
+    "sha256": "8c1e91e06b65aa0b968975cfb28f33a69e71011eeaf9560416f6d85b73483649"
+  },
+  {
+    "path": "doc/html/search/all_0.html",
+    "bytes": 1422,
+    "sha256": "27b7fffc8c1634e4267c7730d0fe8104568e7bba570f82f0e4b616cfc0066b91"
+  },
+  {
+    "path": "doc/html/search/all_0.js",
+    "bytes": 2167,
+    "sha256": "fb2218d4f34c7add7d18796b10a8df983bd60c063eab64c7b44439a9f3752894"
+  },
+  {
+    "path": "doc/html/search/all_1.html",
+    "bytes": 1422,
+    "sha256": "a31fb7b4f1376f154bb1fd02170ebddcd4204d4357f830d98a5986b563d291ac"
+  },
+  {
+    "path": "doc/html/search/all_1.js",
+    "bytes": 1470,
+    "sha256": "6ac6c649bb745164b911de0be26a10f9b0970278edd612ce4488d7d828a4feb9"
+  },
+  {
+    "path": "doc/html/search/all_10.html",
+    "bytes": 1423,
+    "sha256": "bd133ab2cc388948be42ddea48b80c6eb75f97e6958de383344d84e399f3f37d"
+  },
+  {
+    "path": "doc/html/search/all_10.js",
+    "bytes": 1919,
+    "sha256": "fd89f4fe65df543cd0e8412c16bcc20a9740b4fb44f4bde0e925ef2a2fcfba49"
+  },
+  {
+    "path": "doc/html/search/all_11.html",
+    "bytes": 1423,
+    "sha256": "2a9ecb9503a438811fece8203a20a848acce15eaaece254c24d1170f4f6f494f"
+  },
+  {
+    "path": "doc/html/search/all_11.js",
+    "bytes": 6615,
+    "sha256": "e0c2f44a229138fb543bd067e347aee25fbdd86dfeab52c7d59e5d8ac4cfa463"
+  },
+  {
+    "path": "doc/html/search/all_12.html",
+    "bytes": 1423,
+    "sha256": "4880c26091238b68b44bdc9b303348fc95c701872b8ffd3374cb9c7810936ae3"
+  },
+  {
+    "path": "doc/html/search/all_12.js",
+    "bytes": 1824,
+    "sha256": "14d73a5df6423ef54b9dafe2d61b0f1a064a735bdf680e4d616c14571dc0d56f"
+  },
+  {
+    "path": "doc/html/search/all_13.html",
+    "bytes": 1423,
+    "sha256": "19cb0ec8a83492d2f0fcd700176e0b06d26b983162645d106253c4ff16bd720c"
+  },
+  {
+    "path": "doc/html/search/all_13.js",
+    "bytes": 690,
+    "sha256": "0fc2401b336f41a2f6228f7c9f87a15e3391af5d3a970057969ad06550d2d6eb"
+  },
+  {
+    "path": "doc/html/search/all_14.html",
+    "bytes": 1423,
+    "sha256": "8ffe42fe38d364b0294449fe438eb319dda8fda547456d1a75034ebaba37de2f"
+  },
+  {
+    "path": "doc/html/search/all_14.js",
+    "bytes": 10671,
+    "sha256": "037dcfa3b7b559b1f9fed4c83c5405bad2b8b16ea913813285bc59b7904adffe"
+  },
+  {
+    "path": "doc/html/search/all_15.html",
+    "bytes": 1423,
+    "sha256": "0600be9ef2295f0bf60b3c47f07b96a639b8cd35c13bbcd1cb53c46d1cc3a565"
+  },
+  {
+    "path": "doc/html/search/all_15.js",
+    "bytes": 147,
+    "sha256": "b9884019a96b466fc097f9751378f7a0753b5da72c8c594f297d0ec4711616ae"
+  },
+  {
+    "path": "doc/html/search/all_16.html",
+    "bytes": 1423,
+    "sha256": "bcf1ffd10954b40b598be5c5aac179b2b4bc1c606edb877cb011d8da0c9b9379"
+  },
+  {
+    "path": "doc/html/search/all_16.js",
+    "bytes": 137,
+    "sha256": "a3468832e6c117c44985a94753ff4dca82fb6badb02cce9a55419a483318caef"
+  },
+  {
+    "path": "doc/html/search/all_2.html",
+    "bytes": 1422,
+    "sha256": "e914534da35ee115fa8ab985b427f0fd363aa4af5a1b804edf4f9a6c22bbd53d"
+  },
+  {
+    "path": "doc/html/search/all_2.js",
+    "bytes": 274,
+    "sha256": "46a6384bee31f98fae75768b891f610e2df130f16c43543e15b6ea91c256bf9f"
+  },
+  {
+    "path": "doc/html/search/all_3.html",
+    "bytes": 1422,
+    "sha256": "d4098a43e5f787e6f263ff7fff4a8131b629919555adbbdd8b3fc9cc4a6bb55e"
+  },
+  {
+    "path": "doc/html/search/all_3.js",
+    "bytes": 2883,
+    "sha256": "c894ab821776ef6cf701b57f7879a3ce3f821156e8862586227d12f4bd756a74"
+  },
+  {
+    "path": "doc/html/search/all_4.html",
+    "bytes": 1422,
+    "sha256": "5e0423099244f1be70de3cddd80cc7905a63ba902e523e064254869c556d32be"
+  },
+  {
+    "path": "doc/html/search/all_4.js",
+    "bytes": 1969,
+    "sha256": "61926e9d77f85c3005466c029770e21a89d7addd237a7e2b5b19989fe95bbb83"
+  },
+  {
+    "path": "doc/html/search/all_5.html",
+    "bytes": 1422,
+    "sha256": "055e04c36ad5eadacc751e39f6d3d469c3b92cd43a7e13ed7a6800067acdaf53"
+  },
+  {
+    "path": "doc/html/search/all_5.js",
+    "bytes": 612,
+    "sha256": "a99591f38ae321ac20a48f05c50b24cbe6a89422aeab3f8276d62912143fdbea"
+  },
+  {
+    "path": "doc/html/search/all_6.html",
+    "bytes": 1422,
+    "sha256": "c3a32d6ab46c4be0be28e2268e87500f19776fbc9fcd7bb1c23358def1639778"
+  },
+  {
+    "path": "doc/html/search/all_6.js",
+    "bytes": 1090,
+    "sha256": "84b899b1c6689f93dd2ecb33ed682690bd6a95dd09b65ca3c4cb588b1b2a77e3"
+  },
+  {
+    "path": "doc/html/search/all_7.html",
+    "bytes": 1422,
+    "sha256": "7272ccefdac6c9c3e305f742933997a4abd80d01aa479cc579e781bb01ad5282"
+  },
+  {
+    "path": "doc/html/search/all_7.js",
+    "bytes": 276,
+    "sha256": "72bd4ba5fdf9d5261d75b66dbb6a2d888917a7453e189c851a28b94202caa489"
+  },
+  {
+    "path": "doc/html/search/all_8.html",
+    "bytes": 1422,
+    "sha256": "575ada2432ea9f2d17cfc224907e57b549a10cebd5c8a7c56355f7d52c99654a"
+  },
+  {
+    "path": "doc/html/search/all_8.js",
+    "bytes": 808,
+    "sha256": "4f96c87f970f15fd34a31bbe3d32cc1c82af60750ed065d9754cd9b2ae97ce65"
+  },
+  {
+    "path": "doc/html/search/all_9.html",
+    "bytes": 1422,
+    "sha256": "e724b7615770705ddb92d7cb74dc630f010589f6f87f6def73a866b41eaa6538"
+  },
+  {
+    "path": "doc/html/search/all_9.js",
+    "bytes": 4575,
+    "sha256": "e19f78ab09bb7f539e6da130a056c46d5b08639ac2d222e7442936af9ef6f014"
+  },
+  {
+    "path": "doc/html/search/all_a.html",
+    "bytes": 1422,
+    "sha256": "e104768a347040f2ff8a898e9de151f3ee285e2481af7bd06f856f7bddc2a7d9"
+  },
+  {
+    "path": "doc/html/search/all_a.js",
+    "bytes": 294,
+    "sha256": "a2e6a2c02186083998bd08c949a4513b5851b17c6b252f2dbb91ba16b93befd4"
+  },
+  {
+    "path": "doc/html/search/all_b.html",
+    "bytes": 1422,
+    "sha256": "ce4413e27922edad985390bde02b898971aeba13f9b55a730e182f33e59a7bf3"
+  },
+  {
+    "path": "doc/html/search/all_b.js",
+    "bytes": 1663,
+    "sha256": "753b2b4217c547152e4757b216dead153908c3c383557398ee4ee8aabc4e1715"
+  },
+  {
+    "path": "doc/html/search/all_c.html",
+    "bytes": 1422,
+    "sha256": "7e68116a8c53a67ad6c77922d1ae1d0dc625fb991ddc175cf641c10350d0ff2f"
+  },
+  {
+    "path": "doc/html/search/all_c.js",
+    "bytes": 5815,
+    "sha256": "d9a897c8977832eac41b6be8f0401e4547ec639c1946dd55d164daba0651ae43"
+  },
+  {
+    "path": "doc/html/search/all_d.html",
+    "bytes": 1422,
+    "sha256": "19ff8576a2dfe3b423dce1f1cbdea7403086abc89da7c12b18c138743a81cf05"
+  },
+  {
+    "path": "doc/html/search/all_d.js",
+    "bytes": 4173,
+    "sha256": "9639cac6a763a6a2454e845f41d6bfee91b76aaf8b33591c07e306f2357c7cf2"
+  },
+  {
+    "path": "doc/html/search/all_e.html",
+    "bytes": 1422,
+    "sha256": "b42c0c62a09a9419e21b2b19b2c38e2668b80c6a6e601469923d5c8a75b8c717"
+  },
+  {
+    "path": "doc/html/search/all_e.js",
+    "bytes": 187,
+    "sha256": "dc3c1b8978a59bd693aa6edda5ef93e1f29a41d6ebc7da3d681b1ae2c3520e69"
+  },
+  {
+    "path": "doc/html/search/all_f.html",
+    "bytes": 1422,
+    "sha256": "8e895c6b76b62c09202b1cb82dd57a6257d78953b471c0b791afb6e8e5deee8e"
+  },
+  {
+    "path": "doc/html/search/all_f.js",
+    "bytes": 2956,
+    "sha256": "cc126d7766d89b04a6a7e53985adfd1659c3cdaa66dec2272d2685d4371ccf25"
+  },
+  {
+    "path": "doc/html/search/classes_0.html",
+    "bytes": 1426,
+    "sha256": "4bd8e66e554e5d23b2dcad8ec04a28718810c027ffeda188e011deb09f68949a"
+  },
+  {
+    "path": "doc/html/search/classes_0.js",
+    "bytes": 3071,
+    "sha256": "bad295dcf7f7c7509ef39a242376675e086b4a37059a3927fc285ea1dc265fdb"
+  },
+  {
+    "path": "doc/html/search/close.png",
+    "bytes": 273,
+    "sha256": "f6eb1d3449c4157f13cba9fea540652efca373c12cbec11d43e7e458364e747e"
+  },
+  {
+    "path": "doc/html/search/close.svg",
+    "bytes": 1284,
+    "sha256": "1fcad88e3639c03622df5541f3ae365af9c885d2589caae3c35a39342fb11248"
+  },
+  {
+    "path": "doc/html/search/enumvalues_0.html",
+    "bytes": 1429,
+    "sha256": "f6184535f1d30a990b6f93f3f83cca541d55c8dbfff9ad20610ea605f562398e"
+  },
+  {
+    "path": "doc/html/search/enumvalues_0.js",
+    "bytes": 863,
+    "sha256": "738bd198475854b6873bcb6bf0894d3e65999448716370c77db1bef6188bca82"
+  },
+  {
+    "path": "doc/html/search/functions_0.html",
+    "bytes": 1428,
+    "sha256": "b9ec6d7281dd4889d53c16de64f6107a6b40408595aaf41ecb210d7ba06bbe07"
+  },
+  {
+    "path": "doc/html/search/functions_0.js",
+    "bytes": 2169,
+    "sha256": "3a8a5c40f9c1e31ba7c24f63d36e629c0b670ecf31fe7b9a6aa8f38bf5abe120"
+  },
+  {
+    "path": "doc/html/search/functions_1.html",
+    "bytes": 1428,
+    "sha256": "95f1192561942e29c84eb9271f748f52769a5040020f1cb966e9cae7a85f4261"
+  },
+  {
+    "path": "doc/html/search/functions_1.js",
+    "bytes": 798,
+    "sha256": "e7d27d42ca2a42a2adde721d483a51f4e7185de01e6e52b001ccfdd580005001"
+  },
+  {
+    "path": "doc/html/search/functions_10.html",
+    "bytes": 1429,
+    "sha256": "d9a830852a5fab5b947b1e7f388076e673701953b876b762b6f128e962f5951a"
+  },
+  {
+    "path": "doc/html/search/functions_10.js",
+    "bytes": 5124,
+    "sha256": "c31e29935064e92ba4dd2c36c87bd1ec6e362dd144468ba49a1ffb3bd1d6f632"
+  },
+  {
+    "path": "doc/html/search/functions_11.html",
+    "bytes": 1429,
+    "sha256": "dee57eddaa8b2f98393f9a32d93fce003c982d1dbce04a3f204a1a4ae282dd37"
+  },
+  {
+    "path": "doc/html/search/functions_11.js",
+    "bytes": 868,
+    "sha256": "cc4197b7377170331b6eb74f57abefddf6d707e039c0435dfc86a30c7ef5359c"
+  },
+  {
+    "path": "doc/html/search/functions_12.html",
+    "bytes": 1429,
+    "sha256": "3edfae0f1d66d841d4db23ce62cac27d73fd7030ec11a028b959514f451a9af9"
+  },
+  {
+    "path": "doc/html/search/functions_12.js",
+    "bytes": 586,
+    "sha256": "08872214bca43f48fbce229bcc5f1fa7d917ef5d0e969845ace2347d77dc5c10"
+  },
+  {
+    "path": "doc/html/search/functions_13.html",
+    "bytes": 1429,
+    "sha256": "dc1bc47ff4073f9c0c89b4154ebd46640cbd6a51101402bf22c1380e820aeb3b"
+  },
+  {
+    "path": "doc/html/search/functions_13.js",
+    "bytes": 252,
+    "sha256": "e424a1f3dd05f170e55d6203d59f9eaca1cf41a6ae81d305e377370d3327ffcb"
+  },
+  {
+    "path": "doc/html/search/functions_2.html",
+    "bytes": 1428,
+    "sha256": "9b0262af077f3c4110cc934eb958adbed58aa9040cb37aa70cd7448163e42736"
+  },
+  {
+    "path": "doc/html/search/functions_2.js",
+    "bytes": 1061,
+    "sha256": "fff90b6ad6e26f9f6b0bac79244bf2b27be78c42a8584c84f794c7c0f51a8207"
+  },
+  {
+    "path": "doc/html/search/functions_3.html",
+    "bytes": 1428,
+    "sha256": "1e62210c3a904437924a53cfb99487c7897323aa62003ebda662ae1fe4b432e2"
+  },
+  {
+    "path": "doc/html/search/functions_3.js",
+    "bytes": 193,
+    "sha256": "1cb1f222a60f08f8b5818a05a3f3188ac3d840319b1566912368c22c5bdb7c4e"
+  },
+  {
+    "path": "doc/html/search/functions_4.html",
+    "bytes": 1428,
+    "sha256": "6c1e7f7c1899aa7fa216fa3b33a7c33e7a571491c85e8f89c19dc6d9a9ce6a48"
+  },
+  {
+    "path": "doc/html/search/functions_4.js",
+    "bytes": 328,
+    "sha256": "5c6dcb77b4683477e8a4c909e222fe4854aacc5cb773a860326ef494e6099702"
+  },
+  {
+    "path": "doc/html/search/functions_5.html",
+    "bytes": 1428,
+    "sha256": "0e281e409e9f3175a91d88467f7ccaa49160e860a0132dbae52c15814c0ab003"
+  },
+  {
+    "path": "doc/html/search/functions_5.js",
+    "bytes": 610,
+    "sha256": "90d68f81b5d607b1fbac9ab7d64f42cc1b0e823a16e040a8206a96e45b125ae6"
+  },
+  {
+    "path": "doc/html/search/functions_6.html",
+    "bytes": 1428,
+    "sha256": "c0d3145652dc5ca4bc47475cf9b5249ec41b81221b23c45f3655f8d0bc6eaa06"
+  },
+  {
+    "path": "doc/html/search/functions_6.js",
+    "bytes": 157,
+    "sha256": "81f64708f7ba3946931926b06fa7cc246a7c7b9692987a4d91a1f354ec68c2ab"
+  },
+  {
+    "path": "doc/html/search/functions_7.html",
+    "bytes": 1428,
+    "sha256": "3d5aa6af89632b251199007c438a8b201479f29a76939c146a5fa909922dc838"
+  },
+  {
+    "path": "doc/html/search/functions_7.js",
+    "bytes": 324,
+    "sha256": "5d39df34c330986ac28378aff4b3f3531a20cbfc728fb8e52a9612224aef3653"
+  },
+  {
+    "path": "doc/html/search/functions_8.html",
+    "bytes": 1428,
+    "sha256": "d71ff4d87d0992fd83c96c9cfaf9ff9cf63ad9214ece4814789662c84dbdd150"
+  },
+  {
+    "path": "doc/html/search/functions_8.js",
+    "bytes": 3712,
+    "sha256": "89fc2bf66a4cce6c256c73c0f16743e35c6c3cb6c592b1cbc9ef479d405ee4f3"
+  },
+  {
+    "path": "doc/html/search/functions_9.html",
+    "bytes": 1428,
+    "sha256": "1e6f19c87a4af2ea68b2ed310d00edcb632f77e86054e9acb7f0031fc0dfb634"
+  },
+  {
+    "path": "doc/html/search/functions_9.js",
+    "bytes": 296,
+    "sha256": "f38208e48bddbdc854a236c9b46c3b8a44a61805051b919a967e8576d8c906c4"
+  },
+  {
+    "path": "doc/html/search/functions_a.html",
+    "bytes": 1428,
+    "sha256": "d45d5fbed50513ff7a7468d57225d79ce0863750f84bb67c1f6b45f48ddd38ee"
+  },
+  {
+    "path": "doc/html/search/functions_a.js",
+    "bytes": 692,
+    "sha256": "6609d0b50e68b3b066fa6131b37919753e57ffdcf7bfcfcdfefec09882f4a1f7"
+  },
+  {
+    "path": "doc/html/search/functions_b.html",
+    "bytes": 1428,
+    "sha256": "6a64dc137e9617db3bd2dbe0189d669eccd319a27856c2ff6c5737ce68487bcf"
+  },
+  {
+    "path": "doc/html/search/functions_b.js",
+    "bytes": 4517,
+    "sha256": "7a882fdd2b388dbc245d24a7bf6e4ec50482f80b6096405af95b84d51acada33"
+  },
+  {
+    "path": "doc/html/search/functions_c.html",
+    "bytes": 1428,
+    "sha256": "a4c0854ec122652f348535f7467eb47cab1c91c40ac9f602d926ad79a28bbf5f"
+  },
+  {
+    "path": "doc/html/search/functions_c.js",
+    "bytes": 1192,
+    "sha256": "a3aa966593dd8375d25884ab83914c9f0815b5766f87044df577c520f65b3c41"
+  },
+  {
+    "path": "doc/html/search/functions_d.html",
+    "bytes": 1428,
+    "sha256": "6a7562296a224e899f884453050a4fc716805b9fd5c033111c56fb659b6ee38d"
+  },
+  {
+    "path": "doc/html/search/functions_d.js",
+    "bytes": 187,
+    "sha256": "92185e600105e5d495549ad45c81f56ea610571f0b737b60bbb0348a1db5ec2e"
+  },
+  {
+    "path": "doc/html/search/functions_e.html",
+    "bytes": 1428,
+    "sha256": "3da1a0ae750ede3aabff49b4185f23038cd0affe2d31f6a557db2778240c9448"
+  },
+  {
+    "path": "doc/html/search/functions_e.js",
+    "bytes": 2062,
+    "sha256": "287bf8c85b4cdc76f2459fc9f992a54cdb24e9f5c2bc3ae49350db36a050b413"
+  },
+  {
+    "path": "doc/html/search/functions_f.html",
+    "bytes": 1428,
+    "sha256": "55ba1cf54434afe3084847009b8e801f876df1a9d08afc0340248187bb56e0ec"
+  },
+  {
+    "path": "doc/html/search/functions_f.js",
+    "bytes": 1132,
+    "sha256": "78d1413b81dea99eb501e498ac9565060227ee33d313b0c8301b32c3b0fe5f06"
+  },
+  {
+    "path": "doc/html/search/mag_sel.png",
+    "bytes": 465,
+    "sha256": "a4f4b2ca8687c4f9389cf9e4f032639c474413193de6cae8e6f90e2fdeecb3f3"
+  },
+  {
+    "path": "doc/html/search/mag_sel.svg",
+    "bytes": 2378,
+    "sha256": "38ae19543b0203f135d14c692961d897e3234ff0a49da047a4f1133acf2479bc"
+  },
+  {
+    "path": "doc/html/search/nomatches.html",
+    "bytes": 462,
+    "sha256": "51be9f50ca81953fe7927079fcb96709edf2b2b161be39e7b88477d308b1edd8"
+  },
+  {
+    "path": "doc/html/search/pages_0.html",
+    "bytes": 1424,
+    "sha256": "69627307ecc6d6fd4fc8a8636a0097dc43b70b1fae5cd77123c9ddc217a02260"
+  },
+  {
+    "path": "doc/html/search/pages_0.js",
+    "bytes": 97,
+    "sha256": "a01b72850653bd00c8403b99af8b47217363e7612e583a262194158381fe8d3e"
+  },
+  {
+    "path": "doc/html/search/properties_0.html",
+    "bytes": 1429,
+    "sha256": "4e70003812df90f735dfd2be770fb0cd2a305cd3b9691572d2c9e151abf914fc"
+  },
+  {
+    "path": "doc/html/search/properties_0.js",
+    "bytes": 711,
+    "sha256": "1658163e63f889686fa36ea38f11e7722f636b79739951bf5d3fb29d867de936"
+  },
+  {
+    "path": "doc/html/search/properties_1.html",
+    "bytes": 1429,
+    "sha256": "bdddcea2e4258bead3dc17b3b7bc1593bf4d578d3263f5737af2aa22da7e936d"
+  },
+  {
+    "path": "doc/html/search/properties_1.js",
+    "bytes": 276,
+    "sha256": "b3437f7aaca88d0545babe63ed2912e803c9fd308004d86aa57bff20aaa49468"
+  },
+  {
+    "path": "doc/html/search/properties_10.html",
+    "bytes": 1430,
+    "sha256": "3ceaca007aa484a2a37a97d8c30635dcaa8cd701b4676fec3817149d715dc382"
+  },
+  {
+    "path": "doc/html/search/properties_10.js",
+    "bytes": 124,
+    "sha256": "802ec95a3daf57cbe1c71692444ba2f8ec9e2ba21d93721362714a6b681f9668"
+  },
+  {
+    "path": "doc/html/search/properties_11.html",
+    "bytes": 1430,
+    "sha256": "3df7f8c89eb74cd09f4f4a27a21cb7e703937cd8786c4678edbfacea84952651"
+  },
+  {
+    "path": "doc/html/search/properties_11.js",
+    "bytes": 1646,
+    "sha256": "515b36ae14aaa0aff53f74873859947bd97eb0c5867d9b0a0ab24903e012e715"
+  },
+  {
+    "path": "doc/html/search/properties_12.html",
+    "bytes": 1430,
+    "sha256": "f978ed2effc4d87ef2169b87f96fa7a0ab4816aa377fc6434252ceb3b3c9e901"
+  },
+  {
+    "path": "doc/html/search/properties_12.js",
+    "bytes": 147,
+    "sha256": "a65119c28a5d12f3445a64b749de7c5dbe5d157f7a3fc6a503565e4477c23886"
+  },
+  {
+    "path": "doc/html/search/properties_13.html",
+    "bytes": 1430,
+    "sha256": "aa17c970db17dcad5632865d1fe5d8f4e90eb2c188502fad468ff935fcf2cfee"
+  },
+  {
+    "path": "doc/html/search/properties_13.js",
+    "bytes": 137,
+    "sha256": "6d88cc3a4db3027e2219bbc626d3f7c90f48f427854259bb1de56c00e13ec15b"
+  },
+  {
+    "path": "doc/html/search/properties_2.html",
+    "bytes": 1429,
+    "sha256": "94951bf4f583eb9a6cae3f2d5419dd86e9b52cec1d01fb3a7f17563ebae2976e"
+  },
+  {
+    "path": "doc/html/search/properties_2.js",
+    "bytes": 1861,
+    "sha256": "af3408fab1e630f1cab8900d8fae45cd81df1ae6ce8a36d8b730a7edec5ba1e9"
+  },
+  {
+    "path": "doc/html/search/properties_3.html",
+    "bytes": 1429,
+    "sha256": "4b40bd0e007317ae8a774d7d4be46d6ba5287f6fddf9d4b38d3175d2dc81d786"
+  },
+  {
+    "path": "doc/html/search/properties_3.js",
+    "bytes": 1729,
+    "sha256": "4b5a22ca954960f4c1e099999a8bbdae1dc0117ee18eb7ce8fc2299998bde011"
+  },
+  {
+    "path": "doc/html/search/properties_4.html",
+    "bytes": 1429,
+    "sha256": "606564dc39b0e351a9eed461062280e2bb4edeb8e28b2c029731ad72ee17ab97"
+  },
+  {
+    "path": "doc/html/search/properties_4.js",
+    "bytes": 308,
+    "sha256": "bd855bf92eef684f53d50c412a5eb55e172f6db41fd3f7d43c6c773136e17d6c"
+  },
+  {
+    "path": "doc/html/search/properties_5.html",
+    "bytes": 1429,
+    "sha256": "af570dc68fb963cf83e0aa73f343caa4e74196cbe6576cf0c71fce566176de80"
+  },
+  {
+    "path": "doc/html/search/properties_5.js",
+    "bytes": 507,
+    "sha256": "f2608a8ae288a0d820639d1fa38791737a24807f87ec78f34760f363ec7c6513"
+  },
+  {
+    "path": "doc/html/search/properties_6.html",
+    "bytes": 1429,
+    "sha256": "667e9dccafd2bcdda6908a97ac74b63531553e75f37215ea871b772e3fc1ceeb"
+  },
+  {
+    "path": "doc/html/search/properties_6.js",
+    "bytes": 141,
+    "sha256": "771cf9f8a381e0595d0ad0571d1cc6ad2f2df713deb6f1f95b57cf0c67b323e0"
+  },
+  {
+    "path": "doc/html/search/properties_7.html",
+    "bytes": 1429,
+    "sha256": "7a2b88478f61d6706ffb5401e81d979cd3ca280163aee470be8607e36c21408a"
+  },
+  {
+    "path": "doc/html/search/properties_7.js",
+    "bytes": 509,
+    "sha256": "f3fde84df592eddc633e96f38c3d582e2a0d2f3f5c7f1ca6c585355b597b62c3"
+  },
+  {
+    "path": "doc/html/search/properties_8.html",
+    "bytes": 1429,
+    "sha256": "64c6e9f28d0011b490eec2e061392e4b807c6a04f542923e2c48fadc7a79abda"
+  },
+  {
+    "path": "doc/html/search/properties_8.js",
+    "bytes": 912,
+    "sha256": "1ddbf28c4aeb02dbd1157f3f081624b92d965b652950d7dadb3312d339ab2719"
+  },
+  {
+    "path": "doc/html/search/properties_9.html",
+    "bytes": 1429,
+    "sha256": "102ef6f52c9e62ec9671ab7d554797aa677cfefd95d5b65735521ad1df9ab756"
+  },
+  {
+    "path": "doc/html/search/properties_9.js",
+    "bytes": 1000,
+    "sha256": "471ba3c84aefddb964d7179e2716f2087930d5b194f2c3c57237239ff90c0d61"
+  },
+  {
+    "path": "doc/html/search/properties_a.html",
+    "bytes": 1429,
+    "sha256": "f4df382ec1bc723e78846e15087c42ded4521451bd65483d61e3a4d188c27c03"
+  },
+  {
+    "path": "doc/html/search/properties_a.js",
+    "bytes": 1318,
+    "sha256": "d79c93ac8a6eecf508987558beeec45a0e3f86d898502f3e9dd1c358619a348a"
+  },
+  {
+    "path": "doc/html/search/properties_b.html",
+    "bytes": 1429,
+    "sha256": "f25faca064d3515e760c807b3b7702aaef7d9421814959ce3a45499154132886"
+  },
+  {
+    "path": "doc/html/search/properties_b.js",
+    "bytes": 3001,
+    "sha256": "311b286f8ac1fc5dc77aa3b73357e4ecaf62979911550fbdd43e081d3b0f1f37"
+  },
+  {
+    "path": "doc/html/search/properties_c.html",
+    "bytes": 1429,
+    "sha256": "5afaa3be363c7b7f05d61eb7a92b603910dc12d1fb481c4517af114fa56ee693"
+  },
+  {
+    "path": "doc/html/search/properties_c.js",
+    "bytes": 914,
+    "sha256": "a71883741592cfde621c2907b08d1ec82342c22a274ce06046fc1c66b25945db"
+  },
+  {
+    "path": "doc/html/search/properties_d.html",
+    "bytes": 1429,
+    "sha256": "609f2e69709d78f7156177033c63973d176e58bc73ed977ed9027b7fa3654c4c"
+  },
+  {
+    "path": "doc/html/search/properties_d.js",
+    "bytes": 816,
+    "sha256": "acd096cf85467aceaed9972756082fe7b60b82299b3dd1df719659ab6e5987c2"
+  },
+  {
+    "path": "doc/html/search/properties_e.html",
+    "bytes": 1429,
+    "sha256": "d0315155d2145a3d9f24d2699cdf8208a7def1937f3b9e60098cc0ea73902f3e"
+  },
+  {
+    "path": "doc/html/search/properties_e.js",
+    "bytes": 1511,
+    "sha256": "b9fff5107624fde0041535db36d1e3e57a71e807b424b67fe0f95383f42768bc"
+  },
+  {
+    "path": "doc/html/search/properties_f.html",
+    "bytes": 1429,
+    "sha256": "32816af426c2567f8cfd9b5bdbeb78e270944c2da0273c43e2a4e838b8a8be7b"
+  },
+  {
+    "path": "doc/html/search/properties_f.js",
+    "bytes": 976,
+    "sha256": "bcbf5dd17dcb1df7f59a30325d03313cccf0327828d32a64d44b6c6a5b714de7"
+  },
+  {
+    "path": "doc/html/search/search.css",
+    "bytes": 4361,
+    "sha256": "4ea80b9da985916d088816a904fc1b8592f78b9263e991c95615e695fbd72ba2"
+  },
+  {
+    "path": "doc/html/search/search.js",
+    "bytes": 23359,
+    "sha256": "e5be592aade9be3c20a5c6b63b1f0003020c1865181331718fae59c1336cbb1d"
+  },
+  {
+    "path": "doc/html/search/search_l.png",
+    "bytes": 567,
+    "sha256": "c0f25b1e48a19fbefb9a69a3fd7d6fc2da3ac9451e7ae117e94eef8b7d69a563"
+  },
+  {
+    "path": "doc/html/search/search_m.png",
+    "bytes": 158,
+    "sha256": "1b8441a9427d3b320d912c210a5f238a71b13e6d2f26de7e98b36dce58d7b68f"
+  },
+  {
+    "path": "doc/html/search/search_r.png",
+    "bytes": 553,
+    "sha256": "7182c37ecd6b1466b89b0193a81dcb98812104358d67c68f92c6199bbbf8c206"
+  },
+  {
+    "path": "doc/html/search/searchdata.js",
+    "bytes": 501,
+    "sha256": "d32018393f566d36e1d66824d55dfd9b0c63f7c557e8ffc15a77265b1a04a707"
+  },
+  {
+    "path": "doc/html/search/typedefs_0.html",
+    "bytes": 1427,
+    "sha256": "71eaa3bdefbf6bb3aad8f848e6f6594f1714733aa0e2373dc31e106575338159"
+  },
+  {
+    "path": "doc/html/search/typedefs_0.js",
+    "bytes": 162,
+    "sha256": "d7446f8eecbd60ece07e632bbc8d85d52287cbb9ed4a65b56e7b9c7c74b49b90"
+  },
+  {
+    "path": "doc/html/search/variables_0.html",
+    "bytes": 1428,
+    "sha256": "ddabd0733ad91ed2ac77eb082ed4d406616d4455d82f7beb0c2a367e6bcb6367"
+  },
+  {
+    "path": "doc/html/search/variables_0.js",
+    "bytes": 4777,
+    "sha256": "6c22777c580b50deef2edc0a28eb2fcb32b969e936382398e3b9301869caa5bd"
+  },
+  {
+    "path": "doc/html/splitbar.png",
+    "bytes": 314,
+    "sha256": "1c555557ca84ba3598f52c281780dd7e22655db21ac383712e62d4540a1bc525"
+  },
+  {
+    "path": "doc/html/sync_off.png",
+    "bytes": 853,
+    "sha256": "39bcba0c183ec442cc90fe27a2dbafd4e1c791aff374b5326ba16880a16d9826"
+  },
+  {
+    "path": "doc/html/sync_on.png",
+    "bytes": 845,
+    "sha256": "9abb731904dd1f8eb00aaea66bfef72d5252931d84cc01cfabde3bea854b5b14"
+  },
+  {
+    "path": "doc/html/tab_a.png",
+    "bytes": 142,
+    "sha256": "5ddd37bdced843340e0679b6b4e7ed2fe318fd0cef76d160543722e0c3eac11f"
+  },
+  {
+    "path": "doc/html/tab_b.png",
+    "bytes": 169,
+    "sha256": "901ae15db25905dca7a17b81c6d51869fd12ea569fc4b072d217786b4b4d73bd"
+  },
+  {
+    "path": "doc/html/tab_h.png",
+    "bytes": 177,
+    "sha256": "e4b9bd9425bc87b33d6b1911e6398673939aa2f15ac505b9a1ab029b8452dd08"
+  },
+  {
+    "path": "doc/html/tab_s.png",
+    "bytes": 184,
+    "sha256": "69f392daa28adc942272615ff2db16bcf084f01ec9fcc2f7f6a632b2bba8c468"
+  },
+  {
+    "path": "doc/html/tabs.css",
+    "bytes": 9184,
+    "sha256": "08eca7e89f3dd9ff7f60ea1071450bcc0ac8caa41d5a3cf5bd589eba2f318201"
+  },
+  {
+    "path": "doxygen.conf",
+    "bytes": 105139,
+    "sha256": "6bb71122e51554a5dfea7f8effa6e0c0747bc7079783cf98aaa72d67f38c9a47"
+  },
+  {
+    "path": "libvlc/patches/0001-arm_neon-work-around-libtool-issue.patch",
+    "bytes": 642,
+    "sha256": "bbbcc7578a58003724cf5ca516e63bbd4457c86d27e7699bdfac2e358be57f80"
+  },
+  {
+    "path": "libvlc/patches/0002-disable-neon-volume-plugin.patch",
+    "bytes": 706,
+    "sha256": "eb4488988e4ebd1dfabf13383eb5e078af52f34143769db57772405bd0144a7c"
+  },
+  {
+    "path": "libvlc/patches/0003-Enable-System-DL.patch",
+    "bytes": 2267,
+    "sha256": "c5e4f74a42acc031b1819e31bd7e66e9d6e42f364d84ae2b2044b4cfa0badfd2"
+  },
+  {
+    "path": "libvlc/patches/0004-http-add-vlc_http_cookies_clear.patch",
+    "bytes": 2093,
+    "sha256": "bf9d827119f93ea89d14e68df6c66427386af311aba95f8aa9b1735e30982715"
+  },
+  {
+    "path": "libvlc/patches/0005-libvlc_media-add-cookie_jar-API.patch",
+    "bytes": 5467,
+    "sha256": "a22c95e9592940052045c8a613c60ba7510e82ccb81d95b0eac8d2603e1c3b8b"
+  },
+  {
+    "path": "libvlc/patches/0006-input-Extract-attachment-also-when-preparsing.patch",
+    "bytes": 69685,
+    "sha256": "530cd2a7ac38e2f052cfd837d726be2e98c653cae57e1f22ab8a42c43b4a807c"
+  },
+  {
+    "path": "libvlc/patches/0007-contrib-use-live555-version-that-is-compatible-with-.patch",
+    "bytes": 1755,
+    "sha256": "b2390f1cae2e3beab7cbabaffb28ac935d5e102efe3243c2eb8596bec9c9d6ed"
+  },
+  {
+    "path": "libvlc/patches/0008-libvlc-add-a-basic-API-to-change-freetype-s-color-bo.patch",
+    "bytes": 9342,
+    "sha256": "0e754e6bd413a4dd1c5e67ffb437da3b1b731261de2d649c8848e28025fffd89"
+  },
+  {
+    "path": "libvlc/patches/0009-modules-common-Use-the-full-module-name-as-MODULE_NA.patch",
+    "bytes": 1217,
+    "sha256": "b6b46ff9ae2549e797bf97b61a512ad5588a2cccf89528c26126e6c61196ae22"
+  },
+  {
+    "path": "libvlc/patches/0010-add-auto-deinterlacer-mode-which-is-also-valid.patch",
+    "bytes": 936,
+    "sha256": "30fa5aeeda0c11b4fb078c6dc6ba2705b88a57e7e4dfa5c3ea751da44dd7acf5"
+  },
+  {
+    "path": "libvlc/patches/0011-Users-will-be-able-to-change-the-deinterlace-mode-wi.patch",
+    "bytes": 3396,
+    "sha256": "9dbba11dfbf266d63b97db754b5c8658e9fd41f5a12f8af002500c837f700ae0"
+  },
+  {
+    "path": "libvlc/patches/0012-contrib-ffmpeg-enable-videotoolbox-encoder.patch",
+    "bytes": 919,
+    "sha256": "d38e70452f771160ed0e007eb686e75578db4e6f5eb6f73df8ab24243de9e7ad"
+  },
+  {
+    "path": "libvlc/patches/0013-chromecast-use-vt-encoder-from-avcodec.patch",
+    "bytes": 1457,
+    "sha256": "30dbe9da7a85e28aeb605e36a9435fa043e7081d50ab26cc0237cd563bc8a019"
+  },
+  {
+    "path": "libvlc/patches/0014-core-expose-config_AutoSaveConfigFile.patch",
+    "bytes": 2094,
+    "sha256": "9ec94eb8da410bf69916682b1ed6dacf529d920ee117b5e0bed2a45253ada4c3"
+  },
+  {
+    "path": "libvlc/patches/0015-lib-save-configuration-after-playback-parse.patch",
+    "bytes": 1493,
+    "sha256": "1c2e80ab5d605b00de00dc45a342e42d5424911efc438367f34e0753041c9f0a"
+  },
+  {
+    "path": "libvlc/patches/0016-http-access-retain-auth-struct-for-the-runtime-of-th.patch",
+    "bytes": 3862,
+    "sha256": "f1726b857a82792f729feeb936a791ce95f9058201ce3302c1b54807e3e4a988"
+  },
+  {
+    "path": "libvlc/patches/0017-libvlc-media_player-Add-record-method.patch",
+    "bytes": 2511,
+    "sha256": "c91d3757e56390ab85f2d79002fe81930699dd0a691e4b65500aa7c381fa0b3e"
+  },
+  {
+    "path": "libvlc/patches/0018-libvlc-events-Add-callbacks-for-record.patch",
+    "bytes": 2134,
+    "sha256": "31bc91dbd476cc4fba6edb7a8cd0a8e3e9dd432133874e1b3d1d62bfc7131dd3"
+  },
+  {
+    "path": "libvlc/patches/0019-access_output-file-Add-error-dialog-for-write-open.patch",
+    "bytes": 1588,
+    "sha256": "bb618585958f3d77aeef247981e8a3fef65a3d684716b684b9e5155fd5d6a6a3"
+  },
+  {
+    "path": "libvlc/patches/0020-transcode-add-support-for-mutliple-venc-parameters.patch",
+    "bytes": 14241,
+    "sha256": "822e1e64f8c4a362e2dbd9847d29db1b60f9bec6611321b9a5996c75713adc96"
+  },
+  {
+    "path": "libvlc/patches/0021-lib-media-fix-media-not-being-preparsed-after-a-fail.patch",
+    "bytes": 1238,
+    "sha256": "7b0e209b2a28c85d971ee01803e8693e113f82a3da7cd95de69d8c02ba09b766"
+  },
+  {
+    "path": "libvlc/patches/0022-Add-property-to-configure-an-http-access-token.patch",
+    "bytes": 3053,
+    "sha256": "d04a0ad359cab70cf5d2061d753d8794e63c55fd1d060cd16df0e593267abebe"
+  },
+  {
+    "path": "libvlc/patches/0023-contrib-libvpx-fix-tvOS-compilation.patch",
+    "bytes": 2015,
+    "sha256": "42a31e9c2398b1442b91de6101b1a35bb1edf1601bef9914e2d55cc37a3d46e8"
+  },
+  {
+    "path": "libvlc/patches/0024-lib-media_player-add-stop-set_media-async-support.patch",
+    "bytes": 19078,
+    "sha256": "33103b61308bc974f79dbb8c1bb217be9d951b298cb282c1b2dccfd234ac47c9"
+  },
+  {
+    "path": "libvlc/patches/0025-aout-add-audio-meter-filter-type.patch",
+    "bytes": 4171,
+    "sha256": "c1bad305e45423cc4a67af348d2c9bab914a9e84c6a7576857111ed71ddc8d22"
+  },
+  {
+    "path": "libvlc/patches/0026-contrib-add-libebur128.patch",
+    "bytes": 1802,
+    "sha256": "32055ec05970cf20cb1ef7242b77d1ed6ac2100985ca99af3435a71c2b2a8719"
+  },
+  {
+    "path": "libvlc/patches/0027-audio_filter-add-ebur128-audio-meter-plugin.patch",
+    "bytes": 11653,
+    "sha256": "0f819ddc9825636858ba212542338b19e681e562e9ef2b3beecd217b7c0b8469"
+  },
+  {
+    "path": "libvlc/patches/0028-lib-media_player-add-loudness-event.patch",
+    "bytes": 4679,
+    "sha256": "8e873463a9b1677cbc09cfc59ce211f9f103ed343e754393108e5e9c0a70aadd"
+  },
+  {
+    "path": "libvlc/patches/0029-ebur128-add-measurement-date.patch",
+    "bytes": 4368,
+    "sha256": "15997cca3ec772af7ac2ce9dc3ab61177fe2f419b1220e01aef43b9982a951b9"
+  },
+  {
+    "path": "libvlc/patches/0030-contrib-ffmpeg-fix-cross-compilation-for-macOS-on-ma.patch",
+    "bytes": 1260,
+    "sha256": "03b265813094f01b0454152f855f07c1dde71563e182f96d7fe1eaddbf2bb92a"
+  },
+  {
+    "path": "libvlc/patches/0031-contrib-live555-fix-hostname-lookup-on-iOS-devices.patch",
+    "bytes": 3447,
+    "sha256": "448ca929ca066703a4a3329e2a6567b3ea98412eafaac3d47660059d2b8207b2"
+  },
+  {
+    "path": "libvlc/patches/0032-http-cookie-fix-double-free.patch",
+    "bytes": 732,
+    "sha256": "fddb85b7f4054b34a4e7a60c34ccb4bb5b433dd11c44d5f1c2508000e5237e02"
+  },
+  {
+    "path": "libvlc/patches/0033-upnp-accept-IPv4-interfaces-only-for-iOS-and-use-the.patch",
+    "bytes": 1289,
+    "sha256": "9214e89e1144420a513658d1a05fb8f5badf68c3ecfe5f9e9ca8dc3fa829b56b"
+  },
+  {
+    "path": "libvlc/patches/0034-adaptive-NULL-http-token.patch",
+    "bytes": 1177,
+    "sha256": "df89a0171416c2163e8636d3a2d8693dbee9c2fef9ec264f34e1937f566d8d6c"
+  },
+  {
+    "path": "libvlc/patches/0035-keystore-use-the-system-keystore-from-the-first-try.patch",
+    "bytes": 1381,
+    "sha256": "5880079260244f7fdf80b8f0c0c3783cf718d736cbf45c2192aab6fcda4689db"
+  },
+  {
+    "path": "libvlc/patches/0036-contrib-smb2-prevent-MD5-symbol-conflict.patch",
+    "bytes": 6276,
+    "sha256": "2206e50ca4becfff58572b68a155890a898d3bb733f7648b0fc57e1b4d772d14"
+  },
+  {
+    "path": "libvlc/patches/0037-smb2-remove-unneeded-compat-code.patch",
+    "bytes": 1685,
+    "sha256": "0e1553a16e8742de94f7e8c37ff3c4b0f94f22115d2698ebb44950a36dee5db4"
+  },
+  {
+    "path": "libvlc/patches/0038-access-add-a-cache-helper.patch",
+    "bytes": 24784,
+    "sha256": "1612ad9989bdd7a47e25e94c43d23553f05eed8827ffc272db530e31570fb24c"
+  },
+  {
+    "path": "libvlc/patches/0039-smb2-use-the-cache-helper.patch",
+    "bytes": 4619,
+    "sha256": "55cf02808abbaf8f430f0dd2748362abaded5c03c4067957265af9f77d22bd2f"
+  },
+  {
+    "path": "libvlc/patches/0040-dsm-use-the-cache-helper.patch",
+    "bytes": 5966,
+    "sha256": "822f37062933a6f10bc08c0f3bb6e8c8438b00d24186ef863109498bca3694a5"
+  },
+  {
+    "path": "libvlc/patches/0041-Replace-thread-local-with-pthread-TSD.patch",
+    "bytes": 6517,
+    "sha256": "e0b7380d9f274a3e170c20802ec75e9db0e1e8eddaaac11ede2b01b44ed3d098"
+  },
+  {
+    "path": "libvlc/patches/0042-lib-event-remove-abort.patch",
+    "bytes": 602,
+    "sha256": "0ace93d79c9bc44ccfd999b3bdd37574fe0943fb94771350e6bd03392b79c1c7"
+  },
+  {
+    "path": "libvlc/patches/0043-contrib-upnp-add-patch-to-fix-potential-busyloop.patch",
+    "bytes": 4658,
+    "sha256": "ef4b86b44f35d9b4f6184b29fcd231712f6cd9258d18c65ea6b4be7eaebb0350"
+  },
+  {
+    "path": "libvlc/patches/0044-Work-around-lack-of-__thread-storage-qualifier-on-ol.patch",
+    "bytes": 6827,
+    "sha256": "e8bae5cc92ae33f8641ca1338afd799b2ef80f38fc41f98aee9ed171a1f0e3a6"
+  },
+  {
+    "path": "libvlc/patches/0045-contrib-libebur128-update-cmake-configuration.patch",
+    "bytes": 889,
+    "sha256": "593085227fe2dd57cb5eecaa9d48998b888b3e41b976ddba8529d3ea68b55ae3"
+  },
+  {
+    "path": "libvlc/patches/0046-prefetch-simplify-w-o-cancellation.patch",
+    "bytes": 3003,
+    "sha256": "b3dde53f513a0fa866a2cb69b03b19d49392db27a6c35df1a5c6907a8451dfd9"
+  },
+  {
+    "path": "libvlc/patches/0047-src-input-work-around-production-crash-if-psz_mrl-is.patch",
+    "bytes": 934,
+    "sha256": "159ad2e896e334d62fa38f781781327c4c17602af312ca20f1239a105f30c15f"
+  }
+]

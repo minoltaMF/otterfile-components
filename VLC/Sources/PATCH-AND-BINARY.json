@@ -1,0 +1,1104 @@
+{
+  "status": "EXACT_ALL_47_PATCHES_APPLY_IN_MEMORY_FULL_CONTEXT_NO_FUZZ",
+  "wrapper_commit": "319ed2c0724e3d4c4d34889a62fef1ae269491bc",
+  "libvlc_base_commit": "79128878ddb2c280bbb6c89c76a46b31a80ade1c",
+  "patches": [
+    {
+      "name": "0001-arm_neon-work-around-libtool-issue.patch",
+      "sha256": "bbbcc7578a58003724cf5ca516e63bbd4457c86d27e7699bdfac2e358be57f80",
+      "sections": 1
+    },
+    {
+      "name": "0002-disable-neon-volume-plugin.patch",
+      "sha256": "eb4488988e4ebd1dfabf13383eb5e078af52f34143769db57772405bd0144a7c",
+      "sections": 1
+    },
+    {
+      "name": "0003-Enable-System-DL.patch",
+      "sha256": "c5e4f74a42acc031b1819e31bd7e66e9d6e42f364d84ae2b2044b4cfa0badfd2",
+      "sections": 2
+    },
+    {
+      "name": "0004-http-add-vlc_http_cookies_clear.patch",
+      "sha256": "bf9d827119f93ea89d14e68df6c66427386af311aba95f8aa9b1735e30982715",
+      "sections": 3
+    },
+    {
+      "name": "0005-libvlc_media-add-cookie_jar-API.patch",
+      "sha256": "a22c95e9592940052045c8a613c60ba7510e82ccb81d95b0eac8d2603e1c3b8b",
+      "sections": 5
+    },
+    {
+      "name": "0006-input-Extract-attachment-also-when-preparsing.patch",
+      "sha256": "530cd2a7ac38e2f052cfd837d726be2e98c653cae57e1f22ab8a42c43b4a807c",
+      "sections": 39
+    },
+    {
+      "name": "0007-contrib-use-live555-version-that-is-compatible-with-.patch",
+      "sha256": "b2390f1cae2e3beab7cbabaffb28ac935d5e102efe3243c2eb8596bec9c9d6ed",
+      "sections": 2
+    },
+    {
+      "name": "0008-libvlc-add-a-basic-API-to-change-freetype-s-color-bo.patch",
+      "sha256": "0e754e6bd413a4dd1c5e67ffb437da3b1b731261de2d649c8848e28025fffd89",
+      "sections": 5
+    },
+    {
+      "name": "0009-modules-common-Use-the-full-module-name-as-MODULE_NA.patch",
+      "sha256": "b6b46ff9ae2549e797bf97b61a512ad5588a2cccf89528c26126e6c61196ae22",
+      "sections": 1
+    },
+    {
+      "name": "0010-add-auto-deinterlacer-mode-which-is-also-valid.patch",
+      "sha256": "30fa5aeeda0c11b4fb078c6dc6ba2705b88a57e7e4dfa5c3ea751da44dd7acf5",
+      "sections": 1
+    },
+    {
+      "name": "0011-Users-will-be-able-to-change-the-deinterlace-mode-wi.patch",
+      "sha256": "9dbba11dfbf266d63b97db754b5c8658e9fd41f5a12f8af002500c837f700ae0",
+      "sections": 2
+    },
+    {
+      "name": "0012-contrib-ffmpeg-enable-videotoolbox-encoder.patch",
+      "sha256": "d38e70452f771160ed0e007eb686e75578db4e6f5eb6f73df8ab24243de9e7ad",
+      "sections": 1
+    },
+    {
+      "name": "0013-chromecast-use-vt-encoder-from-avcodec.patch",
+      "sha256": "30dbe9da7a85e28aeb605e36a9435fa043e7081d50ab26cc0237cd563bc8a019",
+      "sections": 1
+    },
+    {
+      "name": "0014-core-expose-config_AutoSaveConfigFile.patch",
+      "sha256": "9ec94eb8da410bf69916682b1ed6dacf529d920ee117b5e0bed2a45253ada4c3",
+      "sections": 4
+    },
+    {
+      "name": "0015-lib-save-configuration-after-playback-parse.patch",
+      "sha256": "1c2e80ab5d605b00de00dc45a342e42d5424911efc438367f34e0753041c9f0a",
+      "sections": 2
+    },
+    {
+      "name": "0016-http-access-retain-auth-struct-for-the-runtime-of-th.patch",
+      "sha256": "f1726b857a82792f729feeb936a791ce95f9058201ce3302c1b54807e3e4a988",
+      "sections": 2
+    },
+    {
+      "name": "0017-libvlc-media_player-Add-record-method.patch",
+      "sha256": "c91d3757e56390ab85f2d79002fe81930699dd0a691e4b65500aa7c381fa0b3e",
+      "sections": 2
+    },
+    {
+      "name": "0018-libvlc-events-Add-callbacks-for-record.patch",
+      "sha256": "31bc91dbd476cc4fba6edb7a8cd0a8e3e9dd432133874e1b3d1d62bfc7131dd3",
+      "sections": 2
+    },
+    {
+      "name": "0019-access_output-file-Add-error-dialog-for-write-open.patch",
+      "sha256": "bb618585958f3d77aeef247981e8a3fef65a3d684716b684b9e5155fd5d6a6a3",
+      "sections": 1
+    },
+    {
+      "name": "0020-transcode-add-support-for-mutliple-venc-parameters.patch",
+      "sha256": "822e1e64f8c4a362e2dbd9847d29db1b60f9bec6611321b9a5996c75713adc96",
+      "sections": 2
+    },
+    {
+      "name": "0021-lib-media-fix-media-not-being-preparsed-after-a-fail.patch",
+      "sha256": "7b0e209b2a28c85d971ee01803e8693e113f82a3da7cd95de69d8c02ba09b766",
+      "sections": 1
+    },
+    {
+      "name": "0022-Add-property-to-configure-an-http-access-token.patch",
+      "sha256": "d04a0ad359cab70cf5d2061d753d8794e63c55fd1d060cd16df0e593267abebe",
+      "sections": 4
+    },
+    {
+      "name": "0023-contrib-libvpx-fix-tvOS-compilation.patch",
+      "sha256": "42a31e9c2398b1442b91de6101b1a35bb1edf1601bef9914e2d55cc37a3d46e8",
+      "sections": 2
+    },
+    {
+      "name": "0024-lib-media_player-add-stop-set_media-async-support.patch",
+      "sha256": "33103b61308bc974f79dbb8c1bb217be9d951b298cb282c1b2dccfd234ac47c9",
+      "sections": 6
+    },
+    {
+      "name": "0025-aout-add-audio-meter-filter-type.patch",
+      "sha256": "c1bad305e45423cc4a67af348d2c9bab914a9e84c6a7576857111ed71ddc8d22",
+      "sections": 3
+    },
+    {
+      "name": "0026-contrib-add-libebur128.patch",
+      "sha256": "32055ec05970cf20cb1ef7242b77d1ed6ac2100985ca99af3435a71c2b2a8719",
+      "sections": 2
+    },
+    {
+      "name": "0027-audio_filter-add-ebur128-audio-meter-plugin.patch",
+      "sha256": "0f819ddc9825636858ba212542338b19e681e562e9ef2b3beecd217b7c0b8469",
+      "sections": 4
+    },
+    {
+      "name": "0028-lib-media_player-add-loudness-event.patch",
+      "sha256": "8e873463a9b1677cbc09cfc59ce211f9f103ed343e754393108e5e9c0a70aadd",
+      "sections": 3
+    },
+    {
+      "name": "0029-ebur128-add-measurement-date.patch",
+      "sha256": "15997cca3ec772af7ac2ce9dc3ab61177fe2f419b1220e01aef43b9982a951b9",
+      "sections": 4
+    },
+    {
+      "name": "0030-contrib-ffmpeg-fix-cross-compilation-for-macOS-on-ma.patch",
+      "sha256": "03b265813094f01b0454152f855f07c1dde71563e182f96d7fe1eaddbf2bb92a",
+      "sections": 1
+    },
+    {
+      "name": "0031-contrib-live555-fix-hostname-lookup-on-iOS-devices.patch",
+      "sha256": "448ca929ca066703a4a3329e2a6567b3ea98412eafaac3d47660059d2b8207b2",
+      "sections": 2
+    },
+    {
+      "name": "0032-http-cookie-fix-double-free.patch",
+      "sha256": "fddb85b7f4054b34a4e7a60c34ccb4bb5b433dd11c44d5f1c2508000e5237e02",
+      "sections": 1
+    },
+    {
+      "name": "0033-upnp-accept-IPv4-interfaces-only-for-iOS-and-use-the.patch",
+      "sha256": "9214e89e1144420a513658d1a05fb8f5badf68c3ecfe5f9e9ca8dc3fa829b56b",
+      "sections": 1
+    },
+    {
+      "name": "0034-adaptive-NULL-http-token.patch",
+      "sha256": "df89a0171416c2163e8636d3a2d8693dbee9c2fef9ec264f34e1937f566d8d6c",
+      "sections": 1
+    },
+    {
+      "name": "0035-keystore-use-the-system-keystore-from-the-first-try.patch",
+      "sha256": "5880079260244f7fdf80b8f0c0c3783cf718d736cbf45c2192aab6fcda4689db",
+      "sections": 1
+    },
+    {
+      "name": "0036-contrib-smb2-prevent-MD5-symbol-conflict.patch",
+      "sha256": "2206e50ca4becfff58572b68a155890a898d3bb733f7648b0fc57e1b4d772d14",
+      "sections": 2
+    },
+    {
+      "name": "0037-smb2-remove-unneeded-compat-code.patch",
+      "sha256": "0e1553a16e8742de94f7e8c37ff3c4b0f94f22115d2698ebb44950a36dee5db4",
+      "sections": 1
+    },
+    {
+      "name": "0038-access-add-a-cache-helper.patch",
+      "sha256": "1612ad9989bdd7a47e25e94c43d23553f05eed8827ffc272db530e31570fb24c",
+      "sections": 5
+    },
+    {
+      "name": "0039-smb2-use-the-cache-helper.patch",
+      "sha256": "55cf02808abbaf8f430f0dd2748362abaded5c03c4067957265af9f77d22bd2f",
+      "sections": 2
+    },
+    {
+      "name": "0040-dsm-use-the-cache-helper.patch",
+      "sha256": "822f37062933a6f10bc08c0f3bb6e8c8438b00d24186ef863109498bca3694a5",
+      "sections": 2
+    },
+    {
+      "name": "0041-Replace-thread-local-with-pthread-TSD.patch",
+      "sha256": "e0b7380d9f274a3e170c20802ec75e9db0e1e8eddaaac11ede2b01b44ed3d098",
+      "sections": 2
+    },
+    {
+      "name": "0042-lib-event-remove-abort.patch",
+      "sha256": "0ace93d79c9bc44ccfd999b3bdd37574fe0943fb94771350e6bd03392b79c1c7",
+      "sections": 1
+    },
+    {
+      "name": "0043-contrib-upnp-add-patch-to-fix-potential-busyloop.patch",
+      "sha256": "ef4b86b44f35d9b4f6184b29fcd231712f6cd9258d18c65ea6b4be7eaebb0350",
+      "sections": 2
+    },
+    {
+      "name": "0044-Work-around-lack-of-__thread-storage-qualifier-on-ol.patch",
+      "sha256": "e8bae5cc92ae33f8641ca1338afd799b2ef80f38fc41f98aee9ed171a1f0e3a6",
+      "sections": 5
+    },
+    {
+      "name": "0045-contrib-libebur128-update-cmake-configuration.patch",
+      "sha256": "593085227fe2dd57cb5eecaa9d48998b888b3e41b976ddba8529d3ea68b55ae3",
+      "sections": 1
+    },
+    {
+      "name": "0046-prefetch-simplify-w-o-cancellation.patch",
+      "sha256": "b3dde53f513a0fa866a2cb69b03b19d49392db27a6c35df1a5c6907a8451dfd9",
+      "sections": 1
+    },
+    {
+      "name": "0047-src-input-work-around-production-crash-if-psz_mrl-is.patch",
+      "sha256": "159ad2e896e334d62fa38f781781327c4c17602af312ca20f1239a105f30c15f",
+      "sections": 1
+    }
+  ],
+  "hunks": 268,
+  "modified_paths": [
+    {
+      "path": "configure.ac",
+      "bytes": 139615,
+      "sha256": "3dc6121bd5c4c0d2ec8e0d9b3a4a46c42e6db4a6b315acf9c88dbcb3742b987b"
+    },
+    {
+      "path": "contrib/src/ffmpeg/patch-as-patch-can.patch",
+      "bytes": 938,
+      "sha256": "5867a78a3eec004e22a5205f952de717445381295e465ebe7c2918fdf6d39a05"
+    },
+    {
+      "path": "contrib/src/ffmpeg/rules.mak",
+      "bytes": 6889,
+      "sha256": "4e1c5a1ddba4f1c681ff705e3e6e7d6a3539401445ec9f25bd14a0fbf773c366"
+    },
+    {
+      "path": "contrib/src/libebur128/rules.mak",
+      "bytes": 683,
+      "sha256": "f9d2fc7b2e884ce9f1b5b467e96f586b5c8d04659df8d6abe118e2458e3db47b"
+    },
+    {
+      "path": "contrib/src/libebur128/SHA512SUMS",
+      "bytes": 154,
+      "sha256": "fd192fc3fef3e7fb8ac7a07676f1353c657b47a73ac05571f194ac97b259cb23"
+    },
+    {
+      "path": "contrib/src/live555/groupsock-fix-hostname-lookup-on-iOS.patch",
+      "bytes": 1981,
+      "sha256": "9bc221be994ddf302239bfe5d60f863ba3b8c52de761f4a65aef1249dc414042"
+    },
+    {
+      "path": "contrib/src/live555/rules.mak",
+      "bytes": 3806,
+      "sha256": "f5eecbde8d6f7d9fa121282be14c2f12913fe793397c898726611fb2f92f14ff"
+    },
+    {
+      "path": "contrib/src/live555/SHA512SUMS",
+      "bytes": 152,
+      "sha256": "6a66160c11361dc1d5b5d4f3f1a5c4b388a971e60a517c2897b621a105dc54c5"
+    },
+    {
+      "path": "contrib/src/smb2/0001-smb2-avoid-MD5-symbol-conflict.patch",
+      "bytes": 4888,
+      "sha256": "275bccfc88275e01ab97c3838984298b7a4d5ba050eb421fa41485691fd57d3e"
+    },
+    {
+      "path": "contrib/src/smb2/rules.mak",
+      "bytes": 634,
+      "sha256": "6e205a978eb32380ffc3b8ed5834fd62776f9a323711a3623582a69ae532b880"
+    },
+    {
+      "path": "contrib/src/upnp/0001-miniserver-fix-busy-loop.patch",
+      "bytes": 3413,
+      "sha256": "192ace5f356029bd6bf6c39ba8c5f802da0334a22dcccb2d13ad0db253deef32"
+    },
+    {
+      "path": "contrib/src/upnp/rules.mak",
+      "bytes": 1769,
+      "sha256": "43e0d3517a7f9f3d783f01fba08216972930c341d221581f6744efb18ca8715f"
+    },
+    {
+      "path": "contrib/src/vpx/libvpx-tvos.patch",
+      "bytes": 859,
+      "sha256": "4e725eb8f79acdeab0b2c85917ee87adfde9f39229be858cfccadb26feda7e8f"
+    },
+    {
+      "path": "contrib/src/vpx/rules.mak",
+      "bytes": 4716,
+      "sha256": "f6afad3247af17eddc2b8cbbd13d821eff025378698589020e66446b23bc4cdb"
+    },
+    {
+      "path": "include/vlc_aout.h",
+      "bytes": 16498,
+      "sha256": "bc96b72412add3134575c17b18caa228fbf354bca1740301e815735bda3bfdb6"
+    },
+    {
+      "path": "include/vlc_configuration.h",
+      "bytes": 9328,
+      "sha256": "d7593653b1cd067efb86e6a9c4cf7aa6187e369dc5a2d180c6881fd4fcc77513"
+    },
+    {
+      "path": "include/vlc_demux.h",
+      "bytes": 17704,
+      "sha256": "dfeaa1d21e749086c7eab3c128002933a7ed4aa3d92343b480b23da1184f25bf"
+    },
+    {
+      "path": "include/vlc_events.h",
+      "bytes": 6714,
+      "sha256": "f1fe87f6343e30091dce2ceaf9d11df705f3367be4dffdece6242161ea0607e1"
+    },
+    {
+      "path": "include/vlc_fixups.h",
+      "bytes": 14577,
+      "sha256": "8083f4465494286a7a2bb2853fec37f392aff00f0adcf585c1668f94c51d31b4"
+    },
+    {
+      "path": "include/vlc_http.h",
+      "bytes": 3592,
+      "sha256": "7dc52c3b8dc6e83c028380e0dd8abfcdf2152cd1f597a2fcbfdf88844969cf8b"
+    },
+    {
+      "path": "include/vlc_input.h",
+      "bytes": 21458,
+      "sha256": "c7d8206b0e10bf50ac7f1b95da5dc92ef05f523b05a1c9c1e4e248acb8787112"
+    },
+    {
+      "path": "include/vlc_list.h",
+      "bytes": 11469,
+      "sha256": "70b21dccabe421f02dd472fa0a294a2cdc4cf260d6e3f88a13a844559078d91a"
+    },
+    {
+      "path": "include/vlc/libvlc_events.h",
+      "bytes": 8857,
+      "sha256": "188e6f31d12330181a513eea27d1d3bcaa69be9a0da5b43c73c1206877065e90"
+    },
+    {
+      "path": "include/vlc/libvlc_media_player.h",
+      "bytes": 75765,
+      "sha256": "a68e90037a4a85bc893f2c01d87a27a475e0b7bbd35b337a27d8df7bc5187dff"
+    },
+    {
+      "path": "include/vlc/libvlc_media.h",
+      "bytes": 29736,
+      "sha256": "1f9346b40b6fb3299b752e788a92f31f38ae58e1852c92c2832db8c88e988c91"
+    },
+    {
+      "path": "include/vlc/libvlc_picture.h",
+      "bytes": 4474,
+      "sha256": "6da9b8306e325e327fda361847edcc0996a7ab23b11dbe3fe54d891cc6e46fb7"
+    },
+    {
+      "path": "include/vlc/vlc.h",
+      "bytes": 1975,
+      "sha256": "34020052c1cff7a9a859cb4283a9f9a05ccbbcdd0d46c783d35b2a07f58632bd"
+    },
+    {
+      "path": "lib/event.c",
+      "bytes": 7925,
+      "sha256": "165359f48521683d1ff40cedfc49f37dbafd08aeeb604a3f411eb55112b3f9c6"
+    },
+    {
+      "path": "lib/libvlc_internal.h",
+      "bytes": 3817,
+      "sha256": "6cc46b246502d3e87ebeb72d5f3d9a56079e28e1d74ff312042c92a721fe618d"
+    },
+    {
+      "path": "lib/libvlc.sym",
+      "bytes": 9559,
+      "sha256": "cb022c5f269db030f0e9de87efb89e58c07d9bb672f0bd748a9338b817fccb73"
+    },
+    {
+      "path": "lib/Makefile.am",
+      "bytes": 2305,
+      "sha256": "5d46486d206a76f8c1f2e6a2e8ebd532b6a8464c230e4e7bdd226931eec65a5a"
+    },
+    {
+      "path": "lib/media_discoverer.c",
+      "bytes": 14200,
+      "sha256": "6564640e73c078c28fab7e562bb761190085d5f9dc04dbf32147bec9f36da377"
+    },
+    {
+      "path": "lib/media_internal.h",
+      "bytes": 2243,
+      "sha256": "22fe6bb21b485e424a44f8961d763a330b8fc673d2e47191c0804b43d949893a"
+    },
+    {
+      "path": "lib/media_list_player.c",
+      "bytes": 29302,
+      "sha256": "b2855b16f31573f1bddfce2cce99b7b9cea535dfa071791b1d1723324e6ea5be"
+    },
+    {
+      "path": "lib/media_list.c",
+      "bytes": 15743,
+      "sha256": "516b814c34ebc0d4bef2d8507dead16d8136efeefb730d9be67a811c0550115c"
+    },
+    {
+      "path": "lib/media_player_internal.h",
+      "bytes": 2621,
+      "sha256": "f02f5b22da4181566eda7bdc16e86777e07a994145f20ef77ee13fa16d3a4968"
+    },
+    {
+      "path": "lib/media_player.c",
+      "bytes": 73639,
+      "sha256": "4f284fc827d6c7a2eda3b715137c7662badfbd784807b4dfbbc3e2985d990947"
+    },
+    {
+      "path": "lib/media.c",
+      "bytes": 46578,
+      "sha256": "8becd681cc4e0d4f6e3ebfe4ab8ebaa4031df49c72e8f65d1e0eb0f213287334"
+    },
+    {
+      "path": "lib/picture_internal.h",
+      "bytes": 2195,
+      "sha256": "66687fa00bd910ecc633ddff39611c04b2d1b1d74f56e8612653db1052505916"
+    },
+    {
+      "path": "lib/picture.c",
+      "bytes": 6985,
+      "sha256": "b2d69fa553c02d9d45cbc04184696ed996ba46e641ea063ca2d2d8637fdfe7da"
+    },
+    {
+      "path": "lib/video.c",
+      "bytes": 33693,
+      "sha256": "2fa1300551f5e1023ca305f6183bd86da71b9a245b67e96d10e177532c827400"
+    },
+    {
+      "path": "modules/access_output/file.c",
+      "bytes": 12237,
+      "sha256": "f88a16ea5310a28d5aa41b378e1172d29d33cc41ee51224d15422bf330969151"
+    },
+    {
+      "path": "modules/access/attachment.c",
+      "bytes": 4713,
+      "sha256": "5b03c2707afc150c80e2d52c4ae1b57b69acd117aaf65f953aed2c9e61575c73"
+    },
+    {
+      "path": "modules/access/bluray.c",
+      "bytes": 102829,
+      "sha256": "bcbf273151b0c7ab29aea3e742bf044ff7155709394d472ba062d80733745d03"
+    },
+    {
+      "path": "modules/access/cache.c",
+      "bytes": 5772,
+      "sha256": "c385d781b599b1e1786a74e2df4244425361cac870923063cc3bd9985aee7d16"
+    },
+    {
+      "path": "modules/access/cache.h",
+      "bytes": 4091,
+      "sha256": "2893d01e6927b8cf4a476765d3a8af10ac336c4d4e2f63ea43a7f33709cad0eb"
+    },
+    {
+      "path": "modules/access/dsm/access.c",
+      "bytes": 26544,
+      "sha256": "ca32f04be06ea107732356350146a83dc5188adf057736c0945033ab7af581ae"
+    },
+    {
+      "path": "modules/access/http.c",
+      "bytes": 31535,
+      "sha256": "3336699e80a74f214f85e8ab7b955920d8613b0503eeb92934b83edf4660b0ef"
+    },
+    {
+      "path": "modules/access/http/access.c",
+      "bytes": 8918,
+      "sha256": "082dfd55e0971ff4c1511530dc6411df340af4efd2ecf02ea628377eab5a424e"
+    },
+    {
+      "path": "modules/access/http/resource.c",
+      "bytes": 10962,
+      "sha256": "276072f0e0c07208b4296f8021c2127a224246badefa14458f8209f369e5c791"
+    },
+    {
+      "path": "modules/access/http/resource.h",
+      "bytes": 3216,
+      "sha256": "ba936c2bcfd3e775851d90812d299daa027270430987d3d3272e0bfaab6a2f95"
+    },
+    {
+      "path": "modules/access/Makefile.am",
+      "bytes": 16550,
+      "sha256": "47a8a99ab7d7b58e9b688329ce54865664e5b7834480d7d6b19bc262d43b65e9"
+    },
+    {
+      "path": "modules/access/smb2.c",
+      "bytes": 26680,
+      "sha256": "95ff2accafb97c508b722979861e700633044bf22e0cd8de7425a38f5b5b888c"
+    },
+    {
+      "path": "modules/arm_neon/Makefile.am",
+      "bytes": 899,
+      "sha256": "e0144f0fedeb3234995e431fbc0768374e7ff235f3e04457070d745bd47034d7"
+    },
+    {
+      "path": "modules/audio_filter/libebur128.c",
+      "bytes": 8712,
+      "sha256": "fac0eb55022b09faf26fb3eeb2dbdeb1bc4bffc6f32d1a389e3631fe8a6decb7"
+    },
+    {
+      "path": "modules/audio_filter/Makefile.am",
+      "bytes": 5765,
+      "sha256": "eaa1bfc61296d9b63b78cb9ae0326598dd81acc37726a9a015ebde9190b0bd19"
+    },
+    {
+      "path": "modules/codec/libass.c",
+      "bytes": 26613,
+      "sha256": "98a2d5c66605772f537259dd2e76936e59a88ff5543a5b529776946de45a7ae0"
+    },
+    {
+      "path": "modules/codec/subsusf.c",
+      "bytes": 44339,
+      "sha256": "181f97374be4797280c681939db48fe21b05ecff5ada120784b5e2c504783d53"
+    },
+    {
+      "path": "modules/common.am",
+      "bytes": 1154,
+      "sha256": "cd69b980bc64be2e5dd1a55266bf6d1dcca1a4f94f693f801122768168aa7bf0"
+    },
+    {
+      "path": "modules/demux/adaptive/http/HTTPConnection.cpp",
+      "bytes": 16674,
+      "sha256": "bb803379a246df9ed0304948b4076a79772d877c74f7a87b514fb71d8a68fb67"
+    },
+    {
+      "path": "modules/demux/avformat/demux.c",
+      "bytes": 43385,
+      "sha256": "0e04aae769ba570041b926c3e460cca2c06b926b2c264b3df759dd63a80b078c"
+    },
+    {
+      "path": "modules/demux/avi/avi.c",
+      "bytes": 109501,
+      "sha256": "8fb30dcdc8077bab749d8e8469f8af9da5167d1c8b2933bd80d821d597063c1d"
+    },
+    {
+      "path": "modules/demux/flac.c",
+      "bytes": 26950,
+      "sha256": "779731ff784d99cc4c9413787d9840f4449387740dfc31ad0b2b170ce216b9f0"
+    },
+    {
+      "path": "modules/demux/mkv/demux.cpp",
+      "bytes": 28935,
+      "sha256": "257d69824cdda823ee74447f389028cfdcc53d8a776db69218975fb9b0ae2f44"
+    },
+    {
+      "path": "modules/demux/mkv/demux.hpp",
+      "bytes": 14043,
+      "sha256": "3cd51250b849ea3ae670504df82fba0c74d7108b9478627e2096dd34375b7a8b"
+    },
+    {
+      "path": "modules/demux/mkv/matroska_segment_parse.cpp",
+      "bytes": 81606,
+      "sha256": "1295f981dd5845b179e480d723633ee90ca6c4681cdc12769e40bab6867b51b7"
+    },
+    {
+      "path": "modules/demux/mkv/mkv.cpp",
+      "bytes": 31540,
+      "sha256": "691e96907991e12b0dae4a3d8c08c681494969cbb899248a4c2bb1e6abfa8174"
+    },
+    {
+      "path": "modules/demux/mkv/mkv.hpp",
+      "bytes": 6250,
+      "sha256": "e58a8496603695c112f08f00e15bceb808e05a5ebf222a2c2343cde375b7a015"
+    },
+    {
+      "path": "modules/demux/mp4/mp4.c",
+      "bytes": 182732,
+      "sha256": "d4d48c366fb8ca180bbb39ad1fd9c8eee47604359b613dee6ee6833ef0e65954"
+    },
+    {
+      "path": "modules/demux/mpeg/ts.c",
+      "bytes": 94740,
+      "sha256": "f73a23a6ac47821f70ab399cda55e4cedc173b5db8c34b6cd1add0ec5196771f"
+    },
+    {
+      "path": "modules/demux/ogg.c",
+      "bytes": 136820,
+      "sha256": "d7b403be6aed38b575205f90bcc5f54a2bb396177546905763555fa47d2f7634"
+    },
+    {
+      "path": "modules/services_discovery/upnp.cpp",
+      "bytes": 56315,
+      "sha256": "05e847a88bd1a79854cb66cccbf80c321bec73cd8f010fa63d76350684597bc9"
+    },
+    {
+      "path": "modules/stream_filter/prefetch.c",
+      "bytes": 16785,
+      "sha256": "5563b01f1c2269112dd8ba5025ca021f195e3c2705a5fed7b5e49699ab3d62b0"
+    },
+    {
+      "path": "modules/stream_out/chromecast/cast.cpp",
+      "bytes": 49462,
+      "sha256": "fb4a3701573dff4d27d0dff112226f73064ab717e727f2bd7d48c827f4c995ac"
+    },
+    {
+      "path": "modules/stream_out/transcode/transcode.c",
+      "bytes": 27807,
+      "sha256": "3e2ae46fa863a8a6561b04c9a81fbbdb6a5bcb6b40ccb209de2b3b9e9d319401"
+    },
+    {
+      "path": "modules/stream_out/transcode/transcode.h",
+      "bytes": 4347,
+      "sha256": "63a95513f04629ae8bc5d8a38de81b4e9c9ba90dbcd21a887c022e97dd77a4d2"
+    },
+    {
+      "path": "modules/text_renderer/freetype/freetype.c",
+      "bytes": 60813,
+      "sha256": "f2dc2dce280588485bf5fb5d279531559e70aca371aded5e18b4e6e4c50e8e97"
+    },
+    {
+      "path": "po/POTFILES.in",
+      "bytes": 42679,
+      "sha256": "c724c2897dcc75b3ec86efe03d29bbdefe57fc2b613b7ac9bd8c9242105f8dfa"
+    },
+    {
+      "path": "src/audio_output/filters.c",
+      "bytes": 26286,
+      "sha256": "16f377467682fb9efb20430f80df2888ab439f9d2a77a52bc39b3a9fd2e4d4d9"
+    },
+    {
+      "path": "src/audio_output/output.c",
+      "bytes": 29142,
+      "sha256": "bbaaae17e358ffc23a154f7d04cadf162fdd4495d26e8be7c644eb7d0ff069ad"
+    },
+    {
+      "path": "src/config/configuration.h",
+      "bytes": 2196,
+      "sha256": "4713f6cd961c5a05b9a872855fa7d35303255c0eb06a24843e3ac5c1cf19dc84"
+    },
+    {
+      "path": "src/config/file.c",
+      "bytes": 16263,
+      "sha256": "6e13b053fac14aae1a4ea4d8fc6ec41326f2adc7289093292dc7e14ca6379b82"
+    },
+    {
+      "path": "src/extras/tdestroy.c",
+      "bytes": 2875,
+      "sha256": "47d8e47d9bb8c8115237aa105cf4af06df9c9b290bfaa7f5be5600c938f35ecf"
+    },
+    {
+      "path": "src/input/attachment.c",
+      "bytes": 3267,
+      "sha256": "f1697ed378443a1729d4466e5bd69b63d64c3665b7f594f9cc7bceff9d501de0"
+    },
+    {
+      "path": "src/input/control.c",
+      "bytes": 22885,
+      "sha256": "eaa6e3e5523065512f5cc22e4c905fe0f449f91f4ba224ce8f49685e601c8779"
+    },
+    {
+      "path": "src/input/input_internal.h",
+      "bytes": 8341,
+      "sha256": "5ddeac7546d9daec17bae2718aece8b8aa4a29221131c1b4d8014cfddacfbfb6"
+    },
+    {
+      "path": "src/input/input.c",
+      "bytes": 117407,
+      "sha256": "77cb1fd757a505c6c6dc90d4f2a01cca6ab0c57fd551f17d3f02ee0851a9b0e1"
+    },
+    {
+      "path": "src/input/meta.c",
+      "bytes": 10229,
+      "sha256": "396bc13daa5506e42d47ab5b82eb934db2d0af10280f6a9f789ccf416cabe3e7"
+    },
+    {
+      "path": "src/libvlc.c",
+      "bytes": 17893,
+      "sha256": "6b6b0812f60284bfb916cdc828e8bf4e55555556a508955e96ba31ec8b37f76a"
+    },
+    {
+      "path": "src/libvlccore.sym",
+      "bytes": 14314,
+      "sha256": "95f0a4cf2532f95f45b7cc4619a42bb5168045444a462560e864682dbb99578f"
+    },
+    {
+      "path": "src/Makefile.am",
+      "bytes": 15114,
+      "sha256": "3dc74660a55c391ebc451f8e5d5cfa3a3ded45a791a49bb7b192bb8ff712a416"
+    },
+    {
+      "path": "src/misc/httpcookies.c",
+      "bytes": 11261,
+      "sha256": "45c254892404e348f7956b6243772cf8963639ee19860df04b61d0ad6d22407b"
+    },
+    {
+      "path": "src/misc/interrupt.c",
+      "bytes": 18774,
+      "sha256": "db582e30a483972c653c08d748de9ca706e5eced6b1ea513fb2329e3c983e41e"
+    },
+    {
+      "path": "src/misc/keystore.c",
+      "bytes": 18561,
+      "sha256": "ed4217380b4f289cbaaa6e557d1a89166ff4eca32687a84913cee88a84b6bc23"
+    },
+    {
+      "path": "src/misc/variables.c",
+      "bytes": 42205,
+      "sha256": "a7fdb6ed858fb6632a16cfd3041ccaad0aa48e1cb85f3d2472db2f60bc66babf"
+    },
+    {
+      "path": "src/network/http_auth.c",
+      "bytes": 17022,
+      "sha256": "67bf863335d53dde00b648db95c5000f29e1bde982937d53e17535f5ac3bcf2a"
+    },
+    {
+      "path": "test/libvlc/media_player.c",
+      "bytes": 7112,
+      "sha256": "a87bf0797beafb3633cdccf6354c4113f60712bfe383072614eed005470bde15"
+    }
+  ],
+  "new_files": [
+    "contrib/src/ffmpeg/patch-as-patch-can.patch",
+    "include/vlc/libvlc_picture.h",
+    "lib/picture.c",
+    "lib/picture_internal.h",
+    "src/input/attachment.c",
+    "contrib/src/vpx/libvpx-tvos.patch",
+    "contrib/src/libebur128/SHA512SUMS",
+    "contrib/src/libebur128/rules.mak",
+    "modules/audio_filter/libebur128.c",
+    "contrib/src/live555/groupsock-fix-hostname-lookup-on-iOS.patch",
+    "contrib/src/smb2/0001-smb2-avoid-MD5-symbol-conflict.patch",
+    "include/vlc_list.h",
+    "modules/access/cache.c",
+    "modules/access/cache.h",
+    "contrib/src/upnp/0001-miniserver-fix-busy-loop.patch"
+  ],
+  "renamed_files": [
+    {
+      "from": "compat/tdestroy.c",
+      "to": "src/extras/tdestroy.c",
+      "patch": "0044-Work-around-lack-of-__thread-storage-qualifier-on-ol.patch"
+    }
+  ],
+  "removed_paths": [
+    "compat/tdestroy.c"
+  ],
+  "exact_context_verified": true,
+  "recordedOffsets": [
+    {
+      "hunk": 1,
+      "expectedLine": 3774,
+      "actualLine": 3777,
+      "offset": 3,
+      "contextDiscarded": false,
+      "patch": "0027-audio_filter-add-ebur128-audio-meter-plugin.patch",
+      "path": "configure.ac"
+    },
+    {
+      "hunk": 1,
+      "expectedLine": 1570,
+      "actualLine": 1572,
+      "offset": 2,
+      "contextDiscarded": false,
+      "patch": "0033-upnp-accept-IPv4-interfaces-only-for-iOS-and-use-the.patch",
+      "path": "modules/services_discovery/upnp.cpp"
+    }
+  ],
+  "contextLinesDiscarded": false,
+  "patched_source_files_written": false,
+  "generated_git_am_commit_identity_verified": false,
+  "original_licenses": [
+    {
+      "path": "vlckit/COPYING",
+      "bytes": 26530,
+      "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551",
+      "originalUnmodified": true
+    },
+    {
+      "path": "vlc/COPYING",
+      "bytes": 18092,
+      "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+      "originalUnmodified": true
+    },
+    {
+      "path": "vlc/COPYING.LIB",
+      "bytes": 26530,
+      "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551",
+      "originalUnmodified": true
+    }
+  ],
+  "production_contrib_graph_verified": false,
+  "upstream_scripts_executed": false,
+  "contrib_archives_downloaded": false,
+  "packageBinaryEvidence": {
+    "scope": "MobileVLCKit 3.7.3 restored official device fat library; symbol extraction restricted to arm64",
+    "packageDeviceFatBinarySHA256": "86186f43ec1cf3d74bb84ae11e4eeda4a3a4aa1f1fcfd0c255ca0adc0fa954e3",
+    "symbolArchitecture": "arm64",
+    "vlcEntrySymbols": [
+      "_vlc_entry__access_attachment",
+      "_vlc_entry__access_concat",
+      "_vlc_entry__access_dsm_libdsm",
+      "_vlc_entry__access_ftp",
+      "_vlc_entry__access_http",
+      "_vlc_entry__access_http_access",
+      "_vlc_entry__access_idummy",
+      "_vlc_entry__access_imem_access",
+      "_vlc_entry__access_libavio",
+      "_vlc_entry__access_libfilesystem",
+      "_vlc_entry__access_liblive555",
+      "_vlc_entry__access_libnfs",
+      "_vlc_entry__access_librist",
+      "_vlc_entry__access_libsftp",
+      "_vlc_entry__access_libsmb2",
+      "_vlc_entry__access_mms_libaccess_mms",
+      "_vlc_entry__access_output_dummy",
+      "_vlc_entry__access_output_file",
+      "_vlc_entry__access_output_http",
+      "_vlc_entry__access_output_libaccess_output_rist",
+      "_vlc_entry__access_output_libaccess_output_shout",
+      "_vlc_entry__access_rtp_librtp",
+      "_vlc_entry__access_satip",
+      "_vlc_entry__access_sdp",
+      "_vlc_entry__access_tcp",
+      "_vlc_entry__access_timecode",
+      "_vlc_entry__access_udp",
+      "_vlc_entry__access_vdr",
+      "_vlc_entry__audio_filter_channel_mixer_dolby",
+      "_vlc_entry__audio_filter_channel_mixer_libsimple_channel_mixer",
+      "_vlc_entry__audio_filter_channel_mixer_libspatialaudio",
+      "_vlc_entry__audio_filter_channel_mixer_mono",
+      "_vlc_entry__audio_filter_channel_mixer_trivial",
+      "_vlc_entry__audio_filter_chorus_flanger",
+      "_vlc_entry__audio_filter_compressor",
+      "_vlc_entry__audio_filter_converter_libaudio_format",
+      "_vlc_entry__audio_filter_converter_tospdif",
+      "_vlc_entry__audio_filter_equalizer",
+      "_vlc_entry__audio_filter_gain",
+      "_vlc_entry__audio_filter_karaoke",
+      "_vlc_entry__audio_filter_libebur128",
+      "_vlc_entry__audio_filter_libscaletempo_pitch",
+      "_vlc_entry__audio_filter_normvol",
+      "_vlc_entry__audio_filter_param_eq",
+      "_vlc_entry__audio_filter_resampler_libsoxr",
+      "_vlc_entry__audio_filter_resampler_ugly",
+      "_vlc_entry__audio_filter_scaletempo",
+      "_vlc_entry__audio_filter_spatializer_spatializer",
+      "_vlc_entry__audio_filter_stereo_widen",
+      "_vlc_entry__audio_mixer_libfloat_mixer",
+      "_vlc_entry__audio_mixer_libinteger_mixer",
+      "_vlc_entry__audio_output_adummy",
+      "_vlc_entry__audio_output_amem",
+      "_vlc_entry__audio_output_audiounit_ios",
+      "_vlc_entry__audio_output_libafile",
+      "_vlc_entry__codec_adpcm",
+      "_vlc_entry__codec_aes3",
+      "_vlc_entry__codec_araw",
+      "_vlc_entry__codec_audiotoolbox_midi",
+      "_vlc_entry__codec_avcodec_libavcodec",
+      "_vlc_entry__codec_cc",
+      "_vlc_entry__codec_cdg",
+      "_vlc_entry__codec_cvdsub",
+      "_vlc_entry__codec_ddummy",
+      "_vlc_entry__codec_dvbsub",
+      "_vlc_entry__codec_edummy",
+      "_vlc_entry__codec_g711",
+      "_vlc_entry__codec_libaom",
+      "_vlc_entry__codec_libdav1d",
+      "_vlc_entry__codec_libflac",
+      "_vlc_entry__codec_liblibass",
+      "_vlc_entry__codec_libmpg123",
+      "_vlc_entry__codec_liboggspots",
+      "_vlc_entry__codec_libopus",
+      "_vlc_entry__codec_libspeex",
+      "_vlc_entry__codec_libtheora",
+      "_vlc_entry__codec_libtwolame",
+      "_vlc_entry__codec_libvideotoolbox",
+      "_vlc_entry__codec_libvorbis",
+      "_vlc_entry__codec_libvpx",
+      "_vlc_entry__codec_libzvbi",
+      "_vlc_entry__codec_lpcm",
+      "_vlc_entry__codec_png",
+      "_vlc_entry__codec_rawvideo",
+      "_vlc_entry__codec_rtpvideo",
+      "_vlc_entry__codec_scte18",
+      "_vlc_entry__codec_scte27",
+      "_vlc_entry__codec_spdif",
+      "_vlc_entry__codec_spudec_libspudec",
+      "_vlc_entry__codec_stl",
+      "_vlc_entry__codec_subsdec",
+      "_vlc_entry__codec_substx3g",
+      "_vlc_entry__codec_subsusf",
+      "_vlc_entry__codec_svcdsub",
+      "_vlc_entry__codec_telx",
+      "_vlc_entry__codec_textst",
+      "_vlc_entry__codec_ttml_ttml",
+      "_vlc_entry__codec_uleaddvaudio",
+      "_vlc_entry__codec_webvtt_libwebvtt",
+      "_vlc_entry__control_dummy",
+      "_vlc_entry__core",
+      "_vlc_entry__demux_adaptive_libadaptive",
+      "_vlc_entry__demux_aiff",
+      "_vlc_entry__demux_asf_asf",
+      "_vlc_entry__demux_au",
+      "_vlc_entry__demux_avformat_libavformat",
+      "_vlc_entry__demux_avi_avi",
+      "_vlc_entry__demux_caf",
+      "_vlc_entry__demux_demuxdump",
+      "_vlc_entry__demux_directory",
+      "_vlc_entry__demux_dmxmus",
+      "_vlc_entry__demux_filter_noseek",
+      "_vlc_entry__demux_image",
+      "_vlc_entry__demux_libdemux_cdg",
+      "_vlc_entry__demux_libdemux_stl",
+      "_vlc_entry__demux_libdiracsys",
+      "_vlc_entry__demux_libflacsys",
+      "_vlc_entry__demux_libmod",
+      "_vlc_entry__demux_libogg",
+      "_vlc_entry__demux_mjpeg",
+      "_vlc_entry__demux_mkv_libmkv",
+      "_vlc_entry__demux_mp4_mp4",
+      "_vlc_entry__demux_mpeg_es",
+      "_vlc_entry__demux_mpeg_h26x",
+      "_vlc_entry__demux_mpeg_libts",
+      "_vlc_entry__demux_mpeg_mpgv",
+      "_vlc_entry__demux_mpeg_ps",
+      "_vlc_entry__demux_nsc",
+      "_vlc_entry__demux_nsv",
+      "_vlc_entry__demux_nuv",
+      "_vlc_entry__demux_playlist_playlist",
+      "_vlc_entry__demux_pva",
+      "_vlc_entry__demux_rawaud",
+      "_vlc_entry__demux_rawdv",
+      "_vlc_entry__demux_rawvid",
+      "_vlc_entry__demux_subtitle",
+      "_vlc_entry__demux_tta",
+      "_vlc_entry__demux_ty",
+      "_vlc_entry__demux_vc1",
+      "_vlc_entry__demux_vobsub",
+      "_vlc_entry__demux_voc",
+      "_vlc_entry__demux_wav",
+      "_vlc_entry__demux_xa",
+      "_vlc_entry__keystore_file",
+      "_vlc_entry__keystore_memory",
+      "_vlc_entry__logger_syslog",
+      "_vlc_entry__meta_engine_folder",
+      "_vlc_entry__meta_engine_libtaglib",
+      "_vlc_entry__misc_libsecuretransport",
+      "_vlc_entry__misc_rtsp",
+      "_vlc_entry__misc_xml_libxml",
+      "_vlc_entry__mux_asf",
+      "_vlc_entry__mux_avi",
+      "_vlc_entry__mux_dummy",
+      "_vlc_entry__mux_libmux_ogg",
+      "_vlc_entry__mux_mp4_mp4",
+      "_vlc_entry__mux_mpeg_libmux_ts",
+      "_vlc_entry__mux_mpeg_ps",
+      "_vlc_entry__mux_mpjpeg",
+      "_vlc_entry__mux_wav",
+      "_vlc_entry__packetizer_a52",
+      "_vlc_entry__packetizer_av1",
+      "_vlc_entry__packetizer_copy",
+      "_vlc_entry__packetizer_dirac",
+      "_vlc_entry__packetizer_dts",
+      "_vlc_entry__packetizer_flac",
+      "_vlc_entry__packetizer_h264",
+      "_vlc_entry__packetizer_hevc",
+      "_vlc_entry__packetizer_libpacketizer_avparser",
+      "_vlc_entry__packetizer_mlp",
+      "_vlc_entry__packetizer_mpeg4audio",
+      "_vlc_entry__packetizer_mpeg4video",
+      "_vlc_entry__packetizer_mpegaudio",
+      "_vlc_entry__packetizer_mpegvideo",
+      "_vlc_entry__packetizer_vc1",
+      "_vlc_entry__services_discovery_libbonjour",
+      "_vlc_entry__services_discovery_libupnp",
+      "_vlc_entry__spu_logo",
+      "_vlc_entry__spu_subsdelay",
+      "_vlc_entry__stream_extractor_libarchive",
+      "_vlc_entry__stream_filter_adf",
+      "_vlc_entry__stream_filter_cache_block",
+      "_vlc_entry__stream_filter_cache_read",
+      "_vlc_entry__stream_filter_decomp",
+      "_vlc_entry__stream_filter_hds_libhds",
+      "_vlc_entry__stream_filter_inflate",
+      "_vlc_entry__stream_filter_prefetch",
+      "_vlc_entry__stream_filter_record",
+      "_vlc_entry__stream_filter_skiptags",
+      "_vlc_entry__stream_out_autodel",
+      "_vlc_entry__stream_out_bridge",
+      "_vlc_entry__stream_out_chromecast_libdemux_chromecast",
+      "_vlc_entry__stream_out_chromecast_libstream_out_chromecast",
+      "_vlc_entry__stream_out_cycle",
+      "_vlc_entry__stream_out_delay",
+      "_vlc_entry__stream_out_description",
+      "_vlc_entry__stream_out_display",
+      "_vlc_entry__stream_out_dummy",
+      "_vlc_entry__stream_out_duplicate",
+      "_vlc_entry__stream_out_es",
+      "_vlc_entry__stream_out_gather",
+      "_vlc_entry__stream_out_libstream_out_rtp",
+      "_vlc_entry__stream_out_libstream_out_standard",
+      "_vlc_entry__stream_out_record",
+      "_vlc_entry__stream_out_setid",
+      "_vlc_entry__stream_out_smem",
+      "_vlc_entry__stream_out_transcode_libstream_out_transcode",
+      "_vlc_entry__text_renderer_freetype_libfreetype",
+      "_vlc_entry__text_renderer_tdummy",
+      "_vlc_entry__video_chroma_chain",
+      "_vlc_entry__video_chroma_grey_yuv",
+      "_vlc_entry__video_chroma_i420_rgb",
+      "_vlc_entry__video_chroma_i422_i420",
+      "_vlc_entry__video_chroma_libcvpx",
+      "_vlc_entry__video_chroma_libi420_10_p010",
+      "_vlc_entry__video_chroma_libi420_nv12",
+      "_vlc_entry__video_chroma_libi420_yuy2",
+      "_vlc_entry__video_chroma_libi422_yuy2",
+      "_vlc_entry__video_chroma_libswscale",
+      "_vlc_entry__video_chroma_rv32",
+      "_vlc_entry__video_chroma_yuvp",
+      "_vlc_entry__video_chroma_yuy2_i420",
+      "_vlc_entry__video_chroma_yuy2_i422",
+      "_vlc_entry__video_filter_adjust",
+      "_vlc_entry__video_filter_blend",
+      "_vlc_entry__video_filter_canvas",
+      "_vlc_entry__video_filter_ci_filters",
+      "_vlc_entry__video_filter_croppadd",
+      "_vlc_entry__video_filter_deinterlace_libdeinterlace",
+      "_vlc_entry__video_filter_edgedetection",
+      "_vlc_entry__video_filter_fps",
+      "_vlc_entry__video_filter_freeze",
+      "_vlc_entry__video_filter_magnify",
+      "_vlc_entry__video_filter_rotate",
+      "_vlc_entry__video_filter_scale",
+      "_vlc_entry__video_filter_transform",
+      "_vlc_entry__video_output_flaschen",
+      "_vlc_entry__video_output_ios",
+      "_vlc_entry__video_output_opengl_libglconv_cvpx",
+      "_vlc_entry__video_output_vdummy",
+      "_vlc_entry__video_output_vmem",
+      "_vlc_entry__video_output_yuv"
+    ],
+    "entryCount": 242,
+    "entryListSHA256": "8b04d075f650e82b930417abb7b1620cfcc9113730324c771b4f46bfcbe02579",
+    "notRegistrationOrCompleteDependencyProof": true,
+    "notFinalSignedAppBinding": true
+  },
+  "observedDependencyCandidates": [
+    {
+      "symbol": "_vlc_entry__access_libnfs",
+      "candidateContrib": "nfs",
+      "proofLevel": "entry_symbol_present_dependency_recipe_is_candidate_not_production_build_receipt"
+    },
+    {
+      "symbol": "_vlc_entry__access_libsftp",
+      "candidateContrib": "ssh2",
+      "proofLevel": "entry_symbol_present_dependency_recipe_is_candidate_not_production_build_receipt"
+    },
+    {
+      "symbol": "_vlc_entry__access_libsmb2",
+      "candidateContrib": "smb2",
+      "proofLevel": "entry_symbol_present_dependency_recipe_is_candidate_not_production_build_receipt"
+    },
+    {
+      "symbol": "_vlc_entry__access_dsm_libdsm",
+      "candidateContrib": "libdsm",
+      "proofLevel": "entry_symbol_present_dependency_recipe_is_candidate_not_production_build_receipt"
+    },
+    {
+      "symbol": "_vlc_entry__access_liblive555",
+      "candidateContrib": "live555",
+      "proofLevel": "entry_symbol_present_dependency_recipe_is_candidate_not_production_build_receipt"
+    },
+    {
+      "symbol": "_vlc_entry__codec_avcodec_libavcodec",
+      "candidateContrib": "ffmpeg",
+      "proofLevel": "entry_symbol_present_dependency_recipe_is_candidate_not_production_build_receipt"
+    },
+    {
+      "symbol": "_vlc_entry__demux_avformat_libavformat",
+      "candidateContrib": "ffmpeg",
+      "proofLevel": "entry_symbol_present_dependency_recipe_is_candidate_not_production_build_receipt"
+    },
+    {
+      "symbol": "_vlc_entry__codec_libvpx",
+      "candidateContrib": "vpx",
+      "proofLevel": "entry_symbol_present_dependency_recipe_is_candidate_not_production_build_receipt"
+    },
+    {
+      "symbol": "_vlc_entry__audio_filter_libebur128",
+      "candidateContrib": "libebur128",
+      "proofLevel": "entry_symbol_present_dependency_recipe_is_candidate_not_production_build_receipt"
+    }
+  ]
+}

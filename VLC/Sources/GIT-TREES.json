@@ -1,0 +1,25 @@
+{
+  "status": "EXACT_COMMIT_GIT_TREE_PASS",
+  "results": [
+    {
+      "name": "vlckit",
+      "commit": "319ed2c0724e3d4c4d34889a62fef1ae269491bc",
+      "expected_tree": "e5ae8d66fd33ca6a56ecdf90784223d80a0f779d",
+      "recomputed_tree": "e5ae8d66fd33ca6a56ecdf90784223d80a0f779d",
+      "matches": true,
+      "regularFiles": 680,
+      "linksRepresentedAsGitBlobsNotFollowed": 1
+    },
+    {
+      "name": "vlc",
+      "commit": "79128878ddb2c280bbb6c89c76a46b31a80ade1c",
+      "expected_tree": "a123485f744417f271c38e8ca594b679a7c68f9f",
+      "recomputed_tree": "a123485f744417f271c38e8ca594b679a7c68f9f",
+      "matches": true,
+      "regularFiles": 4443,
+      "linksRepresentedAsGitBlobsNotFollowed": 0
+    }
+  ],
+  "method": "Git blob and recursive tree SHA1 reconstructed from original tar members; symlinks hashed as link text without following them",
+  "upstreamScriptsExecuted": false
+}
